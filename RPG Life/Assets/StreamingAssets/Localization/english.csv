@@ -1,0 +1,1258 @@
+﻿label,Value
+
+# ========== CLASSES ==========
+
+archer,"Archer"
+warrior,"Warrior"
+mage,"Mage"
+
+# ========== NAVIGATION PANEL ==========
+
+inventory,"Inventory"
+shop,"Shop"
+quests,"Quests"
+dailies,"Dailies"
+habits,"Habits"
+
+language,"Language"
+faq,"FAQ"
+contact,"Contact"
+account,"Account"
+status,"Status"
+
+# ========== TABS ==========
+
+allLabel,"All"
+todayLabel,"Today"
+pendingLabel,"Pending"
+completedLabel,"Done"
+newLabel,"New"
+
+# ========== SHOP ==========
+
+newItemAdded,"New item added to inventory"
+notEnoughToBuy,"You don't have enough to buy this item"
+equipped,"Equipped"
+
+# ========== POPUPS ==========
+
+receivingExperience,"You received {value} experience points"
+receivingHealth,"You have recovered {value} health points"
+receivingCoins,"You received {value} coins"
+receivingGems,"You received {value} gems"
+
+losingExperience,"You lost {value} experience points"
+losingHealth,"You lost {value} health points"
+losingCoins,"You lost {value} coins"
+losingGems,"You lost {value} gems"
+spendingCoins,"You spent {value} coins"
+spendingGems,"You spent {value} gems"
+
+dailyAlreadyCounted,"Already counted for today"
+weeklyAlreadyCounted,"Already counted for this week"
+monthlyAlreadyCounted,"Already counted for this month"
+yearlyAlreadyCounted,"Already counted for this year"
+
+confirmDeleteCharacter,"Are you sure you want to delete this character? This action cannot be undone."
+confirmDeleteHabit,"Are you sure you want to delete this habit? Your current progress will be lost."
+confirmDeleteDaily,"Are you sure you want to delete this daily? This action cannot be undone."
+
+confirmDeleteCharacterTitle,"Delete character?"
+confirmDeleteHabitTitle,"Delete habit?"
+confirmDeleteDailyTitle,"Delete daily?"
+
+beginAgain,"You can always begin again"
+
+somethingWrong,"Something went wrong. Please try again."
+invalidInput,"That doesn’t look right."
+
+levelDown,"A small setback. Keep going."
+levelUp,"Level up! Small steps, real progress."
+
+nextYearAvailable,"Available on December 31"
+nextMonthAvailable,"Available on the last day of the month"
+nextWeekAvailable,"Available on next Sunday"
+habitCompleted,"Habit completed. Your consistency paid off"
+
+# ========== BUTTONS ==========
+
+continueButton,"Continue"
+selectButton,"Select"
+createButton,"Create"
+saveButton,"Save"
+beginAdventureButton,"Begin Adventure"
+logOutButton,"Log Out"
+confirmButton,"Confirm"
+cancelButton,"Cancel"
+
+# ========== STATUS ==========
+
+Health,"Health"
+Critical,"Critical"
+Agility,"Agility"
+Magic,"Magic"
+Attack,"Attack"
+Defense,"Defense"
+Experience,"Experience"
+Energy,"Energy"
+
+# ========== CHARACTER SELECTION ==========
+
+noCharactersYetTitle,"Your journey begins here"
+noCharactersYetDescription,"You don’t have a character yet.<br>Create one to start playing.<br><br>You can create up to 3 characters, one for each class: Warrior, Archer, and Mage.<br>"
+
+# ========== CHARACTER CUSTOMIZATION ==========
+
+classLabel,"Class"
+bodyLabel,"Body"
+eyesLabel,"Eyes"
+hairLabel,"Hair"
+eyebrowsLabel,"Eyebrows"
+earsLabel,"Ears"
+mouthLabel,"Mouth"
+beardLabel,"Beard"
+makeupLabel,"Makeup"
+accessoryLabel,"Accessory"
+
+backToCharacterSelectionLabel,"Character Selection"
+
+# ========== NEW HABIT PANEL ==========
+
+dailyFlavor,"<b>Check in every day to track this habit.</b><br>Good for habits that need daily awareness, consistency, or avoidance.<br><b>Example</b>: Avoid sugary snacks.<br>Completed after <b>90 consecutive days</b> of positive checks."
+weeklyFlavor, "<b>Review your progress once per week.</b><br>Good for habits that need regular effort and flexibility, without the pressure of daily tracking.<br><b>Example:</b> Go to the gym 3 times a week.<br>Completed after <b>12 consecutive weeks</b> of positive checks."
+monthlyFlavor, "<b>Review your progress once per month.</b><br>Good for habits that need reflection, planning, or steady progress, without frequent check-ins.<br><b>Example:</b> Read one book per month.<br>Completed after <b>6 consecutive months</b> of positive checks."
+yearlyFlavor, "<b>Review your progress once per year.</b><br>Good for habits focused on long-term growth, life direction, or identity.<br><b>Example:</b> Build financial stability.<br>Completed after <b>3 consecutive years</b> of positive checks."
+
+habitTrivialDifficultyFlavor,"<b>On positive marks:</b><br>+2 experience and +2 coins<br><b>On complete:</b><br>+100 experience and +100 coins"
+habitEasyDifficultyFlavor,"<b>On positive marks:</b><br>+4 experience and +4 coins<br><b>On complete:</b><br>+200 experience, +100 coins and 1 gem"
+habitMediumlDifficultyFlavor,"<b>On positive marks:</b><br>+6 experience and +6 coins<br><b>On complete:</b><br>+350 experience, +350 coins and 2 gems"
+habitHardDifficultyFlavor,"<b>On positive marks:</b><br>+8 experience and +8 coins<br><b>On complete:</b><br>+600 experience, +600 coins and 3 gems"
+
+backToHabitsLabel,"Habits"
+
+titleLabel,"Title"
+difficultyLabel,"Difficulty"
+notesLabel,"Notes"
+checkLabel,"Check"
+countLabel,"Count"
+somethingWrongInput,"Something wrong with this field"
+dailyLabel,"Daily"
+monthlyLabel,"Monthly"
+yearlyLabel,"Yearly"
+weeklyLabel,"Weekly"
+trivialLabel,"Trivial"
+easyLabel,"Easy"
+mediumLabel,"Medium"
+moderateLabel,"Moderate"
+hardLabel,"Hard"
+repeatsLabel,"Repeats"
+startDateLabel,"Start date"
+repeatEveryLabel,"Repeat every"
+repeatOnLabel,"Repeat on"
+selectADateLabel,"Select a date"
+importantNotesAboutThisDailyTaskLabel,"Important notes about this task"
+newDailyTaskLabel,"New task"
+newHabitTaskLabel,"New habit"
+importantNotesAboutThisHabitLabel,"Important notes about this habit"
+
+sunLabel,"Sun"
+monLabel,"Mon"
+tueLabel,"Tue"
+wedLabel,"Wed"
+thuLabel,"Thu"
+friLabel,"Fri"
+satLabel,"Sat"
+
+# ========== QUEST PANEL ==========
+
+cost,"Cost"
+chance,"Success Chance"
+failure,"Failure"
+success,"Success"
+test,"Test"
+
+# ========== NEW DAYLY PANEL ==========
+
+dailyTrivialDifficultyFlavor,"+5 experience and +5 coins on complete"
+dailyEasyDifficultyFlavor,"+10 experience and +10 coins on complete"
+dailyMediumlDifficultyFlavor,"+15 experience and +15 coins on complete"
+dailyHardDifficultyFlavor,"+20 experience and +20 coins on complete"
+
+backToDailiesLabel,"Dailies"
+
+activeToday,"Active totay"
+activeOn,"Active on"
+archived,"Archived"
+notToday,"This task is inactive today."
+
+# ========== COMMON ITEM ==========
+
+coinName,"Coins"
+coinDescription,""
+coinFlavor,""
+
+# ========== COMMON ==========
+
+# ========== UNCOMMON ==========
+
+# ========== RARE ==========
+
+# ========== EPIC ==========
+
+# ========== LEGENDARY ==========
+
+# ========== WARRIOR ITEM ==========
+
+# ========== COMMON ==========
+
+recruitWeaponName,"Recruit Sword"
+recruitWeaponDescription,"+4 Attack"
+recruitWeaponFlavor,"Simple steel, honest weight."
+
+recruitShieldName,"Recruit Shield"
+recruitShieldDescription,"+3 Defense"
+recruitShieldFlavor,"Held more than trusted."
+
+recruitArmorName,"Recruit Armor"
+recruitArmorDescription,"+6 Health +2 Defense"
+recruitArmorFlavor,"Issued, not earned."
+
+recruitHelmetName,"Recruit Helmet"
+recruitHelmetDescription,"+1 Defense"
+recruitHelmetFlavor,"Still smells new."
+
+footmanWeaponName,"Footman Sword"
+footmanWeaponDescription,"+5 Attack"
+footmanWeaponFlavor,"Reliable in formation."
+
+footmanShieldName,"Footman Shield"
+footmanShieldDescription,"+4 Defense"
+footmanShieldFlavor,"Holds the line."
+
+footmanArmorName,"Footman Armor"
+footmanArmorDescription,"+7 Health +2 Defense"
+footmanArmorFlavor,"March-worn."
+
+footmanHelmetName,"Footman Helmet"
+footmanHelmetDescription,"+1 Defense"
+footmanHelmetFlavor,"Seen many roads."
+
+squireWeaponName,"Squire Sword"
+squireWeaponDescription,"+6 Attack +1 Critical"
+squireWeaponFlavor,"Eager hands wield it."
+
+squireShieldName,"Squire Shield"
+squireShieldDescription,"+4 Defense"
+squireShieldFlavor,"Still learning blocks."
+
+squireArmorName,"Squire Armor"
+squireArmorDescription,"+8 Health +3 Defense"
+squireArmorFlavor,"Adjusted too often."
+
+squireHelmetName,"Squire Helmet"
+squireHelmetDescription,"+1 Defense"
+squireHelmetFlavor,"Fits better now."
+
+vanguardWeaponName,"Vanguard Sword"
+vanguardWeaponDescription,"+7 Attack"
+vanguardWeaponFlavor,"First to strike."
+
+vanguardShieldName,"Vanguard Shield"
+vanguardShieldDescription,"+5 Defense"
+vanguardShieldFlavor,"Never retreats."
+
+vanguardArmorName,"Vanguard Armor"
+vanguardArmorDescription,"+9 Health +3 Defense"
+vanguardArmorFlavor,"Frontline steel."
+
+vanguardHelmetName,"Vanguard Helmet"
+vanguardHelmetDescription,"+2 Defense"
+vanguardHelmetFlavor,"Scarred and proud."
+
+defenderWeaponName,"Defender Sword"
+defenderWeaponDescription,"+9 Attack"
+defenderWeaponFlavor,"Measured swings."
+
+defenderShieldName,"Defender Shield"
+defenderShieldDescription,"+7 Defense"
+defenderShieldFlavor,"Unmoving."
+
+defenderArmorName,"Defender Armor"
+defenderArmorDescription,"+12 Health +4 Defense"
+defenderArmorFlavor,"Built to endure."
+
+defenderHelmetName,"Defender Helmet"
+defenderHelmetDescription,"+2 Defense"
+defenderHelmetFlavor,"Heavy gaze."
+
+# ========== UNCOMMON ==========
+
+ironGuardWeaponName,"Iron Guard Sword"
+ironGuardWeaponDescription,"+10 Attack"
+ironGuardWeaponFlavor,"Unyielding strikes."
+
+ironGuardShieldName,"Iron Guard Shield"
+ironGuardShieldDescription,"+8 Defense"
+ironGuardShieldFlavor,"Cold and solid."
+
+ironGuardArmorName,"Iron Guard Armor"
+ironGuardArmorDescription,"+14 Health +4 Defense"
+ironGuardArmorFlavor,"Forged thick."
+
+ironGuardHelmetName,"Iron Guard Helmet"
+ironGuardHelmetDescription,"+2 Defense"
+ironGuardHelmetFlavor,"Iron will."
+
+knightWeaponName,"Knight Sword"
+knightWeaponDescription,"+11 Attack +1 Critical"
+knightWeaponFlavor,"Honored blade."
+
+knightShieldName,"Knight Shield"
+knightShieldDescription,"+8 Defense"
+knightShieldFlavor,"Heraldry worn."
+
+knightArmorName,"Knight Armor"
+knightArmorDescription,"+16 Health +5 Defense"
+knightArmorFlavor,"Polished duty."
+
+knightHelmetName,"Knight Helmet"
+knightHelmetDescription,"+3 Defense"
+knightHelmetFlavor,"Noble weight."
+
+sentinelWeaponName,"Sentinel Sword"
+sentinelWeaponDescription,"+12 Attack"
+sentinelWeaponFlavor,"Always watching."
+
+sentinelShieldName,"Sentinel Shield"
+sentinelShieldDescription,"+9 Defense"
+sentinelShieldFlavor,"Never lowered."
+
+sentinelArmorName,"Sentinel Armor"
+sentinelArmorDescription,"+18 Health +5 Defense"
+sentinelArmorFlavor,"Endless vigil."
+
+sentinelHelmetName,"Sentinel Helmet"
+sentinelHelmetDescription,"+3 Defense"
+sentinelHelmetFlavor,"Eyes forward."
+
+templarWeaponName,"Templar Sword"
+templarWeaponDescription,"+14 Attack +1 Critical"
+templarWeaponFlavor,"Faith-driven steel."
+
+templarShieldName,"Templar Shield"
+templarShieldDescription,"+11 Defense"
+templarShieldFlavor,"Sacred guard."
+
+templarArmorName,"Templar Armor"
+templarArmorDescription,"+22 Health +6 Defense"
+templarArmorFlavor,"Oath-bound."
+
+templarHelmetName,"Templar Helmet"
+templarHelmetDescription,"+4 Defense"
+templarHelmetFlavor,"Vowed sight."
+
+crusaderWeaponName,"Crusader Sword"
+crusaderWeaponDescription,"+15 Attack"
+crusaderWeaponFlavor,"Unstoppable march."
+
+crusaderShieldName,"Crusader Shield"
+crusaderShieldDescription,"+12 Defense"
+crusaderShieldFlavor,"Wall of faith."
+
+crusaderArmorName,"Crusader Armor"
+crusaderArmorDescription,"+24 Health +6 Defense"
+crusaderArmorFlavor,"Relentless armor."
+
+crusaderHelmetName,"Crusader Helmet"
+crusaderHelmetDescription,"+4 Defense"
+crusaderHelmetFlavor,"Crusade-marked."
+
+# ========== RARE ==========
+
+warlordWeaponName,"Warlord Sword"
+warlordWeaponDescription,"+16 Attack +2 Critical"
+warlordWeaponFlavor,"Commanding force."
+
+warlordShieldName,"Warlord Shield"
+warlordShieldDescription,"+13 Defense"
+warlordShieldFlavor,"Battle-tested."
+
+warlordArmorName,"Warlord Armor"
+warlordArmorDescription,"+26 Health +7 Defense"
+warlordArmorFlavor,"Scar-lined."
+
+warlordHelmetName,"Warlord Helmet"
+warlordHelmetDescription,"+4 Defense"
+warlordHelmetFlavor,"Unquestioned authority."
+
+championWeaponName,"Champion Sword"
+championWeaponDescription,"+17 Attack"
+championWeaponFlavor,"Crowd favorite."
+
+championShieldName,"Champion Shield"
+championShieldDescription,"+14 Defense"
+championShieldFlavor,"Victory-marked."
+
+championArmorName,"Champion Armor"
+championArmorDescription,"+28 Health +7 Defense"
+championArmorFlavor,"Arena forged."
+
+championHelmetName,"Champion Helmet"
+championHelmetDescription,"+5 Defense"
+championHelmetFlavor,"Cheers remembered."
+
+juggernautWeaponName,"Juggernaut Sword"
+juggernautWeaponDescription,"+20 Attack +2 Critical"
+juggernautWeaponFlavor,"Nothing stops it."
+
+juggernautShieldName,"Juggernaut Shield"
+juggernautShieldDescription,"+16 Defense"
+juggernautShieldFlavor,"Breaks lines."
+
+juggernautArmorName,"Juggernaut Armor"
+juggernautArmorDescription,"+32 Health +8 Defense"
+juggernautArmorFlavor,"Crushing weight."
+
+juggernautHelmetName,"Juggernaut Helmet"
+juggernautHelmetDescription,"+5 Defense"
+juggernautHelmetFlavor,"Unmovable."
+
+# ========== EPIC ==========
+
+dreadnoughtWeaponName,"Dreadnought Sword"
+dreadnoughtWeaponDescription,"+21 Attack"
+dreadnoughtWeaponFlavor,"Fear given form."
+
+dreadnoughtShieldName,"Dreadnought Shield"
+dreadnoughtShieldDescription,"+17 Defense"
+dreadnoughtShieldFlavor,"Unbreakable."
+
+dreadnoughtArmorName,"Dreadnought Armor"
+dreadnoughtArmorDescription,"+34 Health +8 Defense"
+dreadnoughtArmorFlavor,"Heavy silence."
+
+dreadnoughtHelmetName,"Dreadnought Helmet"
+dreadnoughtHelmetDescription,"+6 Defense"
+dreadnoughtHelmetFlavor,"Cold resolve."
+
+warmasterWeaponName,"Warmaster Sword"
+warmasterWeaponDescription,"+22 Attack +3 Critical"
+warmasterWeaponFlavor,"Victory-maker."
+
+warmasterShieldName,"Warmaster Shield"
+warmasterShieldDescription,"+18 Defense"
+warmasterShieldFlavor,"Command wall."
+
+warmasterArmorName,"Warmaster Armor"
+warmasterArmorDescription,"+36 Health +9 Defense"
+warmasterArmorFlavor,"Battle doctrine."
+
+warmasterHelmetName,"Warmaster Helmet"
+warmasterHelmetDescription,"+6 Defense"
+warmasterHelmetFlavor,"Eyes of war."
+
+colossusWeaponName,"Colossus Sword"
+colossusWeaponDescription,"+24 Attack"
+colossusWeaponFlavor,"Earth-shaking."
+
+colossusShieldName,"Colossus Shield"
+colossusShieldDescription,"+19 Defense"
+colossusShieldFlavor,"Titan forged."
+
+colossusArmorName,"Colossus Armor"
+colossusArmorDescription,"+38 Health +9 Defense"
+colossusArmorFlavor,"Mountain plate."
+
+colossusHelmetName,"Colossus Helmet"
+colossusHelmetDescription,"+7 Defense"
+colossusHelmetFlavor,"Immovable gaze."
+
+# ========== LEGENDARY ==========
+
+mythicGuardianWeaponName,"Mythic Guardian Sword"
+mythicGuardianWeaponDescription,"+27 Attack +3 Critical"
+mythicGuardianWeaponFlavor,"Legendary might."
+
+mythicGuardianShieldName,"Mythic Guardian Shield"
+mythicGuardianShieldDescription,"+22 Defense"
+mythicGuardianShieldFlavor,"Legend-bound."
+
+mythicGuardianArmorName,"Mythic Guardian Armor"
+mythicGuardianArmorDescription,"+42 Health +10 Defense"
+mythicGuardianArmorFlavor,"Myth remembered."
+
+mythicGuardianHelmetName,"Mythic Guardian Helmet"
+mythicGuardianHelmetDescription,"+8 Defense"
+mythicGuardianHelmetFlavor,"Eternal watch."
+
+worldbreakerWeaponName,"Worldbreaker Sword"
+worldbreakerWeaponDescription,"+29 Attack"
+worldbreakerWeaponFlavor,"Shatters fate."
+
+worldbreakerShieldName,"Worldbreaker Shield"
+worldbreakerShieldDescription,"+24 Defense"
+worldbreakerShieldFlavor,"World-worn."
+
+worldbreakerArmorName,"Worldbreaker Armor"
+worldbreakerArmorDescription,"+46 Health +11 Defense"
+worldbreakerArmorFlavor,"Cracked earth."
+
+worldbreakerHelmetName,"Worldbreaker Helmet"
+worldbreakerHelmetDescription,"+9 Defense"
+worldbreakerHelmetFlavor,"Endless war."
+
+eternalWarlordWeaponName,"Eternal Warlord Sword"
+eternalWarlordWeaponDescription,"+31 Attack +4 Critical"
+eternalWarlordWeaponFlavor,"Never yields."
+
+eternalWarlordShieldName,"Eternal Warlord Shield"
+eternalWarlordShieldDescription,"+26 Defense"
+eternalWarlordShieldFlavor,"Ages endured."
+
+eternalWarlordArmorName,"Eternal Warlord Armor"
+eternalWarlordArmorDescription,"+50 Health +12 Defense"
+eternalWarlordArmorFlavor,"Time-scarred."
+
+eternalWarlordHelmetName,"Eternal Warlord Helmet"
+eternalWarlordHelmetDescription,"+10 Defense"
+eternalWarlordHelmetFlavor,"Unending command."
+
+ascendedWarlordWeaponName,"Ascended Warlord Sword"
+ascendedWarlordWeaponDescription,"+34 Attack +5 Critical"
+ascendedWarlordWeaponFlavor,"Power perfected."
+
+ascendedWarlordShieldName,"Ascended Warlord Shield"
+ascendedWarlordShieldDescription,"+28 Defense"
+ascendedWarlordShieldFlavor,"Beyond breaking."
+
+ascendedWarlordArmorName,"Ascended Warlord Armor"
+ascendedWarlordArmorDescription,"+60 Health +14 Defense"
+ascendedWarlordArmorFlavor,"Above all battles."
+
+ascendedWarlordHelmetName,"Ascended Warlord Helmet"
+ascendedWarlordHelmetDescription,"+12 Defense"
+ascendedWarlordHelmetFlavor,"War incarnate."
+
+# ========== ARCHER ITEM ==========
+
+# ========== COMMON ==========
+
+pathfinderBowName,"Pathfinder Bow"
+pathfinderBowDescription,"+4 Attack +2 Agility"
+pathfinderBowFlavor,"The first arrow always counts."
+
+pathfinderDaggerName,"Pathfinder Dagger"
+pathfinderDaggerDescription,"+2 Attack"
+pathfinderDaggerFlavor,"For close calls."
+
+pathfinderArmorName,"Pathfinder Armor"
+pathfinderArmorDescription,"+6 Health +2 Agility"
+pathfinderArmorFlavor,"Light and reliable."
+
+pathfinderHatName,"Pathfinder Hat"
+pathfinderHatDescription,"+1 Agility"
+pathfinderHatFlavor,"Keeps the sun away."
+
+scoutBowName,"Scout Bow"
+scoutBowDescription,"+5 Attack +2 Agility"
+scoutBowFlavor,"Silent steps, steady aim."
+
+scoutDaggerName,"Scout Dagger"
+scoutDaggerDescription,"+3 Attack"
+scoutDaggerFlavor,"Quick draw."
+
+scoutArmorName,"Scout Armor"
+scoutArmorDescription,"+7 Health +2 Agility"
+scoutArmorFlavor,"Barely makes a sound."
+
+scoutHatName,"Scout Hat"
+scoutHatDescription,"+1 Agility"
+scoutHatFlavor,"Blends in."
+
+trackerBowName,"Tracker Bow"
+trackerBowDescription,"+6 Attack +3 Agility"
+trackerBowFlavor,"Never miss a trail."
+
+trackerDaggerName,"Tracker Dagger"
+trackerDaggerDescription,"+3 Attack +1 Critical"
+trackerDaggerFlavor,"Precise strikes."
+
+trackerArmorName,"Tracker Armor"
+trackerArmorDescription,"+8 Health +3 Agility"
+trackerArmorFlavor,"Worn by the wilds."
+
+trackerHatName,"Tracker Hat"
+trackerHatDescription,"+1 Agility"
+trackerHatFlavor,"Eyes always forward."
+
+rangerBowName,"Ranger Bow"
+rangerBowDescription,"+7 Attack +3 Agility"
+rangerBowFlavor,"Trusted by the woods."
+
+rangerDaggerName,"Ranger Dagger"
+rangerDaggerDescription,"+4 Attack"
+rangerDaggerFlavor,"Balanced grip."
+
+rangerArmorName,"Ranger Armor"
+rangerArmorDescription,"+9 Health +3 Agility"
+rangerArmorFlavor,"Well-tested."
+
+rangerHatName,"Ranger Hat"
+rangerHatDescription,"+2 Agility"
+rangerHatFlavor,"Clear sight."
+
+# ========== UNCOMMON ==========
+
+skirmisherBowName,"Skirmisher Bow"
+skirmisherBowDescription,"+9 Attack +4 Agility"
+skirmisherBowFlavor,"Strike and vanish."
+
+skirmisherDaggerName,"Skirmisher Dagger"
+skirmisherDaggerDescription,"+5 Attack"
+skirmisherDaggerFlavor,"Swift blade."
+
+skirmisherArmorName,"Skirmisher Armor"
+skirmisherArmorDescription,"+12 Health +4 Agility"
+skirmisherArmorFlavor,"Built for movement."
+
+skirmisherHatName,"Skirmisher Hat"
+skirmisherHatDescription,"+2 Agility"
+skirmisherHatFlavor,"Never noticed."
+
+marksmanBowName,"Marksman Bow"
+marksmanBowDescription,"+10 Attack +4 Agility"
+marksmanBowFlavor,"Every shot deliberate."
+
+marksmanDaggerName,"Marksman Dagger"
+marksmanDaggerDescription,"+5 Attack +1 Critical"
+marksmanDaggerFlavor,"Sharp and quick."
+
+marksmanArmorName,"Marksman Armor"
+marksmanArmorDescription,"+14 Health +4 Agility"
+marksmanArmorFlavor,"Measured steps."
+
+marksmanHatName,"Marksman Hat"
+marksmanHatDescription,"+2 Agility"
+marksmanHatFlavor,"Perfect alignment."
+
+swiftwindBowName,"Swiftwind Bow"
+swiftwindBowDescription,"+11 Attack +5 Agility"
+swiftwindBowFlavor,"Faster than thought."
+
+swiftwindDaggerName,"Swiftwind Dagger"
+swiftwindDaggerDescription,"+6 Attack"
+swiftwindDaggerFlavor,"Blur of steel."
+
+swiftwindArmorName,"Swiftwind Armor"
+swiftwindArmorDescription,"+16 Health +5 Agility"
+swiftwindArmorFlavor,"Never still."
+
+swiftwindHatName,"Swiftwind Hat"
+swiftwindHatDescription,"+2 Agility"
+swiftwindHatFlavor,"Wind at your back."
+
+sharpshooterBowName,"Sharpshooter Bow"
+sharpshooterBowDescription,"+12 Attack +5 Agility"
+sharpshooterBowFlavor,"One arrow, one mark."
+
+sharpshooterDaggerName,"Sharpshooter Dagger"
+sharpshooterDaggerDescription,"+6 Attack +1 Critical"
+sharpshooterDaggerFlavor,"Always ready."
+
+sharpshooterArmorName,"Sharpshooter Armor"
+sharpshooterArmorDescription,"+18 Health +5 Agility"
+sharpshooterArmorFlavor,"Calm under pressure."
+
+sharpshooterHatName,"Sharpshooter Hat"
+sharpshooterHatDescription,"+3 Agility"
+sharpshooterHatFlavor,"Unwavering focus."
+
+# ========== RARE ==========
+
+sniperBowName,"Sniper Bow"
+sniperBowDescription,"+14 Attack +6 Agility +1 Critical"
+sniperBowFlavor,"Distance means nothing."
+
+sniperDaggerName,"Sniper Dagger"
+sniperDaggerDescription,"+7 Attack"
+sniperDaggerFlavor,"Last resort."
+
+sniperArmorName,"Sniper Armor"
+sniperArmorDescription,"+22 Health +6 Agility"
+sniperArmorFlavor,"Patient and precise."
+
+sniperHatName,"Sniper Hat"
+sniperHatDescription,"+3 Agility"
+sniperHatFlavor,"Eyes locked."
+
+deadeyeBowName,"Deadeye Bow"
+deadeyeBowDescription,"+15 Attack +6 Agility"
+deadeyeBowFlavor,"Never misses."
+
+deadeyeDaggerName,"Deadeye Dagger"
+deadeyeDaggerDescription,"+7 Attack +1 Critical"
+deadeyeDaggerFlavor,"Cold steel."
+
+deadeyeArmorName,"Deadeye Armor"
+deadeyeArmorDescription,"+24 Health +6 Agility"
+deadeyeArmorFlavor,"Perfect timing."
+
+deadeyeHatName,"Deadeye Hat"
+deadeyeHatDescription,"+4 Agility"
+deadeyeHatFlavor,"Sharp gaze."
+
+shadowhunterBowName,"Shadowhunter Bow"
+shadowhunterBowDescription,"+16 Attack +7 Agility +1 Critical"
+shadowhunterBowFlavor,"Seen too late."
+
+shadowhunterDaggerName,"Shadowhunter Dagger"
+shadowhunterDaggerDescription,"+8 Attack"
+shadowhunterDaggerFlavor,"Silent edge."
+
+shadowhunterArmorName,"Shadowhunter Armor"
+shadowhunterArmorDescription,"+26 Health +7 Agility"
+shadowhunterArmorFlavor,"Merges with shadows."
+
+shadowhunterHatName,"Shadowhunter Hat"
+shadowhunterHatDescription,"+4 Agility"
+shadowhunterHatFlavor,"Unnoticed."
+
+nightstalkerBowName,"Nightstalker Bow"
+nightstalkerBowDescription,"+17 Attack +7 Agility"
+nightstalkerBowFlavor,"The dark assists."
+
+nightstalkerDaggerName,"Nightstalker Dagger"
+nightstalkerDaggerDescription,"+8 Attack +1 Critical"
+nightstalkerDaggerFlavor,"Quick finish."
+
+nightstalkerArmorName,"Nightstalker Armor"
+nightstalkerArmorDescription,"+28 Health +7 Agility"
+nightstalkerArmorFlavor,"Moves unseen."
+
+nightstalkerHatName,"Nightstalker Hat"
+nightstalkerHatDescription,"+5 Agility"
+nightstalkerHatFlavor,"Eyes in the dark."
+
+# ========== EPIC ==========
+
+windstriderBowName,"Windstrider Bow"
+windstriderBowDescription,"+20 Attack +8 Agility +2 Critical"
+windstriderBowFlavor,"Faster than fear."
+
+windstriderDaggerName,"Windstrider Dagger"
+windstriderDaggerDescription,"+9 Attack"
+windstriderDaggerFlavor,"Never slows."
+
+windstriderArmorName,"Windstrider Armor"
+windstriderArmorDescription,"+32 Health +8 Agility"
+windstriderArmorFlavor,"Always moving."
+
+windstriderHatName,"Windstrider Hat"
+windstriderHatDescription,"+5 Agility"
+windstriderHatFlavor,"Wind-guided."
+
+falconBowName,"Falcon Bow"
+falconBowDescription,"+21 Attack +8 Agility"
+falconBowFlavor,"Eyes from above."
+
+falconDaggerName,"Falcon Dagger"
+falconDaggerDescription,"+9 Attack +1 Critical"
+falconDaggerFlavor,"Swift dive."
+
+falconArmorName,"Falcon Armor"
+falconArmorDescription,"+34 Health +8 Agility"
+falconArmorFlavor,"Feather-light."
+
+falconHatName,"Falcon Hat"
+falconHatDescription,"+6 Agility"
+falconHatFlavor,"Unblinking."
+
+ghostBowName,"Ghost Bow"
+ghostBowDescription,"+22 Attack +9 Agility +2 Critical"
+ghostBowFlavor,"Now you see it."
+
+ghostDaggerName,"Ghost Dagger"
+ghostDaggerDescription,"+10 Attack"
+ghostDaggerFlavor,"Gone already."
+
+ghostArmorName,"Ghost Armor"
+ghostArmorDescription,"+36 Health +9 Agility"
+ghostArmorFlavor,"Barely there."
+
+ghostHatName,"Ghost Hat"
+ghostHatDescription,"+6 Agility"
+ghostHatFlavor,"Untraceable."
+
+stormeyeBowName,"Stormeye Bow"
+stormeyeBowDescription,"+24 Attack +9 Agility"
+stormeyeBowFlavor,"Never misses in chaos."
+
+stormeyeDaggerName,"Stormeye Dagger"
+stormeyeDaggerDescription,"+10 Attack +1 Critical"
+stormeyeDaggerFlavor,"Lightning fast."
+
+stormeyeArmorName,"Stormeye Armor"
+stormeyeArmorDescription,"+38 Health +9 Agility"
+stormeyeArmorFlavor,"Built for storms."
+
+stormeyeHatName,"Stormeye Hat"
+stormeyeHatDescription,"+7 Agility"
+stormeyeHatFlavor,"Sees through rain."
+
+# ========== LEGENDARY ==========
+
+mythicRangerBowName,"Mythic Ranger Bow"
+mythicRangerBowDescription,"+27 Attack +10 Agility +3 Critical"
+mythicRangerBowFlavor,"Legendary aim."
+
+mythicRangerDaggerName,"Mythic Ranger Dagger"
+mythicRangerDaggerDescription,"+11 Attack"
+mythicRangerDaggerFlavor,"Failsafe steel."
+
+mythicRangerArmorName,"Mythic Ranger Armor"
+mythicRangerArmorDescription,"+42 Health +10 Agility"
+mythicRangerArmorFlavor,"Born of legend."
+
+mythicRangerHatName,"Mythic Ranger Hat"
+mythicRangerHatDescription,"+8 Agility"
+mythicRangerHatFlavor,"Perfect focus."
+
+worldshotBowName,"Worldshot Bow"
+worldshotBowDescription,"+29 Attack +11 Agility"
+worldshotBowFlavor,"Across worlds."
+
+worldshotDaggerName,"Worldshot Dagger"
+worldshotDaggerDescription,"+11 Attack +1 Critical"
+worldshotDaggerFlavor,"Dimensional edge."
+
+worldshotArmorName,"Worldshot Armor"
+worldshotArmorDescription,"+46 Health +11 Agility"
+worldshotArmorFlavor,"Untouchable."
+
+worldshotHatName,"Worldshot Hat"
+worldshotHatDescription,"+9 Agility"
+worldshotHatFlavor,"Sees beyond."
+
+eternalHuntBowName,"Eternal Hunt Bow"
+eternalHuntBowDescription,"+31 Attack +12 Agility +3 Critical"
+eternalHuntBowFlavor,"The chase never ends."
+
+eternalHuntDaggerName,"Eternal Hunt Dagger"
+eternalHuntDaggerDescription,"+12 Attack"
+eternalHuntDaggerFlavor,"Always sharp."
+
+eternalHuntArmorName,"Eternal Hunt Armor"
+eternalHuntArmorDescription,"+50 Health +12 Agility"
+eternalHuntArmorFlavor,"Endless pursuit."
+
+eternalHuntHatName,"Eternal Hunt Hat"
+eternalHuntHatDescription,"+10 Agility"
+eternalHuntHatFlavor,"Unrelenting."
+
+ascendedArcherBowName,"Ascended Archer Bow"
+ascendedArcherBowDescription,"+34 Attack +14 Agility +4 Critical"
+ascendedArcherBowFlavor,"Perfection in motion."
+
+ascendedArcherDaggerName,"Ascended Archer Dagger"
+ascendedArcherDaggerDescription,"+13 Attack"
+ascendedArcherDaggerFlavor,"Never hesitates."
+
+ascendedArcherArmorName,"Ascended Archer Armor"
+ascendedArcherArmorDescription,"+60 Health +14 Agility"
+ascendedArcherArmorFlavor,"Beyond mortal speed."
+
+ascendedArcherHatName,"Ascended Archer Hat"
+ascendedArcherHatDescription,"+12 Agility"
+ascendedArcherHatFlavor,"Eyes of destiny."
+
+# ========== MAGE ITEM ==========
+
+# ========== COMMON ==========
+
+noviceArmorName,"Novice’s Plain Robe"
+noviceArmorDescription,"An unadorned robe for those taking their first steps into magic."
+noviceArmorFlavor,""
+
+apprenticeStaffName,"Apprentice Staff"
+apprenticeStaffDescription,"+4 Magic"
+apprenticeStaffFlavor,"Every spell starts somewhere."
+
+apprenticeLightSwordName,"Apprentice Light Sword"
+apprenticeLightSwordDescription,"+2 Attack"
+apprenticeLightSwordFlavor,"For emergencies only."
+
+apprenticeArmorName,"Apprentice Robe"
+apprenticeArmorDescription,"+6 Defense +2 Magic"
+apprenticeArmorFlavor,"Simple cloth, growing power."
+
+apprenticeHatName,"Apprentice Hood"
+apprenticeHatDescription,"+1 Magic"
+apprenticeHatFlavor,"Keeps thoughts focused."
+
+studentStaffName,"Student Staff"
+studentStaffDescription,"+5 Magic"
+studentStaffFlavor,"Lessons learned the hard way."
+
+studentLightSwordName,"Student Light Sword"
+studentLightSwordDescription,"+3 Attack"
+studentLightSwordFlavor,"Rarely used."
+
+studentArmorName,"Student Robe"
+studentArmorDescription,"+7 Defense +2 Magic"
+studentArmorFlavor,"Ink-stained and worn."
+
+studentHatName,"Student Hood"
+studentHatDescription,"+1 Magic"
+studentHatFlavor,"Quiet study."
+
+initiateStaffName,"Initiate Staff"
+initiateStaffDescription,"+6 Magic"
+initiateStaffFlavor,"Power begins to answer."
+
+initiateLightSwordName,"Initiate Light Sword"
+initiateLightSwordDescription,"+3 Attack +1 Critical"
+initiateLightSwordFlavor,"Confidence grows."
+
+initiateArmorName,"Initiate Robe"
+initiateArmorDescription,"+8 Defense +3 Magic"
+initiateArmorFlavor,"Marked by progress."
+
+initiateHatName,"Initiate Hood"
+initiateHatDescription,"+1 Magic"
+initiateHatFlavor,"Mind sharpening."
+
+adeptStaffName,"Adept Staff"
+adeptStaffDescription,"+7 Magic"
+adeptStaffFlavor,"Spells flow easier."
+
+adeptLightSwordName,"Adept Light Sword"
+adeptLightSwordDescription,"+4 Attack"
+adeptLightSwordFlavor,"Balanced grip."
+
+adeptArmorName,"Adept Robe"
+adeptArmorDescription,"+9 Defense +3 Magic"
+adeptArmorFlavor,"Recognized talent."
+
+adeptHatName,"Adept Hood"
+adeptHatDescription,"+2 Magic +1 Defense"
+adeptHatFlavor,"Clear focus."
+
+# ========== UNCOMMON ==========
+
+channelerStaffName,"Channeler Staff"
+channelerStaffDescription,"+9 Magic +1 Critical"
+channelerStaffFlavor,"Energy bends willingly."
+
+channelerLightSwordName,"Channeler Light Sword"
+channelerLightSwordDescription,"+5 Attack"
+channelerLightSwordFlavor,"Never underestimated."
+
+channelerArmorName,"Channeler Robe"
+channelerArmorDescription,"+12 Defense +4 Magic"
+channelerArmorFlavor,"Threads hum softly."
+
+channelerHatName,"Channeler Hood"
+channelerHatDescription,"+2 Magic +2 Defense"
+channelerHatFlavor,"Mind steady."
+
+arcanistStaffName,"Arcanist Staff"
+arcanistStaffDescription,"+10 Magic"
+arcanistStaffFlavor,"Runes awaken."
+
+arcanistLightSwordName,"Arcanist Light Sword"
+arcanistLightSwordDescription,"+5 Attack +1 Critical"
+arcanistLightSwordFlavor,"A precise tool."
+
+arcanistArmorName,"Arcanist Robe"
+arcanistArmorDescription,"+14 Defense +4 Magic"
+arcanistArmorFlavor,"Arcane threads."
+
+arcanistHatName,"Arcanist Hood"
+arcanistHatDescription,"+2 Magic +2 Defense"
+arcanistHatFlavor,"Knowledge deepens."
+
+spellbinderStaffName,"Spellbinder Staff"
+spellbinderStaffDescription,"+11 Magic +1 Critical"
+spellbinderStaffFlavor,"Spells obey."
+
+spellbinderLightSwordName,"Spellbinder Light Sword"
+spellbinderLightSwordDescription,"+6 Attack"
+spellbinderLightSwordFlavor,"Swift response."
+
+spellbinderArmorName,"Spellbinder Robe"
+spellbinderArmorDescription,"+16 Defense +5 Magic"
+spellbinderArmorFlavor,"Power woven in."
+
+spellbinderHatName,"Spellbinder Hood"
+spellbinderHatDescription,"+2 Magic +2 Defense"
+spellbinderHatFlavor,"Eyes glow faintly."
+
+magusStaffName,"Magus Staff"
+magusStaffDescription,"+12 Magic"
+magusStaffFlavor,"A true practitioner."
+
+magusLightSwordName,"Magus Light Sword"
+magusLightSwordDescription,"+6 Attack +1 Critical"
+magusLightSwordFlavor,"Defensive elegance."
+
+magusArmorName,"Magus Robe"
+magusArmorDescription,"+18 Defense +5 Magic"
+magusArmorFlavor,"Recognized mastery."
+
+magusHatName,"Magus Hood"
+magusHatDescription,"+3 Magic +2 Defense"
+magusHatFlavor,"Mind expanded."
+
+# ========== RARE ==========
+
+sorcererStaffName,"Sorcerer Staff"
+sorcererStaffDescription,"+14 Magic +2 Critical"
+sorcererStaffFlavor,"Raw power answers."
+
+sorcererLightSwordName,"Sorcerer Light Sword"
+sorcererLightSwordDescription,"+7 Attack"
+sorcererLightSwordFlavor,"Backup no more."
+
+sorcererArmorName,"Sorcerer Robe"
+sorcererArmorDescription,"+22 Defense +6 Magic"
+sorcererArmorFlavor,"Energy contained."
+
+sorcererHatName,"Sorcerer Hood"
+sorcererHatDescription,"+3 Magic +3 Defense"
+sorcererHatFlavor,"Mind aflame."
+
+enchanterStaffName,"Enchanter Staff"
+enchanterStaffDescription,"+15 Magic"
+enchanterStaffFlavor,"Reality bends."
+
+enchanterLightSwordName,"Enchanter Light Sword"
+enchanterLightSwordDescription,"+7 Attack +1 Critical"
+enchanterLightSwordFlavor,"Charged steel."
+
+enchanterArmorName,"Enchanter Robe"
+enchanterArmorDescription,"+24 Defense +6 Magic"
+enchanterArmorFlavor,"Runes alive."
+
+enchanterHatName,"Enchanter Hood"
+enchanterHatDescription,"+4 Magic +4 Defense"
+enchanterHatFlavor,"Clarity achieved."
+
+battlemageStaffName,"Battlemage Staff"
+battlemageStaffDescription,"+16 Magic +2 Critical"
+battlemageStaffFlavor,"Magic meets steel."
+
+battlemageLightSwordName,"Battlemage Light Sword"
+battlemageLightSwordDescription,"+8 Attack"
+battlemageLightSwordFlavor,"Frontline focus."
+
+battlemageArmorName,"Battlemage Robe"
+battlemageArmorDescription,"+26 Defense +7 Magic"
+battlemageArmorFlavor,"Forged for conflict."
+
+battlemageHatName,"Battlemage Hood"
+battlemageHatDescription,"+4 Magic +4 Defense"
+battlemageHatFlavor,"Eyes unflinching."
+
+ritualistStaffName,"Ritualist Staff"
+ritualistStaffDescription,"+17 Magic"
+ritualistStaffFlavor,"Ancient patterns repeat."
+
+ritualistLightSwordName,"Ritualist Light Sword"
+ritualistLightSwordDescription,"+8 Attack +1 Critical"
+ritualistLightSwordFlavor,"Ceremonial blade."
+
+ritualistArmorName,"Ritualist Robe"
+ritualistArmorDescription,"+28 Defense +7 Magic"
+ritualistArmorFlavor,"Marked by rites."
+
+ritualistHatName,"Ritualist Hood"
+ritualistHatDescription,"+5 Magic +4 Defense"
+ritualistHatFlavor,"Focus unbroken."
+
+# ========== EPIC ==========
+
+archmageStaffName,"Archmage Staff"
+archmageStaffDescription,"+20 Magic +3 Critical"
+archmageStaffFlavor,"Authority of spells."
+
+archmageLightSwordName,"Archmage Light Sword"
+archmageLightSwordDescription,"+9 Attack"
+archmageLightSwordFlavor,"Elegant defense."
+
+archmageArmorName,"Archmage Robe"
+archmageArmorDescription,"+32 Defense +8 Magic"
+archmageArmorFlavor,"Power incarnate."
+
+archmageHatName,"Archmage Hood"
+archmageHatDescription,"+5 Magic +5 Defense"
+archmageHatFlavor,"Mind beyond limits."
+
+spelllordStaffName,"Spelllord Staff"
+spelllordStaffDescription,"+21 Magic"
+spelllordStaffFlavor,"Commands reality."
+
+spelllordLightSwordName,"Spelllord Light Sword"
+spelllordLightSwordDescription,"+9 Attack +1 Critical"
+spelllordLightSwordFlavor,"Charged edge."
+
+spelllordArmorName,"Spelllord Robe"
+spelllordArmorDescription,"+34 Defense +9 Magic"
+spelllordArmorFlavor,"Runes blaze."
+
+spelllordHatName,"Spelllord Hood"
+spelllordHatDescription,"+6 Magic +6 Defense"
+spelllordHatFlavor,"Eyes glowing."
+
+voidcallerStaffName,"Voidcaller Staff"
+voidcallerStaffDescription,"+22 Magic +4 Critical"
+voidcallerStaffFlavor,"Power from silence."
+
+voidcallerLightSwordName,"Voidcaller Light Sword"
+voidcallerLightSwordDescription,"+10 Attack"
+voidcallerLightSwordFlavor,"Hums softly."
+
+voidcallerArmorName,"Voidcaller Robe"
+voidcallerArmorDescription,"+36 Defense +9 Magic"
+voidcallerArmorFlavor,"Touched by void."
+
+voidcallerHatName,"Voidcaller Hood"
+voidcallerHatDescription,"+6 Magic +6 Defense"
+voidcallerHatFlavor,"Whispers ignored."
+
+astralStaffName,"Astral Staff"
+astralStaffDescription,"+24 Magic"
+astralStaffFlavor,"Stars answer."
+
+astralLightSwordName,"Astral Light Sword"
+astralLightSwordDescription,"+10 Attack +1 Critical"
+astralLightSwordFlavor,"Celestial edge."
+
+astralArmorName,"Astral Robe"
+astralArmorDescription,"+38 Defense +10 Magic"
+astralArmorFlavor,"Woven starlight."
+
+astralHatName,"Astral Hood"
+astralHatDescription,"+7 Magic +7 Defense"
+astralHatFlavor,"Beyond sight."
+
+# ========== LEGENDARY ==========
+
+mythicSageStaffName,"Mythic Sage Staff"
+mythicSageStaffDescription,"+27 Magic +5 Critical"
+mythicSageStaffFlavor,"Wisdom made power."
+
+mythicSageLightSwordName,"Mythic Sage Light Sword"
+mythicSageLightSwordDescription,"+11 Attack"
+mythicSageLightSwordFlavor,"Never dull."
+
+mythicSageArmorName,"Mythic Sage Robe"
+mythicSageArmorDescription,"+42 Defense +12 Magic"
+mythicSageArmorFlavor,"Ancient authority."
+
+mythicSageHatName,"Mythic Sage Hood"
+mythicSageHatDescription,"+8 Magic +8 Defense"
+mythicSageHatFlavor,"Mind eternal."
+
+worldweaverStaffName,"Worldweaver Staff"
+worldweaverStaffDescription,"+29 Magic"
+worldweaverStaffFlavor,"Reality is thread."
+
+worldweaverLightSwordName,"Worldweaver Light Sword"
+worldweaverLightSwordDescription,"+11 Attack +1 Critical"
+worldweaverLightSwordFlavor,"Cuts dimensions."
+
+worldweaverArmorName,"Worldweaver Robe"
+worldweaverArmorDescription,"+46 Defense +13 Magic"
+worldweaverArmorFlavor,"Fabric of worlds."
+
+worldweaverHatName,"Worldweaver Hood"
+worldweaverHatDescription,"+9 Magic +9 Defense"
+worldweaverHatFlavor,"Sees all paths."
+
+eternalArcanistStaffName,"Eternal Arcanist Staff"
+eternalArcanistStaffDescription,"+31 Magic +6 Critical"
+eternalArcanistStaffFlavor,"Magic without end."
+
+eternalArcanistLightSwordName,"Eternal Arcanist Light Sword"
+eternalArcanistLightSwordDescription,"+12 Attack"
+eternalArcanistLightSwordFlavor,"Steady resolve."
+
+eternalArcanistArmorName,"Eternal Arcanist Robe"
+eternalArcanistArmorDescription,"+50 Defense +14 Magic"
+eternalArcanistArmorFlavor,"Time bows."
+
+eternalArcanistHatName,"Eternal Arcanist Hood"
+eternalArcanistHatDescription,"+10 Magic +10 Defense"
+eternalArcanistHatFlavor,"Unaging mind."
+
+ascendedArchmageStaffName,"Ascended Archmage Staff"
+ascendedArchmageStaffDescription,"+34 Magic +7 Critical"
+ascendedArchmageStaffFlavor,"Magic perfected."
+
+ascendedArchmageLightSwordName,"Ascended Archmage Light Sword"
+ascendedArchmageLightSwordDescription,"+13 Attack"
+ascendedArchmageLightSwordFlavor,"Failsafe blade."
+
+ascendedArchmageArmorName,"Ascended Archmage Robe"
+ascendedArchmageArmorDescription,"+60 Defense +15 Magic"
+ascendedArchmageArmorFlavor,"Beyond mortal craft."
+
+ascendedArchmageHatName,"Ascended Archmage Hood"
+ascendedArchmageHatDescription,"+12 Magic +12 Defense"
+ascendedArchmageHatFlavor,"Mind ascended."
+
+# ========== QUESTS ==========
+
+# ========== COMMON ==========
+
+
+
+# ========== MAGE ==========
+
+crystalsInTheForgottenMineTitle,"Crystals in the Forgotten Mine"
+crystalsInTheForgottenMineDescription,"The Fire Guild senses raw magic beneath the forgotten tunnels.<br>Enter the mine and collect 3 Lizard Crystals."
+crystalsInTheForgottenMineSuccess,"You descend carefully into the mine, your staff illuminating the damp stone walls.<br>Faint blue light flickers between cracks in the rock — raw mana crystallized by time and pressure.<br>A few cave critters scatter as you collect the glowing shards.<br>By the time you emerge, your pouch hums softly with arcane energy.<br>The Guild will be pleased."
+crystalsInTheForgottenMineFailure,"Deeper in the tunnels, the air grows heavy and unstable. A sudden tremor shakes loose stones from above, forcing you to retreat before the passage collapses.<br>You leave empty-handed, your robes covered in dust — but at least you learned which paths are unsafe.<br>Next time, you’ll be better prepared."
+
+collapsedTunnelInvestigationTitle,"The Collapsed Tunnel"
+collapsedTunnelInvestigationDescription,"The lower chambers of the mine have partially collapsed after your last visit.<br>The Guild believes the arcane pulse comes from beyond the sealed passage."
+collapsedTunnelInvestigationSuccess,"You return to the mine with greater caution, the memory of falling stones still fresh in your mind.<br>With controlled bursts of <b>focused magic</b>, you carefully clear unstable debris without triggering another collapse.<br>Beyond the rubble, a faint crystal formation glows brighter than the others — pulsing like a heartbeat.<br>You collect fragments for the Guild and mark the deeper path for further study.<br>The source of the disturbance lies further below."
+collapsedTunnelInvestigationFailure,"As you attempt to clear the blocked passage, the weakened ceiling groans ominously.<br>A surge of unstable mana erupts from the fractured crystals, forcing you to shield yourself and retreat.<br>The tunnel remains sealed, and whatever lies beyond continues to pulse in the darkness.<br>You will need steadier control — and stronger magic — to proceed."
+
+crystalHeartGuardianTitle,"The Crystalheart Guardian"
+crystalHeartGuardianDescription,"Deep beneath the mine, the arcane pulse takes form.<br>A corrupted elemental guards the growing Crystalheart."
+crystalHeartGuardianSuccess,"The air thickens as you descend into the lowest chamber.<br>At its center floats a jagged mass of crystal and stone — a <b>Crystalheart Guardian</b>, born from unstable mana.<br>It lashes out in shards of glowing fragments, but your spells strike true.<br>With a final surge of focused power, the construct fractures and collapses into harmless crystal dust.<br>The chamber grows silent. The pulse weakens — but it is not yet gone."
+crystalHeartGuardianFailure,"The Crystalheart Guardian awakens fully as you enter the chamber.<br>Shards of crystal orbit its core, slicing through the air with violent precision.<br>Your spells falter against its unstable shell, and a blast of raw mana forces you back toward the tunnels.<br>You barely escape as the chamber trembles behind you.<br>The Guardian remains — stronger than expected."
+
+sealTheArcaneCoreTitle,"Seal the Arcane Core"
+sealTheArcaneCoreDescription,"With the Guardian destroyed, the true source of the disturbance is revealed.<br>Descend into the ley-line chamber and seal the unstable Arcane Core."
+sealTheArcaneCoreSuccess,"Beyond the shattered remains of the Guardian lies a cavern unlike the others.<br>At its center floats a swirling sphere of raw, untamed mana — the <b>Arcane Core</b>.<br>The ley-line pulses violently, threatening to rupture the entire mine.<br>You steady your breath and channel every fragment of discipline you possess.<br>Runes ignite around the chamber as you weave a sealing pattern into the air.<br>The Core resists — then slowly contracts, its light softening to a steady glow.<br>The tremors cease. The mine is safe.<br>When you emerge beneath the open sky, you feel stronger — changed by the power you contained."
+sealTheArcaneCoreFailure,"The Arcane Core surges the moment you approach it.<br>Raw mana lashes outward in chaotic waves, tearing at your focus.<br>You attempt to bind the energy, but the ley-line fractures under the strain.<br>The chamber erupts in blinding light, forcing you to retreat before the collapse consumes you.<br>The Core remains unstable, its pulse echoing through the depths.<br>This will require greater mastery — and perhaps a steadier mind."
+
+marshWhispersTitle,"Echoes in the Marsh of Whispers"
+marshWhispersDescription,"Strange lights flicker above the flooded ruins beyond the village marsh.<br>The Fire Guild asks you to investigate the disturbance and recover any surviving texts."
+marshWhispersSuccess,"Mist coils around your boots as you step into the marshlands.<br>Between broken stone pillars, you find the remains of an ancient archive half-sunken in dark water.<br>A faint magical resonance leads you to a sealed chest preserved by old warding runes.<br>With careful hands, you recover a damp but intact <b>Arcane Journal</b> from within.<br>The lights fade as you leave, as if satisfied their message was heard."
+marshWhispersFailure,"The marsh shifts beneath your steps, mud swallowing your footing.<br>A surge of cold, stagnant mana ripples through the flooded ruins, disrupting your focus.<br>You search briefly, but the unstable currents make it too dangerous to continue.<br>The lights flicker once more in the distance before vanishing into the mist."
+
+sunkenSealTitle,"The Sealed Floodgate"
+sunkenSealDescription,"The recovered Arcane Journal speaks of a hidden chamber beneath the flooded ruins.<br>Use its notes to locate and unseal the ancient floodgate."
+sunkenSealSuccess,"Following the journal’s faded diagrams, you wade deeper into the submerged archive.<br>Behind a curtain of hanging roots, you uncover a circular stone mechanism etched with old warding glyphs.<br>You press your palm against the runes and channel a steady flow of mana, aligning the pattern described in the <b>Arcane Journal</b>.<br>The floodgate trembles before slowly grinding open, revealing a hidden vault untouched by time.<br>Inside, resting upon a pedestal, you find an ornate <b>Silver Key</b> — still humming with protective magic."
+sunkenSealFailure,"You attempt to replicate the sealing pattern described in the journal, but the runes resist your control.<br>The marsh water surges violently as unstable magic reacts to your interference.<br>A sharp pulse of energy forces you back, and the glyphs dim once more.<br>The floodgate remains sealed, its secrets protected for now."
+
+drownedArchivistTitle,"The Drowned Archivist"
+drownedArchivistDescription,"Beyond the opened floodgate lies a submerged vault untouched for centuries.<br>Use the Silver Key to enter and confront what guards the forbidden knowledge."
+drownedArchivistSuccess,"The <b>Silver Key</b> turns with a heavy click, and the vault door slowly parts, releasing a breath of cold, stagnant air.<br>Inside, shelves of preserved tomes float in suspended water, held aloft by ancient magic.<br>At the chamber’s center rises a translucent figure — the <b>Drowned Archivist</b>, bound to protect the knowledge within.<br>You weave counter-spells through the waterlogged air, unraveling the spirit’s bindings without destroying it entirely.<br>With a final surge of focused mana, the entity dissipates into harmless mist, leaving behind a pulsating <b>Waterbound Sigil</b>.<br>The archive is now open — but its core still trembles below."
+drownedArchivistFailure,"As the vault opens, the chamber floods with spectral light.<br>The <b>Drowned Archivist</b> awakens in full, its voice echoing like distant bells beneath water.<br>Your spells distort in the dense, saturated air, and the spirit’s energy surges outward in a crushing wave.<br>You stagger back through the doorway as the vault seals itself once more.<br>The guardian remains vigilant, its duty not yet fulfilled."
+
+drownedCoreTitle,"Bind the Drowned Core"
+drownedCoreDescription,"With the Waterbound Sigil in your possession, the final chamber beneath the archive reveals itself.<br>Descend into the abyss and bind the unstable Drowned Core before it consumes the marsh."
+drownedCoreSuccess,"The depths beneath the archive open into a vast submerged cavern, illuminated by a spiraling vortex of blue-white energy.<br>At its center churns the <b>Drowned Core</b>, a fusion of ley-line currents and ancient preservation magic gone awry.<br>You raise the <b>Waterbound Sigil</b>, and its markings ignite in radiant light.<br>Channeling every ounce of discipline, you anchor the sigil’s pattern into the swirling heart of the vortex.<br>The waters roar and crash against invisible barriers, but your will holds steady.<br>Slowly, the violent currents soften, condensing into a stable, luminous sphere.<br>The marsh grows quiet. The ruins no longer whisper in unrest.<br>You leave the depths carrying the calm of a mage who has mastered chaos."
+drownedCoreFailure,"The cavern trembles as the <b>Drowned Core</b> senses your presence.<br>You invoke the <b>Waterbound Sigil</b>, but the vortex surges violently, overwhelming the binding pattern.<br>Water and raw mana spiral together in a deafening maelstrom, shattering your focus.<br>With the chamber collapsing around you, you are forced to retreat before the energy consumes everything.<br>The Core remains unstable, its restless pulse echoing through the marshlands."
+
+
+
+
+
+# ========== ARCHER ==========
+
+# ========== WARRIOR ==========

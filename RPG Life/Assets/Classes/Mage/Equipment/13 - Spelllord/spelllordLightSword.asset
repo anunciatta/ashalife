@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b2c437b0d843344a03b3610617404a, type: 3}
+  m_Name: spelllordLightSword
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSO
+  saveableEntityId: 9ab4f4f8-f452-4a00-83c2-b1462d9176e7
+  nameLabel: spelllordLightSwordName
+  descriptionLabel: spelllordLightSwordDescription
+  flavorLabel: spelllordLightSwordFlavor
+  level: 14
+  rarity: 3
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 9
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 0
+  - status: 5
+    value: 1
+  inventoryIcon: {fileID: -4878382437236373981, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 9
+  cost:
+    coinCost: 3800
+    gemCost: 44
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  weaponSprites:
+    leftHand:
+    - {fileID: 1019843130, guid: 648fec7df36d5564c91100142b10012b, type: 3}
+    rightHand: {fileID: 0}
+    back: {fileID: 0}

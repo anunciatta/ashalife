@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: eternalArcanistArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 85813b29-660c-418f-a27d-947708815b9b
+  nameLabel: eternalArcanistArmorName
+  descriptionLabel: eternalArcanistArmorDescription
+  flavorLabel: eternalArcanistArmorFlavor
+  level: 18
+  rarity: 4
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 14
+  - status: 3
+    value: 0
+  - status: 4
+    value: 50
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: -8912516942221221851, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 3
+  cost:
+    coinCost: 18000
+    gemCost: 225
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: 1517107423, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1431312661, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 312699357, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1791396988, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1290754067, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 112275879, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1959456030, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -2008293624, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 726193864, guid: dd8edb28093fb83458611031f699879c, type: 3}

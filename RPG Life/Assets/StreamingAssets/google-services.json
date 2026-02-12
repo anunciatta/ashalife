@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755248637958",
+    "firebase_url": "https://asha-life-app-default-rtdb.firebaseio.com",
+    "project_id": "asha-life-app",
+    "storage_bucket": "asha-life-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755248637958:android:9f24756c4f27d78b39fb87",
+        "android_client_info": {
+          "package_name": "com.donadagames.ashalife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755248637958-16brobjafn6r7085nufk1v6dbjk225q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donadagames.ashalife",
+            "certificate_hash": "413216c1fba73323eedba3c301f8c259c4f2f3ac"
+          }
+        },
+        {
+          "client_id": "755248637958-i8ei75ohg7d0eefait81ktuuaokanl94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWTdA1QsKKdoA-MCC9XM_GSQ_iAb8wUbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755248637958-i8ei75ohg7d0eefait81ktuuaokanl94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

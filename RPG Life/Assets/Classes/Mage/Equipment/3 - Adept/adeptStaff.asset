@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b2c437b0d843344a03b3610617404a, type: 3}
+  m_Name: adeptStaff
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSO
+  saveableEntityId: b0e95164-5d8d-4475-8bca-362666b7e89e
+  nameLabel: adeptStaffName
+  descriptionLabel: adeptStaffDescription
+  flavorLabel: adeptStaffFlavor
+  level: 4
+  rarity: 0
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 7
+  - status: 3
+    value: 0
+  - status: 4
+    value: 0
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: -444161441490002971, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 10
+  cost:
+    coinCost: 420
+    gemCost: 4
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  weaponSprites:
+    leftHand: []
+    rightHand: {fileID: 347059471853125838, guid: 648fec7df36d5564c91100142b10012b, type: 3}
+    back: {fileID: 0}

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b2c437b0d843344a03b3610617404a, type: 3}
+  m_Name: RedwoodBow
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSO
+  saveableEntityId: d99656f9-3558-482c-8ec3-1093fe4dc865
+  nameLabel: 
+  descriptionLabel: 
+  flavorLabel: 
+  level: 0
+  rarity: 0
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 0
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 0}
+  cost:
+    coinCost: 0
+    gemCost: 0
+  quantity: 0
+  relatedClasses: 
+  purchased: 0
+  weaponSprites:
+    leftHand:
+    - {fileID: 21300000, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    - {fileID: 21300002, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    - {fileID: 21300002, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    rightHand: {fileID: 0}
+    back: {fileID: 21300006, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}

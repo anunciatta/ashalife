@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: channelerArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 76fee3a2-787e-45eb-b62d-19cbd24f4a44
+  nameLabel: channelerArmorName
+  descriptionLabel: channelerArmorDescription
+  flavorLabel: channelerArmorFlavor
+  level: 5
+  rarity: 1
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 4
+  - status: 3
+    value: 0
+  - status: 4
+    value: 12
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 8669766685342484163, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 3
+  cost:
+    coinCost: 515
+    gemCost: 4
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -4283802791231508015, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 3896348887511920579, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -2334813264438798552, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -628736840, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 787796132, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: -1580089540, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1883973392, guid: dd8edb28093fb83458611031f699879c, type: 3}

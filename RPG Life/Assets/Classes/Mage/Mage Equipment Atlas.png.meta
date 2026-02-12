@@ -1,0 +1,1189 @@
+fileFormatVersion: 2
+guid: 648fec7df36d5564c91100142b10012b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 473125051213887103
+    second: Mage Equipment_Sprites_0
+  - first:
+      213: -9174773938401733322
+    second: Mage Equipment_Sprites_1
+  - first:
+      213: 2767360418009735286
+    second: Mage Equipment_Sprites_2
+  - first:
+      213: -158265410438312551
+    second: Mage Equipment_Sprites_3
+  - first:
+      213: 6321999348432244275
+    second: Mage Equipment_Sprites_4
+  - first:
+      213: 5783592745851379542
+    second: Mage Equipment_Sprites_5
+  - first:
+      213: 347059471853125838
+    second: Mage Equipment_Sprites_6
+  - first:
+      213: -7995157534626899397
+    second: Mage Equipment_Sprites_7
+  - first:
+      213: -5908239941466026804
+    second: Mage Equipment_Sprites_8
+  - first:
+      213: 3695099083871435226
+    second: Mage Equipment_Sprites_9
+  - first:
+      213: -7942921444440281511
+    second: Mage Equipment_Sprites_10
+  - first:
+      213: -3237447709666560133
+    second: Mage Equipment_Sprites_11
+  - first:
+      213: 6483417749488952027
+    second: Mage Equipment_Sprites_12
+  - first:
+      213: -8506688022155446960
+    second: Mage Equipment_Sprites_13
+  - first:
+      213: -4783308715141891260
+    second: Mage Equipment_Sprites_14
+  - first:
+      213: 5570336417778591981
+    second: Mage Equipment_Sprites_15
+  - first:
+      213: -4514598989686162176
+    second: Mage Equipment_Sprites_16
+  - first:
+      213: 8788602426555427714
+    second: Mage Equipment_Sprites_17
+  - first:
+      213: 2403790044431459418
+    second: Mage Equipment_Sprites_18
+  - first:
+      213: 162052836493748778
+    second: Mage Equipment_Sprites_19
+  - first:
+      213: -2607103626583997101
+    second: Mage Equipment_Sprites_20
+  - first:
+      213: -6554024034634783705
+    second: Mage Equipment_Sprites_21
+  - first:
+      213: 2416009745415568245
+    second: Mage Equipment_Sprites_22
+  - first:
+      213: 8409285022788960838
+    second: Mage Equipment_Sprites_23
+  - first:
+      213: 8222458336461132850
+    second: Mage Equipment_Sprites_24
+  - first:
+      213: 7029690275792049041
+    second: Mage Equipment_Sprites_25
+  - first:
+      213: -822268450743959484
+    second: Mage Equipment_Sprites_26
+  - first:
+      213: -6596086929928586263
+    second: Mage Equipment_Sprites_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ApprenticeStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9728
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.53, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7631f33ab0e09600800000000000000
+      internalID: 473125051213887103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApprenticeLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9728
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6359d0b86b7aca080800000000000000
+      internalID: -9174773938401733322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudentStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9216
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67062f853a3a76620800000000000000
+      internalID: 2767360418009735286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudentLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9216
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dc79e927abdcdf0800000000000000
+      internalID: -158265410438312551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InitiateStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8704
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0e8979e04cb750800000000000000
+      internalID: 6321999348432244275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InitiateLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8704
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5ff5a5f2734050800000000000000
+      internalID: 5783592745851379542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeptStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8192
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec08db730c001d400800000000000000
+      internalID: 347059471853125838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeptLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8192
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9649159e7b0190800000000000000
+      internalID: -7995157534626899397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChannelerStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc84219317b10ea0800000000000000
+      internalID: -5908239941466026804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChannelerLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7680
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad937001a01a74330800000000000000
+      internalID: 3695099083871435226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcanistStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eed49970315c190800000000000000
+      internalID: -7942921444440281511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcanistLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7168
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773c66f5764213d0800000000000000
+      internalID: -3237447709666560133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpellbinderStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6656
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd260c0b71ab9f950800000000000000
+      internalID: 6483417749488952027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpellbinderLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6656
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ba50705c22f980800000000000000
+      internalID: -8506688022155446960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagusStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bffee01164e9db0800000000000000
+      internalID: -4783308715141891260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagusLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6144
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de86d15857fcd4d40800000000000000
+      internalID: 5570336417778591981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SorcererStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5632
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d3b64632ce851c0800000000000000
+      internalID: -4514598989686162176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SorcererLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5632
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28be8fac75367f970800000000000000
+      internalID: 8788602426555427714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchanterStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5425f04f4afb5120800000000000000
+      internalID: 2403790044431459418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchanterLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5120
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aed0a323abf3200800000000000000
+      internalID: 162052836493748778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlemageStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35504dc8015b1dbd0800000000000000
+      internalID: -2607103626583997101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlemageLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4608
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724a83e7ddd6b05a0800000000000000
+      internalID: -6554024034634783705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RitualistStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b70691014678120800000000000000
+      internalID: 2416009745415568245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RitualistLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4096
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64249568c28c3b470800000000000000
+      internalID: 8409285022788960838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArchmageStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2341735ea4a0c1270800000000000000
+      internalID: 8222458336461132850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArchmageLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3584
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1935a999f0a7e8160800000000000000
+      internalID: 7029690275792049041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpelllordStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606dbd1a9d269954196f29dc19736818
+      internalID: 2080239331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpelllordLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3070
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de2a49d94169646b595ab4300349c1
+      internalID: 1019843130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidcallerStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b8455281f46434e971914406eba382
+      internalID: 497918775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidcallerLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2560
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec1f3fc38447a84e9d4f0ec32a937b1
+      internalID: 1236237300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstralStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc029b3845dfb45a9acefd5f310937
+      internalID: 1960115131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstralLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f618f442155cf4794b0e4749536d34
+      internalID: 477871056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MythicSageStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f84fb93b4ea24f4bb19483795a0e761
+      internalID: -934966181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MythicSageLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed79c48416e1e2842bfe840c29621ed6
+      internalID: 91090727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldweaverStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26138af01928e1438f972674311666c
+      internalID: 2131219719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldweaverLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede1cdc90c439c545b12d3780818415d
+      internalID: 1841073983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EternalArcanistStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1978dee7cd704749837d7ec6b05a188
+      internalID: -609194273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EternalArcanistLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b3d33044b15341b3dfaa7104b2388
+      internalID: -1913557993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AscendedArchmageStaff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fdcbaba088bd24e879a7f4ee3815cc
+      internalID: -1479435622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AscendedArchmageLightSword
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa23a44ff3464d44b2f0e83ac693b59
+      internalID: -519172483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3de2dc208e4f8234692fae7581111f73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":20.0},"gridSpriteSize":{"x":256.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.25},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AdeptLightSword: -7995157534626899397
+      AdeptStaff: 347059471853125838
+      ApprenticeLightSword: -9174773938401733322
+      ApprenticeStaff: 473125051213887103
+      ArcanistLightSword: -3237447709666560133
+      ArcanistStaff: -7942921444440281511
+      ArchmageLightSword: 7029690275792049041
+      ArchmageStaff: 8222458336461132850
+      AscendedArchmageLightSword: -519172483
+      AscendedArchmageStaff: -1479435622
+      AstralLightSword: 477871056
+      AstralStaff: 1960115131
+      BattlemageLightSword: -6554024034634783705
+      BattlemageStaff: -2607103626583997101
+      ChannelerLightSword: 3695099083871435226
+      ChannelerStaff: -5908239941466026804
+      EnchanterLightSword: 162052836493748778
+      EnchanterStaff: 2403790044431459418
+      EternalArcanistLightSword: -1913557993
+      EternalArcanistStaff: -609194273
+      InitiateLightSword: 5783592745851379542
+      InitiateStaff: 6321999348432244275
+      Mage Equipment_Sprites_0: 473125051213887103
+      Mage Equipment_Sprites_1: -9174773938401733322
+      Mage Equipment_Sprites_10: -7942921444440281511
+      Mage Equipment_Sprites_11: -3237447709666560133
+      Mage Equipment_Sprites_12: 6483417749488952027
+      Mage Equipment_Sprites_13: -8506688022155446960
+      Mage Equipment_Sprites_14: -4783308715141891260
+      Mage Equipment_Sprites_15: 5570336417778591981
+      Mage Equipment_Sprites_16: -4514598989686162176
+      Mage Equipment_Sprites_17: 8788602426555427714
+      Mage Equipment_Sprites_18: 2403790044431459418
+      Mage Equipment_Sprites_19: 162052836493748778
+      Mage Equipment_Sprites_2: 2767360418009735286
+      Mage Equipment_Sprites_20: -2607103626583997101
+      Mage Equipment_Sprites_21: -6554024034634783705
+      Mage Equipment_Sprites_22: 2416009745415568245
+      Mage Equipment_Sprites_23: 8409285022788960838
+      Mage Equipment_Sprites_24: 8222458336461132850
+      Mage Equipment_Sprites_25: 7029690275792049041
+      Mage Equipment_Sprites_26: 2080239331
+      Mage Equipment_Sprites_27: 1019843130
+      Mage Equipment_Sprites_28: 497918775
+      Mage Equipment_Sprites_29: 1236237300
+      Mage Equipment_Sprites_3: -158265410438312551
+      Mage Equipment_Sprites_30: 1960115131
+      Mage Equipment_Sprites_31: 477871056
+      Mage Equipment_Sprites_32: -934966181
+      Mage Equipment_Sprites_33: 91090727
+      Mage Equipment_Sprites_34: 2131219719
+      Mage Equipment_Sprites_35: 1841073983
+      Mage Equipment_Sprites_36: -609194273
+      Mage Equipment_Sprites_37: -1913557993
+      Mage Equipment_Sprites_38: -1479435622
+      Mage Equipment_Sprites_39: -519172483
+      Mage Equipment_Sprites_4: 6321999348432244275
+      Mage Equipment_Sprites_5: 5783592745851379542
+      Mage Equipment_Sprites_6: 347059471853125838
+      Mage Equipment_Sprites_7: -7995157534626899397
+      Mage Equipment_Sprites_8: -5908239941466026804
+      Mage Equipment_Sprites_9: 3695099083871435226
+      MagusLightSword: 5570336417778591981
+      MagusStaff: -4783308715141891260
+      MythicSageLightSword: 91090727
+      MythicSageStaff: -934966181
+      RitualistLightSword: 8409285022788960838
+      RitualistStaff: 2416009745415568245
+      SorcererLightSword: 8788602426555427714
+      SorcererStaff: -4514598989686162176
+      SpellbinderLightSword: -8506688022155446960
+      SpellbinderStaff: 6483417749488952027
+      SpelllordLightSword: 1019843130
+      SpelllordStaff: 2080239331
+      StudentLightSword: -158265410438312551
+      StudentStaff: 2767360418009735286
+      VoidcallerLightSword: 1236237300
+      VoidcallerStaff: 497918775
+      WorldweaverLightSword: 1841073983
+      WorldweaverStaff: 2131219719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

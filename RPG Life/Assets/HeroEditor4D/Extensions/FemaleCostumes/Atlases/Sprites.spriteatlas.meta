@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a772f0bdbec62d74ea69cf12616b83b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147364
+  packageName: 'Character Editor 4D [Megapack]'
+  packageVersion: 7.6
+  assetPath: Assets/HeroEditor4D/Extensions/FemaleCostumes/Atlases/Sprites.spriteatlas
+  uploadId: 795836

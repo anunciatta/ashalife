@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab1fd78367275e74d87998e5f033c231, type: 3}
+  m_Name: Small Health Potion
+  m_EditorClassIdentifier: Assembly-CSharp::PotionSO
+  saveableEntityId: 38c6d89d-b3bc-4ff5-bb6f-f5fbd0d04674
+  nameLabel: 
+  descriptionLabel: 
+  flavorLabel: 
+  level: 0
+  rarity: 0
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 20
+  - status: 1
+    value: 0
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 0
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 21300000, guid: d9830665969e6ee4e8f2e0970fdd5045, type: 3}
+  cost:
+    coinCost: 50
+    gemCost: 0
+  quantity: 0
+  relatedClasses: 000000000100000002000000
+  purchased: 0

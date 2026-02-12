@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99b95ce2635926145a57cc13661fc4d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147364
+  packageName: 'Character Editor 4D [Megapack]'
+  packageVersion: 7.6
+  assetPath: Assets/HeroEditor4D/Common/Animation/Upper/CastU.anim
+  uploadId: 795836

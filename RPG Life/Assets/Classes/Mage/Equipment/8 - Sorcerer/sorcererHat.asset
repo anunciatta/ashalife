@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf9c43d325cf5e4ca70ed57d93661f2, type: 3}
+  m_Name: sorcererHat
+  m_EditorClassIdentifier: Assembly-CSharp::HelmetSO
+  saveableEntityId: 7d6c5825-5ed5-41e0-b6c3-72a59c96fd10
+  nameLabel: sorcererHatName
+  descriptionLabel: sorcererHatDescription
+  flavorLabel: sorcererHatFlavor
+  level: 9
+  rarity: 2
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 3
+  - status: 3
+    value: 0
+  - status: 4
+    value: 3
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 992673935533607519, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 8
+  cost:
+    coinCost: 840
+    gemCost: 8
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  helmetSpriteConfig:
+    sprite: {fileID: -1926627976498978385, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    coverHair: 1
+    coverEars: 1

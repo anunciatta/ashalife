@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: studentArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 244e0416-7828-487e-80e9-e3ef198ee5e4
+  nameLabel: studentArmorName
+  descriptionLabel: studentArmorDescription
+  flavorLabel: studentArmorFlavor
+  level: 2
+  rarity: 0
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 2
+  - status: 3
+    value: 0
+  - status: 4
+    value: 7
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 3965477976496202888, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 3
+  cost:
+    coinCost: 190
+    gemCost: 1
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -1915118026133145400, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 5816306608092427403, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 8484082088856357038, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 1521260991, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -467746441, guid: dd8edb28093fb83458611031f699879c, type: 3}

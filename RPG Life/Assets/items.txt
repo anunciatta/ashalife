@@ -1,0 +1,319 @@
+recruitWeaponName,"Recruit Sword"
+recruitWeaponDescription,"+4 Attack"
+recruitWeaponFlavor,"Simple steel, honest weight."
+
+recruitShieldName,"Recruit Shield"
+recruitShieldDescription,"+3 Defense"
+recruitShieldFlavor,"Held more than trusted."
+
+recruitArmorName,"Recruit Armor"
+recruitArmorDescription,"+6 Health +2 Defense"
+recruitArmorFlavor,"Issued, not earned."
+
+recruitHelmetName,"Recruit Helmet"
+recruitHelmetDescription,"+1 Defense"
+recruitHelmetFlavor,"Still smells new."
+
+footmanWeaponName,"Footman Sword"
+footmanWeaponDescription,"+5 Attack"
+footmanWeaponFlavor,"Reliable in formation."
+
+footmanShieldName,"Footman Shield"
+footmanShieldDescription,"+4 Defense"
+footmanShieldFlavor,"Holds the line."
+
+footmanArmorName,"Footman Armor"
+footmanArmorDescription,"+7 Health +2 Defense"
+footmanArmorFlavor,"March-worn."
+
+footmanHelmetName,"Footman Helmet"
+footmanHelmetDescription,"+1 Defense"
+footmanHelmetFlavor,"Seen many roads."
+
+squireWeaponName,"Squire Sword"
+squireWeaponDescription,"+6 Attack +1 Critical"
+squireWeaponFlavor,"Eager hands wield it."
+
+squireShieldName,"Squire Shield"
+squireShieldDescription,"+4 Defense"
+squireShieldFlavor,"Still learning blocks."
+
+squireArmorName,"Squire Armor"
+squireArmorDescription,"+8 Health +3 Defense"
+squireArmorFlavor,"Adjusted too often."
+
+squireHelmetName,"Squire Helmet"
+squireHelmetDescription,"+1 Defense"
+squireHelmetFlavor,"Fits better now."
+
+vanguardWeaponName,"Vanguard Sword"
+vanguardWeaponDescription,"+7 Attack"
+vanguardWeaponFlavor,"First to strike."
+
+vanguardShieldName,"Vanguard Shield"
+vanguardShieldDescription,"+5 Defense"
+vanguardShieldFlavor,"Never retreats."
+
+vanguardArmorName,"Vanguard Armor"
+vanguardArmorDescription,"+9 Health +3 Defense"
+vanguardArmorFlavor,"Frontline steel."
+
+vanguardHelmetName,"Vanguard Helmet"
+vanguardHelmetDescription,"+2 Defense"
+vanguardHelmetFlavor,"Scarred and proud."
+
+defenderWeaponName,"Defender Sword"
+defenderWeaponDescription,"+9 Attack"
+defenderWeaponFlavor,"Measured swings."
+
+defenderShieldName,"Defender Shield"
+defenderShieldDescription,"+7 Defense"
+defenderShieldFlavor,"Unmoving."
+
+defenderArmorName,"Defender Armor"
+defenderArmorDescription,"+12 Health +4 Defense"
+defenderArmorFlavor,"Built to endure."
+
+defenderHelmetName,"Defender Helmet"
+defenderHelmetDescription,"+2 Defense"
+defenderHelmetFlavor,"Heavy gaze."
+
+ironGuardWeaponName,"Iron Guard Sword"
+ironGuardWeaponDescription,"+10 Attack"
+ironGuardWeaponFlavor,"Unyielding strikes."
+
+ironGuardShieldName,"Iron Guard Shield"
+ironGuardShieldDescription,"+8 Defense"
+ironGuardShieldFlavor,"Cold and solid."
+
+ironGuardArmorName,"Iron Guard Armor"
+ironGuardArmorDescription,"+14 Health +4 Defense"
+ironGuardArmorFlavor,"Forged thick."
+
+ironGuardHelmetName,"Iron Guard Helmet"
+ironGuardHelmetDescription,"+2 Defense"
+ironGuardHelmetFlavor,"Iron will."
+
+knightWeaponName,"Knight Sword"
+knightWeaponDescription,"+11 Attack +1 Critical"
+knightWeaponFlavor,"Honored blade."
+
+knightShieldName,"Knight Shield"
+knightShieldDescription,"+8 Defense"
+knightShieldFlavor,"Heraldry worn."
+
+knightArmorName,"Knight Armor"
+knightArmorDescription,"+16 Health +5 Defense"
+knightArmorFlavor,"Polished duty."
+
+knightHelmetName,"Knight Helmet"
+knightHelmetDescription,"+3 Defense"
+knightHelmetFlavor,"Noble weight."
+
+sentinelWeaponName,"Sentinel Sword"
+sentinelWeaponDescription,"+12 Attack"
+sentinelWeaponFlavor,"Always watching."
+
+sentinelShieldName,"Sentinel Shield"
+sentinelShieldDescription,"+9 Defense"
+sentinelShieldFlavor,"Never lowered."
+
+sentinelArmorName,"Sentinel Armor"
+sentinelArmorDescription,"+18 Health +5 Defense"
+sentinelArmorFlavor,"Endless vigil."
+
+sentinelHelmetName,"Sentinel Helmet"
+sentinelHelmetDescription,"+3 Defense"
+sentinelHelmetFlavor,"Eyes forward."
+
+templarWeaponName,"Templar Sword"
+templarWeaponDescription,"+14 Attack +1 Critical"
+templarWeaponFlavor,"Faith-driven steel."
+
+templarShieldName,"Templar Shield"
+templarShieldDescription,"+11 Defense"
+templarShieldFlavor,"Sacred guard."
+
+templarArmorName,"Templar Armor"
+templarArmorDescription,"+22 Health +6 Defense"
+templarArmorFlavor,"Oath-bound."
+
+templarHelmetName,"Templar Helmet"
+templarHelmetDescription,"+4 Defense"
+templarHelmetFlavor,"Vowed sight."
+
+crusaderWeaponName,"Crusader Sword"
+crusaderWeaponDescription,"+15 Attack"
+crusaderWeaponFlavor,"Unstoppable march."
+
+crusaderShieldName,"Crusader Shield"
+crusaderShieldDescription,"+12 Defense"
+crusaderShieldFlavor,"Wall of faith."
+
+crusaderArmorName,"Crusader Armor"
+crusaderArmorDescription,"+24 Health +6 Defense"
+crusaderArmorFlavor,"Relentless armor."
+
+crusaderHelmetName,"Crusader Helmet"
+crusaderHelmetDescription,"+4 Defense"
+crusaderHelmetFlavor,"Crusade-marked."
+
+warlordWeaponName,"Warlord Sword"
+warlordWeaponDescription,"+16 Attack +2 Critical"
+warlordWeaponFlavor,"Commanding force."
+
+warlordShieldName,"Warlord Shield"
+warlordShieldDescription,"+13 Defense"
+warlordShieldFlavor,"Battle-tested."
+
+warlordArmorName,"Warlord Armor"
+warlordArmorDescription,"+26 Health +7 Defense"
+warlordArmorFlavor,"Scar-lined."
+
+warlordHelmetName,"Warlord Helmet"
+warlordHelmetDescription,"+4 Defense"
+warlordHelmetFlavor,"Unquestioned authority."
+
+championWeaponName,"Champion Sword"
+championWeaponDescription,"+17 Attack"
+championWeaponFlavor,"Crowd favorite."
+
+championShieldName,"Champion Shield"
+championShieldDescription,"+14 Defense"
+championShieldFlavor,"Victory-marked."
+
+championArmorName,"Champion Armor"
+championArmorDescription,"+28 Health +7 Defense"
+championArmorFlavor,"Arena forged."
+
+championHelmetName,"Champion Helmet"
+championHelmetDescription,"+5 Defense"
+championHelmetFlavor,"Cheers remembered."
+
+juggernautWeaponName,"Juggernaut Sword"
+juggernautWeaponDescription,"+20 Attack +2 Critical"
+juggernautWeaponFlavor,"Nothing stops it."
+
+juggernautShieldName,"Juggernaut Shield"
+juggernautShieldDescription,"+16 Defense"
+juggernautShieldFlavor,"Breaks lines."
+
+juggernautArmorName,"Juggernaut Armor"
+juggernautArmorDescription,"+32 Health +8 Defense"
+juggernautArmorFlavor,"Crushing weight."
+
+juggernautHelmetName,"Juggernaut Helmet"
+juggernautHelmetDescription,"+5 Defense"
+juggernautHelmetFlavor,"Unmovable."
+
+dreadnoughtWeaponName,"Dreadnought Sword"
+dreadnoughtWeaponDescription,"+21 Attack"
+dreadnoughtWeaponFlavor,"Fear given form."
+
+dreadnoughtShieldName,"Dreadnought Shield"
+dreadnoughtShieldDescription,"+17 Defense"
+dreadnoughtShieldFlavor,"Unbreakable."
+
+dreadnoughtArmorName,"Dreadnought Armor"
+dreadnoughtArmorDescription,"+34 Health +8 Defense"
+dreadnoughtArmorFlavor,"Heavy silence."
+
+dreadnoughtHelmetName,"Dreadnought Helmet"
+dreadnoughtHelmetDescription,"+6 Defense"
+dreadnoughtHelmetFlavor,"Cold resolve."
+
+warmasterWeaponName,"Warmaster Sword"
+warmasterWeaponDescription,"+22 Attack +3 Critical"
+warmasterWeaponFlavor,"Victory-maker."
+
+warmasterShieldName,"Warmaster Shield"
+warmasterShieldDescription,"+18 Defense"
+warmasterShieldFlavor,"Command wall."
+
+warmasterArmorName,"Warmaster Armor"
+warmasterArmorDescription,"+36 Health +9 Defense"
+warmasterArmorFlavor,"Battle doctrine."
+
+warmasterHelmetName,"Warmaster Helmet"
+warmasterHelmetDescription,"+6 Defense"
+warmasterHelmetFlavor,"Eyes of war."
+
+colossusWeaponName,"Colossus Sword"
+colossusWeaponDescription,"+24 Attack"
+colossusWeaponFlavor,"Earth-shaking."
+
+colossusShieldName,"Colossus Shield"
+colossusShieldDescription,"+19 Defense"
+colossusShieldFlavor,"Titan forged."
+
+colossusArmorName,"Colossus Armor"
+colossusArmorDescription,"+38 Health +9 Defense"
+colossusArmorFlavor,"Mountain plate."
+
+colossusHelmetName,"Colossus Helmet"
+colossusHelmetDescription,"+7 Defense"
+colossusHelmetFlavor,"Immovable gaze."
+
+mythicGuardianWeaponName,"Mythic Guardian Sword"
+mythicGuardianWeaponDescription,"+27 Attack +3 Critical"
+mythicGuardianWeaponFlavor,"Legendary might."
+
+mythicGuardianShieldName,"Mythic Guardian Shield"
+mythicGuardianShieldDescription,"+22 Defense"
+mythicGuardianShieldFlavor,"Legend-bound."
+
+mythicGuardianArmorName,"Mythic Guardian Armor"
+mythicGuardianArmorDescription,"+42 Health +10 Defense"
+mythicGuardianArmorFlavor,"Myth remembered."
+
+mythicGuardianHelmetName,"Mythic Guardian Helmet"
+mythicGuardianHelmetDescription,"+8 Defense"
+mythicGuardianHelmetFlavor,"Eternal watch."
+
+worldbreakerWeaponName,"Worldbreaker Sword"
+worldbreakerWeaponDescription,"+29 Attack"
+worldbreakerWeaponFlavor,"Shatters fate."
+
+worldbreakerShieldName,"Worldbreaker Shield"
+worldbreakerShieldDescription,"+24 Defense"
+worldbreakerShieldFlavor,"World-worn."
+
+worldbreakerArmorName,"Worldbreaker Armor"
+worldbreakerArmorDescription,"+46 Health +11 Defense"
+worldbreakerArmorFlavor,"Cracked earth."
+
+worldbreakerHelmetName,"Worldbreaker Helmet"
+worldbreakerHelmetDescription,"+9 Defense"
+worldbreakerHelmetFlavor,"Endless war."
+
+eternalWarlordWeaponName,"Eternal Warlord Sword"
+eternalWarlordWeaponDescription,"+31 Attack +4 Critical"
+eternalWarlordWeaponFlavor,"Never yields."
+
+eternalWarlordShieldName,"Eternal Warlord Shield"
+eternalWarlordShieldDescription,"+26 Defense"
+eternalWarlordShieldFlavor,"Ages endured."
+
+eternalWarlordArmorName,"Eternal Warlord Armor"
+eternalWarlordArmorDescription,"+50 Health +12 Defense"
+eternalWarlordArmorFlavor,"Time-scarred."
+
+eternalWarlordHelmetName,"Eternal Warlord Helmet"
+eternalWarlordHelmetDescription,"+10 Defense"
+eternalWarlordHelmetFlavor,"Unending command."
+
+ascendedWarlordWeaponName,"Ascended Warlord Sword"
+ascendedWarlordWeaponDescription,"+34 Attack +5 Critical"
+ascendedWarlordWeaponFlavor,"Power perfected."
+
+ascendedWarlordShieldName,"Ascended Warlord Shield"
+ascendedWarlordShieldDescription,"+28 Defense"
+ascendedWarlordShieldFlavor,"Beyond breaking."
+
+ascendedWarlordArmorName,"Ascended Warlord Armor"
+ascendedWarlordArmorDescription,"+60 Health +14 Defense"
+ascendedWarlordArmorFlavor,"Above all battles."
+
+ascendedWarlordHelmetName,"Ascended Warlord Helmet"
+ascendedWarlordHelmetDescription,"+12 Defense"
+ascendedWarlordHelmetFlavor,"War incarnate."

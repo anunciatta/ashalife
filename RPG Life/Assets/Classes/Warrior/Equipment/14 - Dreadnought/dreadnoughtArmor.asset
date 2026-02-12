@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: dreadnoughtArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 872188fe-ddf0-4f72-a7d1-7cb43efc8a0d
+  nameLabel: dreadnoughtArmorName
+  descriptionLabel: dreadnoughtArmorDescription
+  flavorLabel: dreadnoughtArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: 7520058154828845814, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -6553937928675748483, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 4346308846648129297, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 228324996640394360, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 5080271039781797936, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -3970045988261049388, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 7557027484744397623, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 5229018611922419221, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -8014653609154026040, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa53b3a81e8356a4bbd652cb16cbdea8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147364
+  packageName: 'Character Editor 4D [Megapack]'
+  packageVersion: 7.6
+  assetPath: Assets/HeroEditor4D/Common/Prefabs/Links.prefab
+  uploadId: 795836

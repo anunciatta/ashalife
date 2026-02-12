@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b2c437b0d843344a03b3610617404a, type: 3}
+  m_Name: Ascended Warlord Axe
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSO
+  saveableEntityId: 7e1e7e28-12e2-460c-b6b5-2f08062fd21c
+  nameLabel: ascendedWarlordAxeName
+  descriptionLabel: ascendedWarlordAxeDescription
+  flavorLabel: ascendedWarlordAxeFlavor
+  level: 0
+  rarity: 4
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 31
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 0
+  - status: 5
+    value: 6
+  inventoryIcon: {fileID: 21300000, guid: 4887b9c0687473a41964440f93ce027b, type: 3}
+  cost:
+    coinCost: 1700
+    gemCost: 2
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  weaponSprites:
+    leftHand: []
+    rightHand: {fileID: 21300000, guid: ea6f8af224d7ec54dad945a956560176, type: 3}
+    back: {fileID: 0}

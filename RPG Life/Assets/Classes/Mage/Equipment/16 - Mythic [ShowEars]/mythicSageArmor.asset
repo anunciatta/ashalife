@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: mythicSageArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 47418d5c-5226-454a-b3cb-815684e9ae62
+  nameLabel: mythicSageArmorName
+  descriptionLabel: mythicSageArmorDescription
+  flavorLabel: mythicSageArmorFlavor
+  level: 17
+  rarity: 4
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 12
+  - status: 3
+    value: 0
+  - status: 4
+    value: 42
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 1282291168983499290, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 0
+  cost:
+    coinCost: 11400
+    gemCost: 138
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -130200174, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 2131812203, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1980076266, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 463939981, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 474123105, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -61445674, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1117323734, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -357013064, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1728784571, guid: dd8edb28093fb83458611031f699879c, type: 3}

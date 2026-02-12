@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: ironGuardArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: c70ec2e3-d718-4725-9f9b-cb850724c3d2
+  nameLabel: ironGuardArmorName
+  descriptionLabel: ironGuardArmorDescription
+  flavorLabel: ironGuardArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: 8008881891784487216, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -1093786982066326720, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -40980197604466327, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 8382864817609890332, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -1327821412720546862, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -1529586518670628938, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -8029525759587287103, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -855998497291661534, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -5929309581703097585, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: sentinelArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 2771166f-9d51-4c1a-a62c-108cf6168ae0
+  nameLabel: sentinelArmorName
+  descriptionLabel: sentinelArmorDescription
+  flavorLabel: sentinelArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -6428455479274631402, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -793894312407973130, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -712926877045802348, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -2303438341655200728, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 7633994258885437231, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -8302668715808397395, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 2108998533761319139, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 9000744614826417617, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -3244117442778749137, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf9c43d325cf5e4ca70ed57d93661f2, type: 3}
+  m_Name: battlemageHat
+  m_EditorClassIdentifier: Assembly-CSharp::HelmetSO
+  saveableEntityId: 8c2f3183-dcdc-4869-aec7-0861796ccd7e
+  nameLabel: battlemageHatName
+  descriptionLabel: battlemageHatDescription
+  flavorLabel: battlemageHatFlavor
+  level: 11
+  rarity: 2
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 4
+  - status: 3
+    value: 0
+  - status: 4
+    value: 4
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: -3102242331602390990, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 8
+  cost:
+    coinCost: 1380
+    gemCost: 15
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  helmetSpriteConfig:
+    sprite: {fileID: -5056110907489921955, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    coverHair: 1
+    coverEars: 1

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: defenderArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 9629f0dd-4d7b-4339-bb7a-e1147960ecfa
+  nameLabel: defenderArmorName
+  descriptionLabel: defenderArmorDescription
+  flavorLabel: defenderArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: 4894654853846083503, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -6528907632344254885, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -7950427247675760471, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 3022208221188802691, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 4467434483967160961, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 2360188946413686190, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -1443991691860826269, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 3248993655107496612, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -1472701105016366738, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}

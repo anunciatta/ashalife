@@ -1,0 +1,1250 @@
+﻿label@Value
+
+# ========== CLASSES ==========
+
+archer,"Arqueiro"
+warrior,"Guerreiro"
+mage,"Mago"
+
+# ========== NAVIGATION PANEL ==========
+
+inventory,"Inventário"
+shop,"Mercado"
+quests,"Missões"
+dailies,"Diária"
+habits,"Hábitos"
+
+language,"Idioma"
+faq,"FAQ"
+contact,"Contato"
+account,"Conta"
+status,"Status"
+
+# ========== TABS ==========
+
+allLabel,"Todos"
+todayLabel,"Hoje"
+pendingLabel,"Pendentes"
+completedLabel,"Completos"
+newLabel,"Novo"
+
+# ========== SHOP ==========
+
+newItemAdded,"Novo item adicionado ao inventário"
+notEnoughToBuy,"Você não tem o suficiente para comprar esse item"
+equipped,"Equipado"
+
+# ========== POPUPS ==========
+
+receivingExperience,"Você recebeu {value} pontos de experiência"
+receivingHealth,"Você recuperou {value} pontos de vida"
+receivingCoins,"Você recebeu {value} coins"
+receivingGems,"Você recebeu {value} gems"
+
+losingExperience,"Você perdeu {value} pontos de experiência"
+losingHealth,"Você perdeu {value} pontos de vida"
+losingCoins,"Você perdeu {value} moedas"
+losingGems,"Você perdeu {value} gemas"
+spendingCoins,"Você gastou {value} moedas"
+spendingGems,"Você gastou {value} gemas"
+
+dailyAlreadyCounted,"Já contabilizado hoje"
+weeklyAlreadyCounted,"Já contabilizado nesta semana"
+monthlyAlreadyCounted,"Já contabilizado neste mês"
+yearlyAlreadyCounted,"Já contabilizado neste ano"
+
+confirmDeleteCharacter,"Tem certeza de que deseja excluir este personagem? Esta ação não pode ser desfeita."
+confirmDeleteHabit,"Tem certeza de que deseja excluir este hábito? Seu progresso atual será perdido."
+confirmDeleteDaily,"Tem certeza de que deseja excluir esta tarefa diária? Esta ação não pode ser desfeita."
+
+confirmDeleteCharacterTitle,"Deletar personagem?"
+confirmDeleteHabitTitle,"Deletar hábito?"
+confirmDeleteDailyTitle,"Deletar tarefa diária?"
+
+beginAgain,"Você sempre pode começar de novo."
+
+somethingWrong,"Algo não saiu como esperado. Tente novamente."
+invalidInput,"Algo não parece certo."
+
+levelDown,"Um pequeno tropeço. Continue em frente."
+levelUp,"Subiu de nível! Pequenos passos, progresso real."
+
+nextYearAvailable,"Disponível em 31 de Dezembro"
+nextMonthAvailable,"Disponível no último dia do mês"
+nextWeekAvailable,"Disponível aos Domingos"
+habitCompleted,"Hábito concluído. Sua consistência valeu a pena"
+
+# ========== BUTTONS ==========
+
+continueButton,"Continuar"
+selectButton,"Selecionar"
+createButton,"Criar"
+saveButton,"Salvar"
+beginAdventureButton,"Começar Aventura"
+logOutButton,"Sair"
+confirmButton,"Confirmar"
+cancelButton,"Cancelar"
+
+# ========== STATUS ==========
+
+Health,"Integridade"
+Critical,"Crítico"
+Agility,"Agilidade"
+Magic,"Mágica"
+Attack,"Ataque"
+Defense,"Defesa"
+Experience,"Experiência"
+Energy,"Energia"
+
+# ========== CHARACTER SELECTION ==========
+
+noCharactersYetTitle,"Sua jornada começa aqui."
+noCharactersYetDescription,"Você ainda não tem um personagem.<br>Crie um para começar a jogar.<br><br>Você pode criar até 3 personagens, um para cada classe: Guerreiro, Arqueiro e Mago.<br>"
+
+# ========== CHARACTER CUSTOMIZATION ==========
+
+classLabel,"Classe"
+bodyLabel,"Corpo"
+eyesLabel,"Olhos"
+hairLabel,"Cabelo"
+eyebrowsLabel,"Sobrancelha"
+earsLabel,"Orelha"
+mouthLabel,"Boca"
+beardLabel,"Barba"
+makeupLabel,"Maquiagem"
+accessoryLabel,"Acessório"
+
+backToCharacterSelectionLabel,"Seleção de Personagens"
+
+# ========== NEW HABIT PANEL ==========
+
+dailyFlavor,"<b>Faça um check-in todos os dias para acompanhar este hábito.</b><br>Bom para hábitos que exigem atenção diária, consistência ou evitação.<br><b>Exemplo</b>: Evite comer doces.<br>Concluído após <b>90 dias consecutivos</b> de check-ins positivos."
+weeklyFlavor, "<b>Revise seu progresso uma vez por semana.</b><br>Bom para hábitos que exigem esforço regular e flexibilidade, sem a pressão do acompanhamento diário.<br><b>Exemplo:</b> Ir à academia 3 vezes por semana.<br>Concluído após <b>12 semanas consecutivas</b> de verificações positivas."
+monthlyFlavor, "<b>Revise seu progresso uma vez por mês.</b><br>Bom para hábitos que precisam de reflexão, planejamento ou progresso constante, sem verificações frequentes.<br><b>Exemplo:</b> Ler um livro por mês.<br>Concluído após <b>6 meses consecutivos</b> de verificações positivas."
+yearlyFlavor, "<b>Revise seu progresso uma vez por ano.</b><br>Bom para hábitos focados em crescimento a longo prazo, direção de vida ou identidade.<br><b>Exemplo:</b> Construa estabilidade financeira.<br>Concluído após <b>3 anos consecutivos</b> de verificações positivas."
+
+habitTrivialDifficultyFlavor,"<b>Em marcas positivas:</b><br>+2 experiência e +2 moedas<br><b>Ao completar:</b><br>+100 experiência e +100 moedas"
+habitEasyDifficultyFlavor,"<b>Em marcas positivas:</b><br>+4 experiência e +4 moedas<br><b>Ao completar:</b><br>+200 experiência, +200 moedas e 1 cristal"
+habitMediumlDifficultyFlavor,"<b>Em marcas positivas:</b><br>+6 experiência e +6 moedas<br><b>Ao completar:</b><br>+350 experiência, +350 moedas e 2 cristais"
+habitHardDifficultyFlavor,"<b>Em marcas positivas:</b><br>+8 experiência e +8 moedas<br><b>Ao completar:</b><br>+600 experiência, +600 moedas e 3 cristais"
+
+backToHabitsLabel,"Hábitos"
+
+titleLabel,"Título"
+difficultyLabel,"Dificuldade"
+notesLabel,"Notas"
+checkLabel,"Verificação"
+countLabel,"Contagem"
+somethingWrongInput,"Algo de errado com esse campo"
+dailyLabel,"Diária"
+monthlyLabel,"Mensal"
+yearlyLabel,"Anual"
+weeklyLabel,"Semanal"
+trivialLabel,"Trivial"
+easyLabel,"Fácil"
+mediumLabel,"Moderado"
+moderateLabel,"Moderado"
+hardLabel,"Difícil"
+repeatsLabel,"Repetição"
+startDateLabel,"Data de início"
+repeatEveryLabel,"Repetir a cada"
+repeatOnLabel,"Repetir em"
+selectADateLabel,"Selecione uma data"
+importantNotesAboutThisDailyTaskLabel,"Notas importantes sobre essa tarefa"
+newDailyTaskLabel,"Nova tarefa"
+newHabitTaskLabel,"Novo Hábito"
+importantNotesAboutThisHabitLabel,"Notas importantes sobre esse hábito"
+
+sunLabel,"Dom"
+monLabel,"Seg"
+tueLabel,"Ter"
+wedLabel,"Qua"
+thuLabel,"Qui"
+friLabel,"Sex"
+satLabel,"Sáb"
+
+# ========== QUEST PANEL ==========
+
+cost,"Cost"
+chance,"Success Chance"
+failure,"Failure"
+success,"Success"
+test,"Test"
+
+# ========== NEW DAYLY PANEL ==========
+
+dailyTrivialDifficultyFlavor,"+5 experiência e +5 moedas ao completar"
+dailyEasyDifficultyFlavor,"+10 experiência e +10 moedas ao completar"
+dailyMediumlDifficultyFlavor,"+15 experiência e +15 moedas ao completar"
+dailyHardDifficultyFlavor,"+20 experiência e +20 moedas ao completar"
+
+backToDailiesLabel,"Tarefas diárias"
+
+activeToday,"Ativo hoje"
+activeOn,"Ativo em"
+archived,"Arquivado"
+notToday,"Essa tarefa está inativa hoje."
+
+# ========== COMMON ITEM ==========
+
+coinName,"Moedas"
+coinDescription,""
+coinFlavor,""
+
+# ========== COMMON ==========
+
+# ========== UNCOMMON ==========
+
+# ========== RARE ==========
+
+# ========== EPIC ==========
+
+# ========== LEGENDARY ==========
+
+# ========== WARRIOR ITEM ==========
+
+# ========== COMMON ==========
+
+recruitWeaponName,"Espada de Recruta"
+recruitWeaponDescription,"+4 Ataque"
+recruitWeaponFlavor,"Aço simples, peso honesto."
+
+recruitShieldName,"Escudo de Recruta"
+recruitShieldDescription,"+3 Defesa"
+recruitShieldFlavor,"Mais segurado do que confiável."
+
+recruitArmorName,"Armadura de Recruta"
+recruitArmorDescription,"+6 Vida +2 Defesa"
+recruitArmorFlavor,"Distribuída, não conquistada."
+
+recruitHelmetName,"Elmo de Recruta"
+recruitHelmetDescription,"+1 Defesa"
+recruitHelmetFlavor,"Ainda parece novo."
+
+footmanWeaponName,"Espada do Soldado"
+footmanWeaponDescription,"+5 Ataque"
+footmanWeaponFlavor,"Confiável em formação."
+
+footmanShieldName,"Escudo do Soldado"
+footmanShieldDescription,"+4 Defesa"
+footmanShieldFlavor,"Mantém a linha."
+
+footmanArmorName,"Armadura do Soldado"
+footmanArmorDescription,"+7 Vida +2 Defesa"
+footmanArmorFlavor,"Marcada pela marcha."
+
+footmanHelmetName,"Elmo do Soldado"
+footmanHelmetDescription,"+1 Defesa"
+footmanHelmetFlavor,"Viu muitas estradas."
+
+squireWeaponName,"Espada do Escudeiro"
+squireWeaponDescription,"+6 Ataque +1 Crítico"
+squireWeaponFlavor,"Empunhada com entusiasmo."
+
+squireShieldName,"Escudo do Escudeiro"
+squireShieldDescription,"+4 Defesa"
+squireShieldFlavor,"Ainda aprendendo a bloquear."
+
+squireArmorName,"Armadura do Escudeiro"
+squireArmorDescription,"+8 Vida +3 Defesa"
+squireArmorFlavor,"Ajustada vezes demais."
+
+squireHelmetName,"Elmo do Escudeiro"
+squireHelmetDescription,"+1 Defesa"
+squireHelmetFlavor,"Agora encaixa melhor."
+
+vanguardWeaponName,"Espada da Vanguarda"
+vanguardWeaponDescription,"+7 Ataque"
+vanguardWeaponFlavor,"Primeira a golpear."
+
+vanguardShieldName,"Escudo da Vanguarda"
+vanguardShieldDescription,"+5 Defesa"
+vanguardShieldFlavor,"Nunca recua."
+
+vanguardArmorName,"Armadura da Vanguarda"
+vanguardArmorDescription,"+9 Vida +3 Defesa"
+vanguardArmorFlavor,"Aço da linha de frente."
+
+vanguardHelmetName,"Elmo da Vanguarda"
+vanguardHelmetDescription,"+2 Defesa"
+vanguardHelmetFlavor,"Marcado e orgulhoso."
+
+defenderWeaponName,"Espada do Defensor"
+defenderWeaponDescription,"+9 Ataque"
+defenderWeaponFlavor,"Golpes calculados."
+
+defenderShieldName,"Escudo do Defensor"
+defenderShieldDescription,"+7 Defesa"
+defenderShieldFlavor,"Inabalável."
+
+defenderArmorName,"Armadura do Defensor"
+defenderArmorDescription,"+12 Vida +4 Defesa"
+defenderArmorFlavor,"Feita para resistir."
+
+defenderHelmetName,"Elmo do Defensor"
+defenderHelmetDescription,"+2 Defesa"
+defenderHelmetFlavor,"Olhar pesado."
+
+# ========== UNCOMMON ==========
+
+ironGuardWeaponName,"Espada da Guarda de Ferro"
+ironGuardWeaponDescription,"+10 Ataque"
+ironGuardWeaponFlavor,"Golpes inflexíveis."
+
+ironGuardShieldName,"Escudo da Guarda de Ferro"
+ironGuardShieldDescription,"+8 Defesa"
+ironGuardShieldFlavor,"Frio e sólido."
+
+ironGuardArmorName,"Armadura da Guarda de Ferro"
+ironGuardArmorDescription,"+14 Vida +4 Defesa"
+ironGuardArmorFlavor,"Forjada espessa."
+
+ironGuardHelmetName,"Elmo da Guarda de Ferro"
+ironGuardHelmetDescription,"+2 Defesa"
+ironGuardHelmetFlavor,"Vontade de ferro."
+
+knightWeaponName,"Espada do Cavaleiro"
+knightWeaponDescription,"+11 Ataque +1 Crítico"
+knightWeaponFlavor,"Lâmina honrada."
+
+knightShieldName,"Escudo do Cavaleiro"
+knightShieldDescription,"+8 Defesa"
+knightShieldFlavor,"Heraldria exibida."
+
+knightArmorName,"Armadura do Cavaleiro"
+knightArmorDescription,"+16 Vida +5 Defesa"
+knightArmorFlavor,"Dever polido."
+
+knightHelmetName,"Elmo do Cavaleiro"
+knightHelmetDescription,"+3 Defesa"
+knightHelmetFlavor,"Peso nobre."
+
+sentinelWeaponName,"Espada do Sentinela"
+sentinelWeaponDescription,"+12 Ataque"
+sentinelWeaponFlavor,"Sempre vigilante."
+
+sentinelShieldName,"Escudo do Sentinela"
+sentinelShieldDescription,"+9 Defesa"
+sentinelShieldFlavor,"Jamais abaixado."
+
+sentinelArmorName,"Armadura do Sentinela"
+sentinelArmorDescription,"+18 Vida +5 Defesa"
+sentinelArmorFlavor,"Vigília eterna."
+
+sentinelHelmetName,"Elmo do Sentinela"
+sentinelHelmetDescription,"+3 Defesa"
+sentinelHelmetFlavor,"Olhos à frente."
+
+templarWeaponName,"Espada do Templário"
+templarWeaponDescription,"+14 Ataque +1 Crítico"
+templarWeaponFlavor,"Aço guiado pela fé."
+
+templarShieldName,"Escudo do Templário"
+templarShieldDescription,"+11 Defesa"
+templarShieldFlavor,"Proteção sagrada."
+
+templarArmorName,"Armadura do Templário"
+templarArmorDescription,"+22 Vida +6 Defesa"
+templarArmorFlavor,"Ligada por juramento."
+
+templarHelmetName,"Elmo do Templário"
+templarHelmetDescription,"+4 Defesa"
+templarHelmetFlavor,"Visão jurada."
+
+crusaderWeaponName,"Espada do Cruzado"
+crusaderWeaponDescription,"+15 Ataque"
+crusaderWeaponFlavor,"Marcha imparável."
+
+crusaderShieldName,"Escudo do Cruzado"
+crusaderShieldDescription,"+12 Defesa"
+crusaderShieldFlavor,"Muralha da fé."
+
+crusaderArmorName,"Armadura do Cruzado"
+crusaderArmorDescription,"+24 Vida +6 Defesa"
+crusaderArmorFlavor,"Proteção incansável."
+
+crusaderHelmetName,"Elmo do Cruzado"
+crusaderHelmetDescription,"+4 Defesa"
+crusaderHelmetFlavor,"Marcado pela cruzada."
+
+# ========== RARE ==========
+
+warlordWeaponName,"Espada do Senhor da Guerra"
+warlordWeaponDescription,"+16 Ataque +2 Crítico"
+warlordWeaponFlavor,"Força de comando."
+
+warlordShieldName,"Escudo do Senhor da Guerra"
+warlordShieldDescription,"+13 Defesa"
+warlordShieldFlavor,"Testado em batalhas."
+
+warlordArmorName,"Armadura do Senhor da Guerra"
+warlordArmorDescription,"+26 Vida +7 Defesa"
+warlordArmorFlavor,"Marcada por cicatrizes."
+
+warlordHelmetName,"Elmo do Senhor da Guerra"
+warlordHelmetDescription,"+4 Defesa"
+warlordHelmetFlavor,"Autoridade incontestável."
+
+championWeaponName,"Espada do Campeão"
+championWeaponDescription,"+17 Ataque"
+championWeaponFlavor,"Favorita da multidão."
+
+championShieldName,"Escudo do Campeão"
+championShieldDescription,"+14 Defesa"
+championShieldFlavor,"Marcado por vitórias."
+
+championArmorName,"Armadura do Campeão"
+championArmorDescription,"+28 Vida +7 Defesa"
+championArmorFlavor,"Forjada na arena."
+
+championHelmetName,"Elmo do Campeão"
+championHelmetDescription,"+5 Defesa"
+championHelmetFlavor,"Ecoa aplausos."
+
+juggernautWeaponName,"Espada do Juggernaut"
+juggernautWeaponDescription,"+20 Ataque +2 Crítico"
+juggernautWeaponFlavor,"Nada a detém."
+
+juggernautShieldName,"Escudo do Juggernaut"
+juggernautShieldDescription,"+16 Defesa"
+juggernautShieldFlavor,"Quebra formações."
+
+juggernautArmorName,"Armadura do Juggernaut"
+juggernautArmorDescription,"+32 Vida +8 Defesa"
+juggernautArmorFlavor,"Peso esmagador."
+
+juggernautHelmetName,"Elmo do Juggernaut"
+juggernautHelmetDescription,"+5 Defesa"
+juggernautHelmetFlavor,"Imóvel."
+
+# ========== EPIC ==========
+
+dreadnoughtWeaponName,"Espada do Dreadnought"
+dreadnoughtWeaponDescription,"+21 Ataque"
+dreadnoughtWeaponFlavor,"O medo em forma sólida."
+
+dreadnoughtShieldName,"Escudo do Dreadnought"
+dreadnoughtShieldDescription,"+17 Defesa"
+dreadnoughtShieldFlavor,"Inquebrável."
+
+dreadnoughtArmorName,"Armadura do Dreadnought"
+dreadnoughtArmorDescription,"+34 Vida +8 Defesa"
+dreadnoughtArmorFlavor,"Silêncio pesado."
+
+dreadnoughtHelmetName,"Elmo do Dreadnought"
+dreadnoughtHelmetDescription,"+6 Defesa"
+dreadnoughtHelmetFlavor,"Determinação fria."
+
+warmasterWeaponName,"Espada do Mestre da Guerra"
+warmasterWeaponDescription,"+22 Ataque +3 Crítico"
+warmasterWeaponFlavor,"Construtora de vitórias."
+
+warmasterShieldName,"Escudo do Mestre da Guerra"
+warmasterShieldDescription,"+18 Defesa"
+warmasterShieldFlavor,"Muralha de comando."
+
+warmasterArmorName,"Armadura do Mestre da Guerra"
+warmasterArmorDescription,"+36 Vida +9 Defesa"
+warmasterArmorFlavor,"Doutrina de batalha."
+
+warmasterHelmetName,"Elmo do Mestre da Guerra"
+warmasterHelmetDescription,"+6 Defesa"
+warmasterHelmetFlavor,"Olhos da guerra."
+
+colossusWeaponName,"Espada do Colosso"
+colossusWeaponDescription,"+24 Ataque"
+colossusWeaponFlavor,"Abala a terra."
+
+colossusShieldName,"Escudo do Colosso"
+colossusShieldDescription,"+19 Defesa"
+colossusShieldFlavor,"Forjado por titãs."
+
+colossusArmorName,"Armadura do Colosso"
+colossusArmorDescription,"+38 Vida +9 Defesa"
+colossusArmorFlavor,"Placas de montanha."
+
+colossusHelmetName,"Elmo do Colosso"
+colossusHelmetDescription,"+7 Defesa"
+colossusHelmetFlavor,"Olhar imovível."
+
+# ========== LEGENDARY ==========
+
+mythicGuardianWeaponName,"Espada do Guardião Mítico"
+mythicGuardianWeaponDescription,"+27 Ataque +3 Crítico"
+mythicGuardianWeaponFlavor,"Poder lendário."
+
+mythicGuardianShieldName,"Escudo do Guardião Mítico"
+mythicGuardianShieldDescription,"+22 Defesa"
+mythicGuardianShieldFlavor,"Ligado à lenda."
+
+mythicGuardianArmorName,"Armadura do Guardião Mítico"
+mythicGuardianArmorDescription,"+42 Vida +10 Defesa"
+mythicGuardianArmorFlavor,"Mito lembrado."
+
+mythicGuardianHelmetName,"Elmo do Guardião Mítico"
+mythicGuardianHelmetDescription,"+8 Defesa"
+mythicGuardianHelmetFlavor,"Vigília eterna."
+
+worldbreakerWeaponName,"Espada do Quebra-Mundos"
+worldbreakerWeaponDescription,"+29 Ataque"
+worldbreakerWeaponFlavor,"Despedaça o destino."
+
+worldbreakerShieldName,"Escudo do Quebra-Mundos"
+worldbreakerShieldDescription,"+24 Defesa"
+worldbreakerShieldFlavor,"Marcado pelo mundo."
+
+worldbreakerArmorName,"Armadura do Quebra-Mundos"
+worldbreakerArmorDescription,"+46 Vida +11 Defesa"
+worldbreakerArmorFlavor,"Terra rachada."
+
+worldbreakerHelmetName,"Elmo do Quebra-Mundos"
+worldbreakerHelmetDescription,"+9 Defesa"
+worldbreakerHelmetFlavor,"Guerra sem fim."
+
+eternalWarlordWeaponName,"Espada do Senhor da Guerra Eterno"
+eternalWarlordWeaponDescription,"+31 Ataque +4 Crítico"
+eternalWarlordWeaponFlavor,"Nunca cede."
+
+eternalWarlordShieldName,"Escudo do Senhor da Guerra Eterno"
+eternalWarlordShieldDescription,"+26 Defesa"
+eternalWarlordShieldFlavor,"Eras suportadas."
+
+eternalWarlordArmorName,"Armadura do Senhor da Guerra Eterno"
+eternalWarlordArmorDescription,"+50 Vida +12 Defesa"
+eternalWarlordArmorFlavor,"Marcada pelo tempo."
+
+eternalWarlordHelmetName,"Elmo do Senhor da Guerra Eterno"
+eternalWarlordHelmetDescription,"+10 Defesa"
+eternalWarlordHelmetFlavor,"Comando infinito."
+
+ascendedWarlordWeaponName,"Espada do Senhor da Guerra Ascendido"
+ascendedWarlordWeaponDescription,"+34 Ataque +5 Crítico"
+ascendedWarlordWeaponFlavor,"Poder aperfeiçoado."
+
+ascendedWarlordShieldName,"Escudo do Senhor da Guerra Ascendido"
+ascendedWarlordShieldDescription,"+28 Defesa"
+ascendedWarlordShieldFlavor,"Além da ruptura."
+
+ascendedWarlordArmorName,"Armadura do Senhor da Guerra Ascendido"
+ascendedWarlordArmorDescription,"+60 Vida +14 Defesa"
+ascendedWarlordArmorFlavor,"Acima de todas as batalhas."
+
+ascendedWarlordHelmetName,"Elmo do Senhor da Guerra Ascendido"
+ascendedWarlordHelmetDescription,"+12 Defesa"
+ascendedWarlordHelmetFlavor,"A guerra em pessoa."
+
+# ========== ARCHER ITEM ==========
+
+# ========== COMMON ==========
+
+pathfinderBowName,"Arco do Desbravador"
+pathfinderBowDescription,"+4 Ataque +2 Agilidade"
+pathfinderBowFlavor,"A primeira flecha sempre conta."
+
+pathfinderDaggerName,"Adaga do Desbravador"
+pathfinderDaggerDescription,"+2 Ataque"
+pathfinderDaggerFlavor,"Para momentos decisivos."
+
+pathfinderArmorName,"Armadura do Desbravador"
+pathfinderArmorDescription,"+6 Vida +2 Agilidade"
+pathfinderArmorFlavor,"Leve e confiável."
+
+pathfinderHatName,"Chapéu do Desbravador"
+pathfinderHatDescription,"+1 Agilidade"
+pathfinderHatFlavor,"Protege do sol."
+
+scoutBowName,"Arco do Batedor"
+scoutBowDescription,"+5 Ataque +2 Agilidade"
+scoutBowFlavor,"Passos silenciosos, mira firme."
+
+scoutDaggerName,"Adaga do Batedor"
+scoutDaggerDescription,"+3 Ataque"
+scoutDaggerFlavor,"Saque rápido."
+
+scoutArmorName,"Armadura do Batedor"
+scoutArmorDescription,"+7 Vida +2 Agilidade"
+scoutArmorFlavor,"Quase não faz som."
+
+scoutHatName,"Chapéu do Batedor"
+scoutHatDescription,"+1 Agilidade"
+scoutHatFlavor,"Se mistura ao ambiente."
+
+trackerBowName,"Arco do Rastreador"
+trackerBowDescription,"+6 Ataque +3 Agilidade"
+trackerBowFlavor,"Nunca perde um rastro."
+
+trackerDaggerName,"Adaga do Rastreador"
+trackerDaggerDescription,"+3 Ataque +1 Crítico"
+trackerDaggerFlavor,"Golpes precisos."
+
+trackerArmorName,"Armadura do Rastreador"
+trackerArmorDescription,"+8 Vida +3 Agilidade"
+trackerArmorFlavor,"Moldada pela natureza."
+
+trackerHatName,"Chapéu do Rastreador"
+trackerHatDescription,"+1 Agilidade"
+trackerHatFlavor,"Olhos sempre atentos."
+
+rangerBowName,"Arco do Patrulheiro"
+rangerBowDescription,"+7 Ataque +3 Agilidade"
+rangerBowFlavor,"Confiável como a floresta."
+
+rangerDaggerName,"Adaga do Patrulheiro"
+rangerDaggerDescription,"+4 Ataque"
+rangerDaggerFlavor,"Empunhadura equilibrada."
+
+rangerArmorName,"Armadura do Patrulheiro"
+rangerArmorDescription,"+9 Vida +3 Agilidade"
+rangerArmorFlavor,"Bem testada."
+
+rangerHatName,"Chapéu do Patrulheiro"
+rangerHatDescription,"+2 Agilidade"
+rangerHatFlavor,"Visão clara."
+
+# ========== UNCOMMON ==========
+
+skirmisherBowName,"Arco do Escaramuçador"
+skirmisherBowDescription,"+9 Ataque +4 Agilidade"
+skirmisherBowFlavor,"Ataca e desaparece."
+
+skirmisherDaggerName,"Adaga do Escaramuçador"
+skirmisherDaggerDescription,"+5 Ataque"
+skirmisherDaggerFlavor,"Lâmina veloz."
+
+skirmisherArmorName,"Armadura do Escaramuçador"
+skirmisherArmorDescription,"+12 Vida +4 Agilidade"
+skirmisherArmorFlavor,"Feita para movimento."
+
+skirmisherHatName,"Chapéu do Escaramuçador"
+skirmisherHatDescription,"+2 Agilidade"
+skirmisherHatFlavor,"Nunca notado."
+
+marksmanBowName,"Arco do Atirador de Elite"
+marksmanBowDescription,"+10 Ataque +4 Agilidade"
+marksmanBowFlavor,"Cada disparo é calculado."
+
+marksmanDaggerName,"Adaga do Atirador de Elite"
+marksmanDaggerDescription,"+5 Ataque +1 Crítico"
+marksmanDaggerFlavor,"Afiada e rápida."
+
+marksmanArmorName,"Armadura do Atirador de Elite"
+marksmanArmorDescription,"+14 Vida +4 Agilidade"
+marksmanArmorFlavor,"Passos precisos."
+
+marksmanHatName,"Chapéu do Atirador de Elite"
+marksmanHatDescription,"+2 Agilidade"
+marksmanHatFlavor,"Alinhamento perfeito."
+
+swiftwindBowName,"Arco do Vento Rápido"
+swiftwindBowDescription,"+11 Ataque +5 Agilidade"
+swiftwindBowFlavor,"Mais rápido que o pensamento."
+
+swiftwindDaggerName,"Adaga do Vento Rápido"
+swiftwindDaggerDescription,"+6 Ataque"
+swiftwindDaggerFlavor,"Um borrão de aço."
+
+swiftwindArmorName,"Armadura do Vento Rápido"
+swiftwindArmorDescription,"+16 Vida +5 Agilidade"
+swiftwindArmorFlavor,"Nunca para."
+
+swiftwindHatName,"Chapéu do Vento Rápido"
+swiftwindHatDescription,"+2 Agilidade"
+swiftwindHatFlavor,"Vento às costas."
+
+sharpshooterBowName,"Arco do Franco-Atirador"
+sharpshooterBowDescription,"+12 Ataque +5 Agilidade"
+sharpshooterBowFlavor,"Uma flecha, um alvo."
+
+sharpshooterDaggerName,"Adaga do Franco-Atirador"
+sharpshooterDaggerDescription,"+6 Ataque +1 Crítico"
+sharpshooterDaggerFlavor,"Sempre pronta."
+
+sharpshooterArmorName,"Armadura do Franco-Atirador"
+sharpshooterArmorDescription,"+18 Vida +5 Agilidade"
+sharpshooterArmorFlavor,"Calma sob pressão."
+
+sharpshooterHatName,"Chapéu do Franco-Atirador"
+sharpshooterHatDescription,"+3 Agilidade"
+sharpshooterHatFlavor,"Foco inabalável."
+
+# ========== RARE ==========
+
+sniperBowName,"Arco do Sniper"
+sniperBowDescription,"+14 Ataque +6 Agilidade +1 Crítico"
+sniperBowFlavor,"Distância não importa."
+
+sniperDaggerName,"Adaga do Sniper"
+sniperDaggerDescription,"+7 Ataque"
+sniperDaggerFlavor,"Último recurso."
+
+sniperArmorName,"Armadura do Sniper"
+sniperArmorDescription,"+22 Vida +6 Agilidade"
+sniperArmorFlavor,"Paciência e precisão."
+
+sniperHatName,"Chapéu do Sniper"
+sniperHatDescription,"+3 Agilidade"
+sniperHatFlavor,"Olhos fixos."
+
+deadeyeBowName,"Arco do Olho Mortal"
+deadeyeBowDescription,"+15 Ataque +6 Agilidade"
+deadeyeBowFlavor,"Nunca erra."
+
+deadeyeDaggerName,"Adaga do Olho Mortal"
+deadeyeDaggerDescription,"+7 Ataque +1 Crítico"
+deadeyeDaggerFlavor,"Aço frio."
+
+deadeyeArmorName,"Armadura do Olho Mortal"
+deadeyeArmorDescription,"+24 Vida +6 Agilidade"
+deadeyeArmorFlavor,"Tempo perfeito."
+
+deadeyeHatName,"Chapéu do Olho Mortal"
+deadeyeHatDescription,"+4 Agilidade"
+deadeyeHatFlavor,"Olhar afiado."
+
+shadowhunterBowName,"Arco do Caçador das Sombras"
+shadowhunterBowDescription,"+16 Ataque +7 Agilidade +1 Crítico"
+shadowhunterBowFlavor,"Visto tarde demais."
+
+shadowhunterDaggerName,"Adaga do Caçador das Sombras"
+shadowhunterDaggerDescription,"+8 Ataque"
+shadowhunterDaggerFlavor,"Lâmina silenciosa."
+
+shadowhunterArmorName,"Armadura do Caçador das Sombras"
+shadowhunterArmorDescription,"+26 Vida +7 Agilidade"
+shadowhunterArmorFlavor,"Fundida às sombras."
+
+shadowhunterHatName,"Chapéu do Caçador das Sombras"
+shadowhunterHatDescription,"+4 Agilidade"
+shadowhunterHatFlavor,"Passa despercebido."
+
+nightstalkerBowName,"Arco do Espreitador Noturno"
+nightstalkerBowDescription,"+17 Ataque +7 Agilidade"
+nightstalkerBowFlavor,"A escuridão ajuda."
+
+nightstalkerDaggerName,"Adaga do Espreitador Noturno"
+nightstalkerDaggerDescription,"+8 Ataque +1 Crítico"
+nightstalkerDaggerFlavor,"Final rápido."
+
+nightstalkerArmorName,"Armadura do Espreitador Noturno"
+nightstalkerArmorDescription,"+28 Vida +7 Agilidade"
+nightstalkerArmorFlavor,"Move-se sem ser visto."
+
+nightstalkerHatName,"Chapéu do Espreitador Noturno"
+nightstalkerHatDescription,"+5 Agilidade"
+nightstalkerHatFlavor,"Olhos na escuridão."
+
+# ========== EPIC ==========
+
+windstriderBowName,"Arco do Andarilho do Vento"
+windstriderBowDescription,"+20 Ataque +8 Agilidade +2 Crítico"
+windstriderBowFlavor,"Mais rápido que o medo."
+
+windstriderDaggerName,"Adaga do Andarilho do Vento"
+windstriderDaggerDescription,"+9 Ataque"
+windstriderDaggerFlavor,"Nunca desacelera."
+
+windstriderArmorName,"Armadura do Andarilho do Vento"
+windstriderArmorDescription,"+32 Vida +8 Agilidade"
+windstriderArmorFlavor,"Sempre em movimento."
+
+windstriderHatName,"Chapéu do Andarilho do Vento"
+windstriderHatDescription,"+5 Agilidade"
+windstriderHatFlavor,"Guiado pelo vento."
+
+falconBowName,"Arco do Falcão"
+falconBowDescription,"+21 Ataque +8 Agilidade"
+falconBowFlavor,"Olhos do alto."
+
+falconDaggerName,"Adaga do Falcão"
+falconDaggerDescription,"+9 Ataque +1 Crítico"
+falconDaggerFlavor,"Mergulho rápido."
+
+falconArmorName,"Armadura do Falcão"
+falconArmorDescription,"+34 Vida +8 Agilidade"
+falconArmorFlavor,"Leve como pena."
+
+falconHatName,"Chapéu do Falcão"
+falconHatDescription,"+6 Agilidade"
+falconHatFlavor,"Olhar atento."
+
+ghostBowName,"Arco Fantasma"
+ghostBowDescription,"+22 Ataque +9 Agilidade +2 Crítico"
+ghostBowFlavor,"Agora você vê."
+
+ghostDaggerName,"Adaga Fantasma"
+ghostDaggerDescription,"+10 Ataque"
+ghostDaggerFlavor,"Já se foi."
+
+ghostArmorName,"Armadura Fantasma"
+ghostArmorDescription,"+36 Vida +9 Agilidade"
+ghostArmorFlavor,"Quase invisível."
+
+ghostHatName,"Chapéu Fantasma"
+ghostHatDescription,"+6 Agilidade"
+ghostHatFlavor,"Impossível de rastrear."
+
+stormeyeBowName,"Arco do Olho da Tempestade"
+stormeyeBowDescription,"+24 Ataque +9 Agilidade"
+stormeyeBowFlavor,"Nunca erra no caos."
+
+stormeyeDaggerName,"Adaga do Olho da Tempestade"
+stormeyeDaggerDescription,"+10 Ataque +1 Crítico"
+stormeyeDaggerFlavor,"Rápida como relâmpago."
+
+stormeyeArmorName,"Armadura do Olho da Tempestade"
+stormeyeArmorDescription,"+38 Vida +9 Agilidade"
+stormeyeArmorFlavor,"Feita para tempestades."
+
+stormeyeHatName,"Chapéu do Olho da Tempestade"
+stormeyeHatDescription,"+7 Agilidade"
+stormeyeHatFlavor,"Enxerga através da chuva."
+
+# ========== LEGENDARY ==========
+
+mythicRangerBowName,"Arco do Patrulheiro Mítico"
+mythicRangerBowDescription,"+27 Ataque +10 Agilidade +3 Crítico"
+mythicRangerBowFlavor,"Mira lendária."
+
+mythicRangerDaggerName,"Adaga do Patrulheiro Mítico"
+mythicRangerDaggerDescription,"+11 Ataque"
+mythicRangerDaggerFlavor,"Aço infalível."
+
+mythicRangerArmorName,"Armadura do Patrulheiro Mítico"
+mythicRangerArmorDescription,"+42 Vida +10 Agilidade"
+mythicRangerArmorFlavor,"Nascida da lenda."
+
+mythicRangerHatName,"Chapéu do Patrulheiro Mítico"
+mythicRangerHatDescription,"+8 Agilidade"
+mythicRangerHatFlavor,"Foco perfeito."
+
+worldshotBowName,"Arco do Tiro Mundial"
+worldshotBowDescription,"+29 Ataque +11 Agilidade"
+worldshotBowFlavor,"Atravessa mundos."
+
+worldshotDaggerName,"Adaga do Tiro Mundial"
+worldshotDaggerDescription,"+11 Ataque +1 Crítico"
+worldshotDaggerFlavor,"Lâmina dimensional."
+
+worldshotArmorName,"Armadura do Tiro Mundial"
+worldshotArmorDescription,"+46 Vida +11 Agilidade"
+worldshotArmorFlavor,"Intocável."
+
+worldshotHatName,"Chapéu do Tiro Mundial"
+worldshotHatDescription,"+9 Agilidade"
+worldshotHatFlavor,"Enxerga além."
+
+eternalHuntBowName,"Arco da Caçada Eterna"
+eternalHuntBowDescription,"+31 Ataque +12 Agilidade +3 Crítico"
+eternalHuntBowFlavor,"A perseguição nunca termina."
+
+eternalHuntDaggerName,"Adaga da Caçada Eterna"
+eternalHuntDaggerDescription,"+12 Ataque"
+eternalHuntDaggerFlavor,"Sempre afiada."
+
+eternalHuntArmorName,"Armadura da Caçada Eterna"
+eternalHuntArmorDescription,"+50 Vida +12 Agilidade"
+eternalHuntArmorFlavor,"Busca sem fim."
+
+eternalHuntHatName,"Chapéu da Caçada Eterna"
+eternalHuntHatDescription,"+10 Agilidade"
+eternalHuntHatFlavor,"Implacável."
+
+ascendedArcherBowName,"Arco do Arqueiro Ascendido"
+ascendedArcherBowDescription,"+34 Ataque +14 Agilidade +4 Crítico"
+ascendedArcherBowFlavor,"Perfeição em movimento."
+
+ascendedArcherDaggerName,"Adaga do Arqueiro Ascendido"
+ascendedArcherDaggerDescription,"+13 Ataque"
+ascendedArcherDaggerFlavor,"Nunca hesita."
+
+ascendedArcherArmorName,"Armadura do Arqueiro Ascendido"
+ascendedArcherArmorDescription,"+60 Vida +14 Agilidade"
+ascendedArcherArmorFlavor,"Além da velocidade mortal."
+
+ascendedArcherHatName,"Chapéu do Arqueiro Ascendido"
+ascendedArcherHatDescription,"+12 Agilidade"
+ascendedArcherHatFlavor,"Olhos do destino."
+
+# ========== MAGE ITEM ==========
+
+# ========== COMMON ==========
+
+noviceArmorName,"Túnica Simples do Novato"
+noviceArmorDescription,"Uma túnica sem adornos para quem está dando os primeiros passos na magia."
+noviceArmorFlavor,""
+
+apprenticeStaffName,"Cajado do Aprendiz"
+apprenticeStaffDescription,"+4 Magia"
+apprenticeStaffFlavor,"Todo mestre já começou aqui."
+
+apprenticeLightSwordName,"Espada do Aprendiz"
+apprenticeLightSwordDescription,"+2 Ataque"
+apprenticeLightSwordFlavor,"Mais simbólica do que afiada."
+
+apprenticeArmorName,"Manto do Aprendiz"
+apprenticeArmorDescription,"+6 Defesa +2 Magia"
+apprenticeArmorFlavor,"Costurado com expectativa."
+
+apprenticeHatName,"Chapéu do Aprendiz"
+apprenticeHatDescription,"+1 Magia"
+apprenticeHatFlavor,"Grande demais para a cabeça."
+
+studentStaffName,"Cajado do Estudante"
+studentStaffDescription,"+5 Magia"
+studentStaffFlavor,"Lições aprendidas da maneira mais difícil."
+
+studentLightSwordName,"Espada leve do Estudante"
+studentLightSwordDescription,"+3 Ataque"
+studentLightSwordFlavor,"Raramente usada."
+
+studentArmorName,"Veste do Estudante"
+studentArmorDescription,"+7 Defesa +2 Magia"
+studentArmorFlavor,"Manchada de tinta e desgastada."
+
+studentHatName,"Capuz do Estudante"
+studentHatDescription,"+1 Magia"
+studentHatFlavor,"Estudo silencioso."
+
+initiateStaffName,"Cajado do Iniciado"
+initiateStaffDescription,"+6 Magia"
+initiateStaffFlavor,"Runas começam a aparecer."
+
+initiateLightSwordName,"Espada do Iniciado"
+initiateLightSwordDescription,"+3 Ataque +1 Crítico"
+initiateLightSwordFlavor,"Equilíbrio entre força e feitiço."
+
+initiateArmorName,"Manto do Iniciado"
+initiateArmorDescription,"+8 Defesa +3 Magia"
+initiateArmorFlavor,"Protege e canaliza."
+
+initiateHatName,"Chapéu do Iniciado"
+initiateHatDescription,"+1 Magia"
+initiateHatFlavor,"Marca de progresso."
+
+adeptStaffName,"Cajado do Adepto"
+adeptStaffDescription,"+7 Magia"
+adeptStaffFlavor,"O controle começa."
+
+adeptLightSwordName,"Espada do Adepto"
+adeptLightSwordDescription,"+4 Ataque"
+adeptLightSwordFlavor,"Defesa consciente."
+
+adeptArmorName,"Manto do Adepto"
+adeptArmorDescription,"+9 Defesa +3 Magia"
+adeptArmorFlavor,"Ajustado ao fluxo mágico."
+
+adeptHatName,"Chapéu do Adepto"
+adeptHatDescription,"+2 Magia +1 Defesa"
+adeptHatFlavor,"Mantém a mente clara."
+
+# ========== UNCOMMON ==========
+
+channelerStaffName,"Cajado do Canalizador"
+channelerStaffDescription,"+9 Magia +1 Crítico"
+channelerStaffFlavor,"Energia constante."
+
+channelerLightSwordName,"Espada do Canalizador"
+channelerLightSwordDescription,"+5 Ataque"
+channelerLightSwordFlavor,"Nunca embainhada longe."
+
+channelerArmorName,"Manto do Canalizador"
+channelerArmorDescription,"+12 Defesa +4 Magia"
+channelerArmorFlavor,"Feito para resistir."
+
+channelerHatName,"Chapéu do Canalizador"
+channelerHatDescription,"+2 Magia +2 Defesa"
+channelerHatFlavor,"Amplifica o foco."
+
+arcanistStaffName,"Cajado do Arcanista"
+arcanistStaffDescription,"+10 Magia"
+arcanistStaffFlavor,"Conhecimento profundo."
+
+arcanistLightSwordName,"Espada do Arcanista"
+arcanistLightSwordDescription,"+5 Ataque +1 Crítico"
+arcanistLightSwordFlavor,"Lâmina estudada."
+
+arcanistArmorName,"Manto do Arcanista"
+arcanistArmorDescription,"+14 Defesa +4 Magia"
+arcanistArmorFlavor,"Poder refinado."
+
+arcanistHatName,"Chapéu do Arcanista"
+arcanistHatDescription,"+2 Magia +2 Defesa"
+arcanistHatFlavor,"Autoridade silenciosa."
+
+spellbinderStaffName,"Cajado do Vinculador de Feitiços"
+spellbinderStaffDescription,"+11 Magia +1 Crítico"
+spellbinderStaffFlavor,"Os feitiços obedecem."
+
+spellbinderLightSwordName,"Espada Leve do Vinculador"
+spellbinderLightSwordDescription,"+6 Ataque"
+spellbinderLightSwordFlavor,"Resposta ágil."
+
+spellbinderArmorName,"Manto do Vinculador"
+spellbinderArmorDescription,"+16 Defesa +5 Magia"
+spellbinderArmorFlavor,"Poder entrelaçado."
+
+spellbinderHatName,"Capuz do Vinculador"
+spellbinderHatDescription,"+2 Magia +2 Defesa"
+spellbinderHatFlavor,"Os olhos brilham suavemente."
+
+magusStaffName,"Cajado do Magus"
+magusStaffDescription,"+12 Magia"
+magusStaffFlavor,"Um verdadeiro praticante."
+
+magusLightSwordName,"Espada Leve do Magus"
+magusLightSwordDescription,"+6 Ataque +1 Crítico"
+magusLightSwordFlavor,"Elegância defensiva."
+
+magusArmorName,"Manto do Magus"
+magusArmorDescription,"+18 Defesa +5 Magia"
+magusArmorFlavor,"Maestria reconhecida."
+
+magusHatName,"Capuz do Magus"
+magusHatDescription,"+3 Magia +2 Defesa"
+magusHatFlavor,"Mente expandida."
+
+# ========== RARE ==========
+
+sorcererStaffName,"Cajado do Feiticeiro"
+sorcererStaffDescription,"+14 Magia +2 Crítico"
+sorcererStaffFlavor,"O poder bruto responde."
+
+sorcererLightSwordName,"Espada Leve do Feiticeiro"
+sorcererLightSwordDescription,"+7 Ataque"
+sorcererLightSwordFlavor,"Não é mais reserva."
+
+sorcererArmorName,"Manto do Feiticeiro"
+sorcererArmorDescription,"+22 Defesa +6 Magia"
+sorcererArmorFlavor,"Energia contida."
+
+sorcererHatName,"Capuz do Feiticeiro"
+sorcererHatDescription,"+3 Magia +3 Defesa"
+sorcererHatFlavor,"Mente em chamas."
+
+enchanterStaffName,"Cajado do Encantador"
+enchanterStaffDescription,"+15 Magia"
+enchanterStaffFlavor,"A realidade se curva."
+
+enchanterLightSwordName,"Espada Leve do Encantador"
+enchanterLightSwordDescription,"+7 Ataque +1 Crítico"
+enchanterLightSwordFlavor,"Aço energizado."
+
+enchanterArmorName,"Manto do Encantador"
+enchanterArmorDescription,"+24 Defesa +6 Magia"
+enchanterArmorFlavor,"Runas vivas."
+
+enchanterHatName,"Capuz do Encantador"
+enchanterHatDescription,"+4 Magia +4 Defesa"
+enchanterHatFlavor,"Clareza alcançada."
+
+battlemageStaffName,"Cajado do Mago de Batalha"
+battlemageStaffDescription,"+16 Magia +2 Crítico"
+battlemageStaffFlavor,"Magia encontra o aço."
+
+battlemageLightSwordName,"Espada Leve do Mago de Batalha"
+battlemageLightSwordDescription,"+8 Ataque"
+battlemageLightSwordFlavor,"Foco na linha de frente."
+
+battlemageArmorName,"Manto do Mago de Batalha"
+battlemageArmorDescription,"+26 Defesa +7 Magia"
+battlemageArmorFlavor,"Forjado para o conflito."
+
+battlemageHatName,"Capuz do Mago de Batalha"
+battlemageHatDescription,"+4 Magia +4 Defesa"
+battlemageHatFlavor,"Olhar inabalável."
+
+ritualistStaffName,"Cajado do Ritualista"
+ritualistStaffDescription,"+17 Magia"
+ritualistStaffFlavor,"Padrões antigos se repetem."
+
+ritualistLightSwordName,"Espada Leve do Ritualista"
+ritualistLightSwordDescription,"+8 Ataque +1 Crítico"
+ritualistLightSwordFlavor,"Lâmina cerimonial."
+
+ritualistArmorName,"Manto do Ritualista"
+ritualistArmorDescription,"+28 Defesa +7 Magia"
+ritualistArmorFlavor,"Marcado por ritos."
+
+ritualistHatName,"Capuz do Ritualista"
+ritualistHatDescription,"+5 Magia +4 Defesa"
+ritualistHatFlavor,"Foco ininterrupto."
+
+# ========== EPIC ==========
+
+archmageStaffName,"Cajado do Arquimago"
+archmageStaffDescription,"+20 Magia +3 Crítico"
+archmageStaffFlavor,"Autoridade dos feitiços."
+
+archmageLightSwordName,"Espada Leve do Arquimago"
+archmageLightSwordDescription,"+9 Ataque"
+archmageLightSwordFlavor,"Defesa elegante."
+
+archmageArmorName,"Manto do Arquimago"
+archmageArmorDescription,"+32 Defesa +8 Magia"
+archmageArmorFlavor,"Poder encarnado."
+
+archmageHatName,"Capuz do Arquimago"
+archmageHatDescription,"+5 Magia +5 Defesa"
+archmageHatFlavor,"Mente além dos limites."
+
+spelllordStaffName,"Cajado do Senhor dos Feitiços"
+spelllordStaffDescription,"+21 Magia"
+spelllordStaffFlavor,"Comanda a realidade."
+
+spelllordLightSwordName,"Espada Leve do Senhor dos Feitiços"
+spelllordLightSwordDescription,"+9 Ataque +1 Crítico"
+spelllordLightSwordFlavor,"Lâmina carregada."
+
+spelllordArmorName,"Manto do Senhor dos Feitiços"
+spelllordArmorDescription,"+34 Defesa +9 Magia"
+spelllordArmorFlavor,"Runas incandescentes."
+
+spelllordHatName,"Capuz do Senhor dos Feitiços"
+spelllordHatDescription,"+6 Magia +6 Defesa"
+spelllordHatFlavor,"Olhos brilhando."
+
+voidcallerStaffName,"Cajado do Invocador do Vazio"
+voidcallerStaffDescription,"+22 Magia +4 Crítico"
+voidcallerStaffFlavor,"Poder do silêncio."
+
+voidcallerLightSwordName,"Espada Leve do Invocador do Vazio"
+voidcallerLightSwordDescription,"+10 Ataque"
+voidcallerLightSwordFlavor,"Zune suavemente."
+
+voidcallerArmorName,"Manto do Invocador do Vazio"
+voidcallerArmorDescription,"+36 Defesa +9 Magia"
+voidcallerArmorFlavor,"Tocado pelo vazio."
+
+voidcallerHatName,"Capuz do Invocador do Vazio"
+voidcallerHatDescription,"+6 Magia +6 Defesa"
+voidcallerHatFlavor,"Sussurros ignorados."
+
+astralStaffName,"Cajado Astral"
+astralStaffDescription,"+24 Magia"
+astralStaffFlavor,"As estrelas respondem."
+
+astralLightSwordName,"Espada Leve Astral"
+astralLightSwordDescription,"+10 Ataque +1 Crítico"
+astralLightSwordFlavor,"Fio celestial."
+
+astralArmorName,"Manto Astral"
+astralArmorDescription,"+38 Defesa +10 Magia"
+astralArmorFlavor,"Tecido de luz estelar."
+
+astralHatName,"Capuz Astral"
+astralHatDescription,"+7 Magia +7 Defesa"
+astralHatFlavor,"Além da visão."
+
+# ========== LEGENDARY ==========
+
+mythicSageStaffName,"Cajado do Sábio Mítico"
+mythicSageStaffDescription,"+27 Magia +5 Crítico"
+mythicSageStaffFlavor,"Sabedoria em forma de poder."
+
+mythicSageLightSwordName,"Espada Leve do Sábio Mítico"
+mythicSageLightSwordDescription,"+11 Ataque"
+mythicSageLightSwordFlavor,"Nunca perde o fio."
+
+mythicSageArmorName,"Manto do Sábio Mítico"
+mythicSageArmorDescription,"+42 Defesa +12 Magia"
+mythicSageArmorFlavor,"Autoridade ancestral."
+
+mythicSageHatName,"Capuz do Sábio Mítico"
+mythicSageHatDescription,"+8 Magia +8 Defesa"
+mythicSageHatFlavor,"Mente eterna."
+
+worldweaverStaffName,"Cajado do Tecelão do Mundo"
+worldweaverStaffDescription,"+29 Magia"
+worldweaverStaffFlavor,"A realidade é fio."
+
+worldweaverLightSwordName,"Espada Leve do Tecelão do Mundo"
+worldweaverLightSwordDescription,"+11 Ataque +1 Crítico"
+worldweaverLightSwordFlavor,"Corta dimensões."
+
+worldweaverArmorName,"Manto do Tecelão do Mundo"
+worldweaverArmorDescription,"+46 Defesa +13 Magia"
+worldweaverArmorFlavor,"Tecido dos mundos."
+
+worldweaverHatName,"Capuz do Tecelão do Mundo"
+worldweaverHatDescription,"+9 Magia +9 Defesa"
+worldweaverHatFlavor,"Vê todos os caminhos."
+
+eternalArcanistStaffName,"Cajado do Arcanista Eterno"
+eternalArcanistStaffDescription,"+31 Magia +6 Crítico"
+eternalArcanistStaffFlavor,"Magia sem fim."
+
+eternalArcanistLightSwordName,"Espada Leve do Arcanista Eterno"
+eternalArcanistLightSwordDescription,"+12 Ataque"
+eternalArcanistLightSwordFlavor,"Determinação constante."
+
+eternalArcanistArmorName,"Manto do Arcanista Eterno"
+eternalArcanistArmorDescription,"+50 Defesa +14 Magia"
+eternalArcanistArmorFlavor,"O tempo se curva."
+
+eternalArcanistHatName,"Capuz do Arcanista Eterno"
+eternalArcanistHatDescription,"+10 Magia +10 Defesa"
+eternalArcanistHatFlavor,"Mente que não envelhece."
+
+ascendedArchmageStaffName,"Cajado do Arquimago Ascendido"
+ascendedArchmageStaffDescription,"+34 Magia +7 Crítico"
+ascendedArchmageStaffFlavor,"Magia aperfeiçoada."
+
+ascendedArchmageLightSwordName,"Espada Leve do Arquimago Ascendido"
+ascendedArchmageLightSwordDescription,"+13 Ataque"
+ascendedArchmageLightSwordFlavor,"Lâmina de segurança."
+
+ascendedArchmageArmorName,"Manto do Arquimago Ascendido"
+ascendedArchmageArmorDescription,"+60 Defesa +15 Magia"
+ascendedArchmageArmorFlavor,"Além da arte mortal."
+
+ascendedArchmageHatName,"Capuz do Arquimago Ascendido"
+ascendedArchmageHatDescription,"+12 Magia +12 Defesa"
+ascendedArchmageHatFlavor,"Mente ascendida."
+
+# ========== QUESTS ==========
+
+# ========== COMMON ==========
+
+
+
+# ========== MAGE ==========
+
+crystalsInTheForgottenMineTitle,"Cristais na Mina Esquecida"
+crystalsInTheForgottenMineDescription,"A Guilda do Fogo sente magia bruta sob os túneis esquecidos.<br>Entre na mina e colete 3 Cristais de Lagarto."
+crystalsInTheForgottenMineSuccess,"Você desce cuidadosamente para a mina, seu cajado iluminando as paredes de pedra úmidas.<br>Uma tênue luz azul cintila entre as fendas na rocha — mana bruta cristalizada pelo tempo e pela pressão.<br>Algumas criaturas da caverna se dispersam enquanto você coleta os fragmentos brilhantes.<br>Quando você emerge, sua bolsa vibra suavemente com energia arcana.<br>A Guilda ficará satisfeita."
+crystalsInTheForgottenMineFailure,"Mais fundo nos túneis, o ar fica pesado e instável. Um tremor repentino solta pedras do alto, forçando você a recuar antes que a passagem desabe. Você sai de mãos vazias, suas vestes cobertas de poeira — mas pelo menos aprendeu quais caminhos são perigosos. Da próxima vez, estará mais bem preparado."
+
+collapsedTunnelInvestigationTitle,"O Túnel Desabado"
+collapsedTunnelInvestigationDescription,"As câmaras inferiores da mina desabaram parcialmente após sua última visita. A Guilda acredita que o pulso arcano vem de além da passagem selada."
+collapsedTunnelInvestigationSuccess,"Você retorna à mina com maior cautela, a lembrança das pedras caindo ainda fresca em sua mente.<br>Com rajadas controladas de <b>magia focada</b>, você remove cuidadosamente os destroços instáveis ​​sem provocar outro colapso.<br>Além dos escombros, uma tênue formação cristalina brilha mais intensamente que as outras — pulsando como uma batida de coração.<br>Você coleta fragmentos para a Guilda e marca o caminho mais profundo para estudos adicionais.<br>A fonte da perturbação está mais abaixo."
+collapsedTunnelInvestigationFailure,"Ao tentar desobstruir a passagem bloqueada, o teto fragilizado range ameaçadoramente. Uma onda de mana instável irrompe dos cristais fraturados, forçando você a se proteger e recuar. O túnel permanece selado, e o que quer que esteja além continua pulsando na escuridão. Você precisará de maior controle — e magia mais poderosa — para prosseguir."
+
+crystalHeartGuardianTitle,"O Guardião Coração de Cristal"
+crystalHeartGuardianDescription,"Nas profundezas da mina, o pulso arcano toma forma.<br>Um elemental corrompido guarda o Coração de Cristal em crescimento."
+crystalHeartGuardianSuccess,"O ar se torna mais denso à medida que você desce para a câmara mais baixa.<br>Em seu centro flutua uma massa irregular de cristal e pedra — um <b>Guardião Coração de Cristal</b>, nascido de mana instável.<br>Ele ataca em estilhaços de fragmentos brilhantes, mas seus feitiços acertam em cheio.<br>Com um último impulso de poder concentrado, a construção se fratura e desmorona em pó de cristal inofensivo.<br>A câmara fica silenciosa. O pulso enfraquece — mas ainda não desapareceu."
+crystalHeartGuardianFailure,"O Guardião Coração de Cristal desperta completamente quando você entra na câmara.<br>Fragmentos de cristal orbitam seu núcleo, cortando o ar com violenta precisão.<br>Seus feitiços vacilam contra sua casca instável, e uma explosão de mana pura o força a recuar em direção aos túneis.<br>Você mal consegue escapar enquanto a câmara treme atrás de você.<br>O Guardião permanece — mais forte do que o esperado."
+
+marshWhispersTitle,"Ecos no Pântano dos Sussurros"
+marshWhispersDescription,"Luzes estranhas cintilam sobre as ruínas alagadas além do pântano da vila.<br>A Guilda do Fogo pede que você investigue a perturbação e recupere quaisquer textos sobreviventes."
+marshWhispersSuccess,"A névoa se enrola em suas botas enquanto você avança pelo pântano.<br>Entre pilares de pedra quebrados, você encontra os restos de um antigo arquivo meio submerso em águas escuras.<br>Uma leve ressonância mágica o conduz até um baú selado, preservado por antigas runas de proteção.<br>Com cuidado, você recupera um <b>Diário Arcano</b> úmido, porém intacto.<br>As luzes desaparecem enquanto você parte, como se sua presença tivesse sido reconhecida."
+marshWhispersFailure,"O solo do pântano cede sob seus passos, a lama prendendo seus pés.<br>Uma onda de mana fria e estagnada percorre as ruínas alagadas, quebrando sua concentração.<br>Você procura por alguns instantes, mas as correntes instáveis tornam a exploração perigosa demais.<br>As luzes cintilam uma última vez à distância antes de desaparecerem na névoa."
+
+sunkenSealTitle,"A Comporta Selada"
+sunkenSealDescription,"O Diário Arcano recuperado menciona uma câmara oculta sob as ruínas alagadas.<br>Use suas anotações para localizar e destrancar a antiga comporta."
+sunkenSealSuccess,"Seguindo os diagramas desbotados do diário, você avança pelas partes mais profundas do arquivo submerso.<br>Atrás de raízes pendentes, encontra um mecanismo circular de pedra coberto por antigos glifos de proteção.<br>Você apoia a mão sobre as runas e canaliza mana com precisão, reproduzindo o padrão descrito no <b>Diário Arcano</b>.<br>A comporta treme antes de se abrir lentamente, revelando um cofre oculto intocado pelo tempo.<br>No centro, repousando sobre um pedestal, está uma ornamentada <b>Chave de Prata</b>, ainda vibrando com magia protetora."
+sunkenSealFailure,"Você tenta reproduzir o padrão descrito no diário, mas as runas resistem ao seu controle.<br>A água do pântano se agita violentamente quando a magia instável reage à sua interferência.<br>Um pulso brusco de energia o força a recuar, e os glifos perdem o brilho novamente.<br>A comporta permanece selada, protegendo seus segredos por enquanto."
+
+drownedArchivistTitle,"O Arquivista Afogado"
+drownedArchivistDescription,"Além da comporta aberta repousa um cofre submerso intocado por séculos.<br>Use a Chave de Prata para entrar e enfrentar o guardião do conhecimento proibido."
+drownedArchivistSuccess,"A <b>Chave de Prata</b> gira com um estalo pesado, e a porta do cofre se abre lentamente, liberando um sopro de ar frio e estagnado.<br>Dentro, estantes de tomos preservados flutuam suspensas pela magia antiga.<br>No centro da câmara ergue-se uma figura translúcida — o <b>Arquivista Afogado</b>, preso a proteger o saber ali contido.<br>Você tece contra-feitiços no ar saturado de água, desfazendo os vínculos espirituais sem destruí-lo por completo.<br>Com um último pulso de mana concentrada, a entidade se dissipa em névoa inofensiva, deixando para trás um pulsante <b>Sigilo Aquático</b>.<br>O arquivo está aberto — mas seu núcleo ainda vibra nas profundezas."
+drownedArchivistFailure,"Quando o cofre se abre, a câmara é inundada por uma luz espectral.<br>O <b>Arquivista Afogado</b> desperta plenamente, sua voz ecoando como sinos distantes sob a água.<br>Seus feitiços se distorcem no ar denso e encharcado, e a energia do espírito explode em uma onda esmagadora.<br>Você recua cambaleando enquanto a porta se fecha mais uma vez.<br>O guardião permanece vigilante, seu dever ainda não cumprido."
+
+drownedCoreTitle,"Conter o Núcleo Submerso"
+drownedCoreDescription,"Com o Sigilo Aquático em mãos, a câmara final sob o arquivo se revela.<br>Desça ao abismo e contenha o instável Núcleo Submerso antes que ele consuma o pântano."
+drownedCoreSuccess,"As profundezas sob o arquivo revelam uma vasta caverna submersa, iluminada por um vórtice espiral de energia azul-esbranquiçada.<br>No centro pulsa o <b>Núcleo Submerso</b>, uma fusão de correntes da linha ley e antiga magia de preservação fora de controle.<br>Você ergue o <b>Sigilo Aquático</b>, e seus símbolos brilham intensamente.<br>Canalizando toda sua disciplina, você ancora o padrão do sigilo no coração turbulento do vórtice.<br>As águas rugem contra barreiras invisíveis, mas sua vontade permanece firme.<br>Lentamente, as correntes violentas se acalmam, condensando-se em uma esfera luminosa e estável.<br>O pântano silencia. As ruínas não mais sussurram inquietas.<br>Você retorna à superfície com a serenidade de um mago que dominou o caos."
+drownedCoreFailure,"A caverna treme quando o <b>Núcleo Submerso</b> percebe sua presença.<br>Você invoca o <b>Sigilo Aquático</b>, mas o vórtice explode em energia descontrolada, rompendo o padrão de contenção.<br>Água e mana giram juntas em um turbilhão ensurdecedor, quebrando sua concentração.<br>Com a câmara desmoronando ao seu redor, você é forçado a recuar antes que a energia o consuma.<br>O Núcleo permanece instável, seu pulso inquieto ecoando pelo pântano."
+
+
+
+# ========== ARCHER ==========
+# ========== WARRIOR ==========

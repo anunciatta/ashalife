@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: Eternal Guardian Armor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: e84f7f42-a16d-463d-8c54-df34dbb9dab9
+  nameLabel: eternalGuardianArmorName
+  descriptionLabel: eternalGuardianArmorDescription
+  flavorLabel: eternalGuardianArmorFlavor
+  level: 0
+  rarity: 4
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 50
+  - status: 1
+    value: 0
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 14
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 21300000, guid: 05290798943b1444983095cd4c308d0d, type: 3}
+  cost:
+    coinCost: 1600
+    gemCost: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: 21300028, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300030, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300026, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300018, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300070, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300006, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300068, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300060, guid: 22fa5d341049def498afaf6a297614ee, type: 3}
+    - {fileID: 21300032, guid: 22fa5d341049def498afaf6a297614ee, type: 3}

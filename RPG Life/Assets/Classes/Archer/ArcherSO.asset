@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5662c2feeb70864090850548dc0bf07, type: 3}
+  m_Name: ArcherSO
+  m_EditorClassIdentifier: Assembly-CSharp::ClassSO
+  className: Archer
+  initialConfig:
+    health: 100
+    critical: 15
+    attack: 20
+    magic: 10
+    agility: 40
+    defense: 10
+    armorSO: {fileID: 11400000, guid: 6c322ab22fcc86d4d87f6eba9253a195, type: 2}
+    weaponSO: {fileID: 11400000, guid: 3d83df00502c7a0409fdc8ac61197bd6, type: 2}
+  classType: 0

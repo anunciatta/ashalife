@@ -1,0 +1,2299 @@
+fileFormatVersion: 2
+guid: 10954bf94a794474b8ccdafd344d51d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7729998739412254733
+    second: MageEquipmentsAtlas_0
+  - first:
+      213: -5448016971861999308
+    second: MageEquipmentsAtlas_1
+  - first:
+      213: 7138710688197770459
+    second: MageEquipmentsAtlas_2
+  - first:
+      213: -6281355397169440370
+    second: MageEquipmentsAtlas_3
+  - first:
+      213: 3965477976496202888
+    second: MageEquipmentsAtlas_4
+  - first:
+      213: -2305617605487975927
+    second: MageEquipmentsAtlas_5
+  - first:
+      213: 3921274158748926250
+    second: MageEquipmentsAtlas_6
+  - first:
+      213: 1900629603951491073
+    second: MageEquipmentsAtlas_7
+  - first:
+      213: 4240873525134653389
+    second: MageEquipmentsAtlas_8
+  - first:
+      213: 1498041186417616111
+    second: MageEquipmentsAtlas_9
+  - first:
+      213: -1193972214791298156
+    second: MageEquipmentsAtlas_10
+  - first:
+      213: 5825215046974049872
+    second: MageEquipmentsAtlas_11
+  - first:
+      213: -3819786230908966749
+    second: MageEquipmentsAtlas_12
+  - first:
+      213: -6423082331704342753
+    second: MageEquipmentsAtlas_13
+  - first:
+      213: -444161441490002971
+    second: MageEquipmentsAtlas_14
+  - first:
+      213: 4053654348515364697
+    second: MageEquipmentsAtlas_15
+  - first:
+      213: 8669766685342484163
+    second: MageEquipmentsAtlas_16
+  - first:
+      213: 3513387344198456178
+    second: MageEquipmentsAtlas_17
+  - first:
+      213: 7762681540915905669
+    second: MageEquipmentsAtlas_18
+  - first:
+      213: 4664875685648896237
+    second: MageEquipmentsAtlas_19
+  - first:
+      213: 2715910921502118443
+    second: MageEquipmentsAtlas_20
+  - first:
+      213: -794572505456189399
+    second: MageEquipmentsAtlas_21
+  - first:
+      213: -4756828252805769153
+    second: MageEquipmentsAtlas_22
+  - first:
+      213: -7493134629650041601
+    second: MageEquipmentsAtlas_23
+  - first:
+      213: 506427257264237284
+    second: MageEquipmentsAtlas_24
+  - first:
+      213: 8956739906082940743
+    second: MageEquipmentsAtlas_25
+  - first:
+      213: -7237137498607751728
+    second: MageEquipmentsAtlas_26
+  - first:
+      213: -6726082026781248835
+    second: MageEquipmentsAtlas_27
+  - first:
+      213: 3540350899537280872
+    second: MageEquipmentsAtlas_28
+  - first:
+      213: -1077527962156118636
+    second: MageEquipmentsAtlas_29
+  - first:
+      213: -1908988132129715680
+    second: MageEquipmentsAtlas_30
+  - first:
+      213: -3784131038854101893
+    second: MageEquipmentsAtlas_31
+  - first:
+      213: 4738601134128278269
+    second: MageEquipmentsAtlas_32
+  - first:
+      213: 992673935533607519
+    second: MageEquipmentsAtlas_33
+  - first:
+      213: 2275724325514072829
+    second: MageEquipmentsAtlas_34
+  - first:
+      213: 3369118598146727625
+    second: MageEquipmentsAtlas_35
+  - first:
+      213: 8209872513017161652
+    second: MageEquipmentsAtlas_36
+  - first:
+      213: -1183100524134439775
+    second: MageEquipmentsAtlas_37
+  - first:
+      213: -3702070948215441603
+    second: MageEquipmentsAtlas_38
+  - first:
+      213: 4439677279663405034
+    second: MageEquipmentsAtlas_39
+  - first:
+      213: -7238536288940389342
+    second: MageEquipmentsAtlas_40
+  - first:
+      213: -3102242331602390990
+    second: MageEquipmentsAtlas_41
+  - first:
+      213: 3080055910986794445
+    second: MageEquipmentsAtlas_42
+  - first:
+      213: -8006236012649261907
+    second: MageEquipmentsAtlas_43
+  - first:
+      213: -747719321531709963
+    second: MageEquipmentsAtlas_44
+  - first:
+      213: 4715385151458056445
+    second: MageEquipmentsAtlas_45
+  - first:
+      213: -7830948557529572009
+    second: MageEquipmentsAtlas_46
+  - first:
+      213: -4891430884894952864
+    second: MageEquipmentsAtlas_47
+  - first:
+      213: -314463404687679181
+    second: MageEquipmentsAtlas_48
+  - first:
+      213: -1406034617434294359
+    second: MageEquipmentsAtlas_49
+  - first:
+      213: -6378342281294265933
+    second: MageEquipmentsAtlas_50
+  - first:
+      213: -9074552526170279188
+    second: MageEquipmentsAtlas_51
+  - first:
+      213: -2466780324591856702
+    second: MageEquipmentsAtlas_52
+  - first:
+      213: -623318619222274501
+    second: MageEquipmentsAtlas_53
+  - first:
+      213: -2795567101621993187
+    second: MageEquipmentsAtlas_54
+  - first:
+      213: -4878382437236373981
+    second: MageEquipmentsAtlas_55
+  - first:
+      213: 6952689069553550548
+    second: MageEquipmentsAtlas_56
+  - first:
+      213: -3116769858288144536
+    second: MageEquipmentsAtlas_57
+  - first:
+      213: -651464463998396237
+    second: MageEquipmentsAtlas_58
+  - first:
+      213: 1145075625199512353
+    second: MageEquipmentsAtlas_59
+  - first:
+      213: 6205218815616515023
+    second: MageEquipmentsAtlas_60
+  - first:
+      213: 2458879042664214320
+    second: MageEquipmentsAtlas_61
+  - first:
+      213: 3896059795310719743
+    second: MageEquipmentsAtlas_62
+  - first:
+      213: -4002164303570587311
+    second: MageEquipmentsAtlas_63
+  - first:
+      213: 1282291168983499290
+    second: MageEquipmentsAtlas_64
+  - first:
+      213: 5366095083166003098
+    second: MageEquipmentsAtlas_65
+  - first:
+      213: -432326643182907025
+    second: MageEquipmentsAtlas_66
+  - first:
+      213: -1403156457213713596
+    second: MageEquipmentsAtlas_67
+  - first:
+      213: -7442533807490528797
+    second: MageEquipmentsAtlas_68
+  - first:
+      213: -3837797474587175154
+    second: MageEquipmentsAtlas_69
+  - first:
+      213: -974731417879992482
+    second: MageEquipmentsAtlas_70
+  - first:
+      213: -1726611236415948049
+    second: MageEquipmentsAtlas_71
+  - first:
+      213: -8912516942221221851
+    second: MageEquipmentsAtlas_72
+  - first:
+      213: -6773610595155166917
+    second: MageEquipmentsAtlas_73
+  - first:
+      213: 7616563280505589599
+    second: MageEquipmentsAtlas_74
+  - first:
+      213: 3752104978462859959
+    second: MageEquipmentsAtlas_75
+  - first:
+      213: 1677599259048102321
+    second: MageEquipmentsAtlas_76
+  - first:
+      213: -7632397379176966079
+    second: MageEquipmentsAtlas_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ApprenticeArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3650
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff7d1f0a1789b490800000000000000
+      internalID: -7729998739412254733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApprenticeHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3650
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431cdddcd61c464b0800000000000000
+      internalID: -5448016971861999308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApprenticeStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3650
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcff446c8bc11360800000000000000
+      internalID: 7138710688197770459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApprenticeLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3650
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e899bbbdb8424d8a0800000000000000
+      internalID: -6281355397169440370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudentArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3458
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e0b9a535380730800000000000000
+      internalID: 3965477976496202888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudentHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3457
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902a005e00dc000e0800000000000000
+      internalID: -2305617605487975927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudentStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3458
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a210623521a2b6630800000000000000
+      internalID: 3921274158748926250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudentLightSword
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 3458
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108be190e84606a10800000000000000
+      internalID: 1900629603951491073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InitiateArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3266
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc77203800c9ada30800000000000000
+      internalID: 4240873525134653389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InitiateHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3266
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4a357a58c1ac410800000000000000
+      internalID: 1498041186417616111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InitiateStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3266
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493ada9b8982e6fe0800000000000000
+      internalID: -1193972214791298156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InitiateLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3266
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e062fc83257d050800000000000000
+      internalID: 5825215046974049872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeptArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3074
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82ebc39a46dfac0800000000000000
+      internalID: -3819786230908966749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeptHat
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3074
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17cca776a0acd6a0800000000000000
+      internalID: -6423082331704342753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeptStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3074
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb1011b58506d9f0800000000000000
+      internalID: -444161441490002971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdeptLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3074
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc97d1729714830800000000000000
+      internalID: 4053654348515364697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChannelerArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2882
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ca5dadd2315870800000000000000
+      internalID: 8669766685342484163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChannelerHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2882
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2735d41cc2f02c030800000000000000
+      internalID: 3513387344198456178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChannelerStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2882
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58446c6abb59abb60800000000000000
+      internalID: 7762681540915905669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChannelerLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2882
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0957478b7fcb040800000000000000
+      internalID: 4664875685648896237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcanistArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2690
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22dcb5f79ad0b520800000000000000
+      internalID: 2715910921502118443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcanistHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2690
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920edff148c19f4f0800000000000000
+      internalID: -794572505456189399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcanistStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2690
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3858f528e95cfdb0800000000000000
+      internalID: -4756828252805769153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcanistLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2690
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f78131c9030890800000000000000
+      internalID: -7493134629650041601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpellbinderArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2498
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea6fc548e0370700800000000000000
+      internalID: 506427257264237284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpellbinderHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2498
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a3af5d7bbc4c70800000000000000
+      internalID: 8956739906082940743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpellbinderStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2498
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd63dcf9c5809b90800000000000000
+      internalID: -7237137498607751728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpellbinderLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2500
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2709f680828a2a0800000000000000
+      internalID: -6726082026781248835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagusArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2306
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f7723b26ad12130800000000000000
+      internalID: 3540350899537280872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagusHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2306
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d4224070adb01f0800000000000000
+      internalID: -1077527962156118636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagusStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2306
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac8f77869e185e0800000000000000
+      internalID: -1908988132129715680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagusLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2306
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74429d8ed01c7bc0800000000000000
+      internalID: -3784131038854101893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SorcererArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2114
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaaaf310a4e2c140800000000000000
+      internalID: 4738601134128278269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SorcererHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2114
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a05495fafa6cd00800000000000000
+      internalID: 992673935533607519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SorcererStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2114
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df25bfc773ff49f10800000000000000
+      internalID: 2275724325514072829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SorcererLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2114
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce92b0c38381ce20800000000000000
+      internalID: 3369118598146727625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchanterArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1922
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7a1a58d835fe170800000000000000
+      internalID: 8209872513017161652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchanterHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1922
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a463657758c49fe0800000000000000
+      internalID: -1183100524134439775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchanterStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1922
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d373356461a9f9cc0800000000000000
+      internalID: -3702070948215441603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchanterLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1922
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b5b3a6f6ec9d30800000000000000
+      internalID: 4439677279663405034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlemageArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1730
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c0febb89d8b8b90800000000000000
+      internalID: -7238536288940389342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlemageHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1730
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230f8a9290f92f4d0800000000000000
+      internalID: -3102242331602390990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlemageStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1730
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c5be388e8eba20800000000000000
+      internalID: 3080055910986794445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlemageLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1730
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4d91ee3c224e090800000000000000
+      internalID: -8006236012649261907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RitualistArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f508681d319f95f0800000000000000
+      internalID: -747719321531709963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RitualistHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1538
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df81fc3efc9607140800000000000000
+      internalID: 4715385151458056445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RitualistStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1538
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d971ee6c1e25390800000000000000
+      internalID: -7830948557529572009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RitualistLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1538
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062367ea6852e1cb0800000000000000
+      internalID: -4891430884894952864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArchmageArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312bb4133dc2abf0800000000000000
+      internalID: -314463404687679181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArchmageHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1346
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73de507f2cc7ce0800000000000000
+      internalID: -1406034617434294359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArchmageStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1346
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1c9933d739b77a0800000000000000
+      internalID: -6378342281294265933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArchmageLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1346
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce23ff57e86b01280800000000000000
+      internalID: -9074552526170279188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpelllordArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1154
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c397c54d5c34cdd0800000000000000
+      internalID: -2466780324591856702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpelllordHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1154
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e8e5fa4078957f0800000000000000
+      internalID: -623318619222274501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpelllordStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1154
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d118d0a58862439d0800000000000000
+      internalID: -2795567101621993187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpelllordLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1154
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326850625018c4cb0800000000000000
+      internalID: -4878382437236373981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidcallerArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 962
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d40b703fd9ec7060800000000000000
+      internalID: 6952689069553550548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidcallerHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 962
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2716c3520fb4d0800000000000000
+      internalID: -3116769858288144536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidcallerStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 962
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8d597858885f6f0800000000000000
+      internalID: -651464463998396237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidcallerLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 962
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ba9f8d63024ef00800000000000000
+      internalID: 1145075625199512353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstralArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb746ad2ad5d1650800000000000000
+      internalID: 6205218815616515023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstralHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f27ab2671bf1220800000000000000
+      internalID: 2458879042664214320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstralStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff23d2bddb5911630800000000000000
+      internalID: 3896059795310719743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstralLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1513de035c47578c0800000000000000
+      internalID: -4002164303570587311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MythicSageArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c1e9360d9bc110800000000000000
+      internalID: 1282291168983499290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MythicSageHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 578
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f641f1c03387a40800000000000000
+      internalID: 5366095083166003098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MythicSageStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 578
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6155266531100af0800000000000000
+      internalID: -432326643182907025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MythicSageLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 578
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4432b7be2acf68ce0800000000000000
+      internalID: -1403156457213713596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldweaverArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e901bf2feec6b890800000000000000
+      internalID: -7442533807490528797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldweaverHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 386
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071757c7876dbac0800000000000000
+      internalID: -3837797474587175154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldweaverStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 386
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a9d590fe0972f0800000000000000
+      internalID: -974731417879992482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldweaverLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 386
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaba3c7a38d908e0800000000000000
+      internalID: -1726611236415948049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EternalArcanistArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e044cf01605480800000000000000
+      internalID: -8912516942221221851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EternalArcanistHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3934f44d0d4ff1a0800000000000000
+      internalID: -6773610595155166917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EternalArcanistStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fc1d703f773b960800000000000000
+      internalID: 7616563280505589599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EternalArcanistLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 194
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e0413997221430800000000000000
+      internalID: 3752104978462859959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AscendedArchmageArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9450743a7084710800000000000000
+      internalID: 1677599259048102321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AscendedArchmageHat
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d8859507441690800000000000000
+      internalID: -7632397379176966079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AscendedArchmageStaff
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b578aee1abbdc4e991d76dcd3558c2
+      internalID: 1295727168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AscendedArchmageLightSword
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a603fdfae58fbc41940413121f15243
+      internalID: 62704799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6bc6d8a78f4021246a57b9fcf413a708
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":190.0,"y":190.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":2.0,"y":2.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AdeptArmor: -3819786230908966749
+      AdeptHat: -6423082331704342753
+      AdeptLightSword: 4053654348515364697
+      AdeptStaff: -444161441490002971
+      ApprenticeArmor: -7729998739412254733
+      ApprenticeHat: -5448016971861999308
+      ApprenticeLightSword: -6281355397169440370
+      ApprenticeStaff: 7138710688197770459
+      ArcanistArmor: 2715910921502118443
+      ArcanistHat: -794572505456189399
+      ArcanistLightSword: -7493134629650041601
+      ArcanistStaff: -4756828252805769153
+      ArchmageArmor: -314463404687679181
+      ArchmageHat: -1406034617434294359
+      ArchmageLightSword: -9074552526170279188
+      ArchmageStaff: -6378342281294265933
+      AscendedArchmageArmor: 1677599259048102321
+      AscendedArchmageHat: -7632397379176966079
+      AscendedArchmageLightSword: 62704799
+      AscendedArchmageStaff: 1295727168
+      AstralArmor: 6205218815616515023
+      AstralHat: 2458879042664214320
+      AstralLightSword: -4002164303570587311
+      AstralStaff: 3896059795310719743
+      BattlemageArmor: -7238536288940389342
+      BattlemageHat: -3102242331602390990
+      BattlemageLightSword: -8006236012649261907
+      BattlemageStaff: 3080055910986794445
+      ChannelerArmor: 8669766685342484163
+      ChannelerHat: 3513387344198456178
+      ChannelerLightSword: 4664875685648896237
+      ChannelerStaff: 7762681540915905669
+      EnchanterArmor: 8209872513017161652
+      EnchanterHat: -1183100524134439775
+      EnchanterLightSword: 4439677279663405034
+      EnchanterStaff: -3702070948215441603
+      EternalArcanistArmor: -8912516942221221851
+      EternalArcanistHat: -6773610595155166917
+      EternalArcanistLightSword: 3752104978462859959
+      EternalArcanistStaff: 7616563280505589599
+      InitiateArmor: 4240873525134653389
+      InitiateHat: 1498041186417616111
+      InitiateLightSword: 5825215046974049872
+      InitiateStaff: -1193972214791298156
+      MageEquipmentsAtlas_28: 3540350899537280872
+      MageEquipmentsAtlas_29: -1077527962156118636
+      MageEquipmentsAtlas_30: -1908988132129715680
+      MageEquipmentsAtlas_31: -3784131038854101893
+      MageEquipmentsAtlas_32: 4738601134128278269
+      MageEquipmentsAtlas_33: 992673935533607519
+      MageEquipmentsAtlas_34: 2275724325514072829
+      MageEquipmentsAtlas_35: 3369118598146727625
+      MageEquipmentsAtlas_36: 8209872513017161652
+      MageEquipmentsAtlas_37: -1183100524134439775
+      MageEquipmentsAtlas_38: -3702070948215441603
+      MageEquipmentsAtlas_39: 4439677279663405034
+      MageEquipmentsAtlas_40: -7238536288940389342
+      MageEquipmentsAtlas_41: -3102242331602390990
+      MageEquipmentsAtlas_42: 3080055910986794445
+      MageEquipmentsAtlas_43: -8006236012649261907
+      MageEquipmentsAtlas_44: -747719321531709963
+      MageEquipmentsAtlas_45: 4715385151458056445
+      MageEquipmentsAtlas_46: -7830948557529572009
+      MageEquipmentsAtlas_47: -4891430884894952864
+      MageEquipmentsAtlas_48: -314463404687679181
+      MageEquipmentsAtlas_49: -1406034617434294359
+      MageEquipmentsAtlas_50: -6378342281294265933
+      MageEquipmentsAtlas_51: -9074552526170279188
+      MageEquipmentsAtlas_52: -2466780324591856702
+      MageEquipmentsAtlas_53: -623318619222274501
+      MageEquipmentsAtlas_54: -2795567101621993187
+      MageEquipmentsAtlas_55: -4878382437236373981
+      MageEquipmentsAtlas_56: 6952689069553550548
+      MageEquipmentsAtlas_57: -3116769858288144536
+      MageEquipmentsAtlas_58: -651464463998396237
+      MageEquipmentsAtlas_59: 1145075625199512353
+      MageEquipmentsAtlas_60: 6205218815616515023
+      MageEquipmentsAtlas_61: 2458879042664214320
+      MageEquipmentsAtlas_62: 3896059795310719743
+      MageEquipmentsAtlas_63: -4002164303570587311
+      MageEquipmentsAtlas_64: 1282291168983499290
+      MageEquipmentsAtlas_65: 5366095083166003098
+      MageEquipmentsAtlas_66: -432326643182907025
+      MageEquipmentsAtlas_67: -1403156457213713596
+      MageEquipmentsAtlas_68: -7442533807490528797
+      MageEquipmentsAtlas_69: -3837797474587175154
+      MageEquipmentsAtlas_70: -974731417879992482
+      MageEquipmentsAtlas_71: -1726611236415948049
+      MageEquipmentsAtlas_72: -8912516942221221851
+      MageEquipmentsAtlas_73: -6773610595155166917
+      MageEquipmentsAtlas_74: 7616563280505589599
+      MageEquipmentsAtlas_75: 3752104978462859959
+      MageEquipmentsAtlas_76: 1677599259048102321
+      MageEquipmentsAtlas_77: -7632397379176966079
+      MageEquipmentsAtlas_78: 1295727168
+      MageEquipmentsAtlas_79: 62704799
+      MagusArmor: 3540350899537280872
+      MagusHat: -1077527962156118636
+      MagusLightSword: -3784131038854101893
+      MagusStaff: -1908988132129715680
+      MythicSageArmor: 1282291168983499290
+      MythicSageHat: 5366095083166003098
+      MythicSageLightSword: -1403156457213713596
+      MythicSageStaff: -432326643182907025
+      RitualistArmor: -747719321531709963
+      RitualistHat: 4715385151458056445
+      RitualistLightSword: -4891430884894952864
+      RitualistStaff: -7830948557529572009
+      SorcererArmor: 4738601134128278269
+      SorcererHat: 992673935533607519
+      SorcererLightSword: 3369118598146727625
+      SorcererStaff: 2275724325514072829
+      SpellbinderArmor: 506427257264237284
+      SpellbinderHat: 8956739906082940743
+      SpellbinderLightSword: -6726082026781248835
+      SpellbinderStaff: -7237137498607751728
+      SpelllordArmor: -2466780324591856702
+      SpelllordHat: -623318619222274501
+      SpelllordLightSword: -4878382437236373981
+      SpelllordStaff: -2795567101621993187
+      StudentArmor: 3965477976496202888
+      StudentHat: -2305617605487975927
+      StudentLightSword: 1900629603951491073
+      StudentStaff: 3921274158748926250
+      VoidcallerArmor: 6952689069553550548
+      VoidcallerHat: -3116769858288144536
+      VoidcallerLightSword: 1145075625199512353
+      VoidcallerStaff: -651464463998396237
+      WorldweaverArmor: -7442533807490528797
+      WorldweaverHat: -3837797474587175154
+      WorldweaverLightSword: -1726611236415948049
+      WorldweaverStaff: -974731417879992482
+      adeptArmor: -3819786230908966749
+      adeptHat: -6423082331704342753
+      adeptLightSword: 4053654348515364697
+      adeptStaff: -444161441490002971
+      apprenticeArmor: -7729998739412254733
+      apprenticeHat: -5448016971861999308
+      apprenticeLightSword: -6281355397169440370
+      apprenticeStaff: 7138710688197770459
+      arcanistArmor: 2715910921502118443
+      arcanistHat: -794572505456189399
+      arcanistLightSword: -7493134629650041601
+      arcanistStaff: -4756828252805769153
+      channelerArmor: 8669766685342484163
+      channelerHat: 3513387344198456178
+      channelerLightSword: 7762681540915905669
+      channelerStaff: 4664875685648896237
+      initiateArmor: 4240873525134653389
+      initiateHat: 1498041186417616111
+      initiateLightSword: 5825215046974049872
+      initiateStaff: -1193972214791298156
+      spellbinderArmor: 506427257264237284
+      spellbinderHat: 8956739906082940743
+      spellbinderLightSword: -6726082026781248835
+      spellbinderStaff: -7237137498607751728
+      studentArmor: 3965477976496202888
+      studentHat: -2305617605487975927
+      studentLightSword: 1900629603951491073
+      studentStaff: 3921274158748926250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

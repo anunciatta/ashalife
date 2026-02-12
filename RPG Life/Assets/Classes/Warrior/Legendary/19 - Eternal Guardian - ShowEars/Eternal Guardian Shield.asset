@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc12a0704a83aa43a2755d861f4854d, type: 3}
+  m_Name: Eternal Guardian Shield
+  m_EditorClassIdentifier: Assembly-CSharp::ShieldSO
+  saveableEntityId: e12ad31d-4146-4079-af20-569e7e047a4e
+  nameLabel: eternalGuardianShieldName
+  descriptionLabel: eternalGuardianShieldDescription
+  flavorLabel: eternalGuardianShieldFlavor
+  level: 0
+  rarity: 4
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 30
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 21300000, guid: f8e49fdbb91e6384ebc0d01f424b62ad, type: 3}
+  cost:
+    coinCost: 1350
+    gemCost: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  sprite: {fileID: 21300002, guid: eb6f85d731143664cb518a9766d848e6, type: 3}

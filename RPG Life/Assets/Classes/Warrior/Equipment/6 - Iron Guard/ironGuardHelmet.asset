@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf9c43d325cf5e4ca70ed57d93661f2, type: 3}
+  m_Name: ironGuardHelmet
+  m_EditorClassIdentifier: Assembly-CSharp::HelmetSO
+  saveableEntityId: 6b4a0d28-c2d1-43db-8dd6-dfc843431cde
+  nameLabel: ironGuardHelmetName
+  descriptionLabel: ironGuardHelmetDescription
+  flavorLabel: ironGuardHelmetFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  helmetSpriteConfig:
+    sprite: {fileID: 4074100181967721807, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    coverHair: 1
+    coverEars: 1

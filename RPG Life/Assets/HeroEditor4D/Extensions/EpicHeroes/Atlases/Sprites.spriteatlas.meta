@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8523f2e53672f914791c56d7be809f70
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147364
+  packageName: 'Character Editor 4D [Megapack]'
+  packageVersion: 7.6
+  assetPath: Assets/HeroEditor4D/Extensions/EpicHeroes/Atlases/Sprites.spriteatlas
+  uploadId: 795836

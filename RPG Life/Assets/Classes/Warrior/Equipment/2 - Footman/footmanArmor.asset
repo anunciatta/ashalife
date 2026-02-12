@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: footmanArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 6754f3c1-38df-4f2c-b113-aaef8ef43e93
+  nameLabel: footmanArmorName
+  descriptionLabel: footmanArmorDescription
+  flavorLabel: footmanArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -1005784049336070449, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -4948325938408271817, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 34790618729780233, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 8256833096920444647, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 0}
+    - {fileID: -6134680081388006698, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -6812463370425329184, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -8402143219986157512, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -6441808184907712812, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}

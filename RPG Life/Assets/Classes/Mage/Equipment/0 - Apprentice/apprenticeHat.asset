@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf9c43d325cf5e4ca70ed57d93661f2, type: 3}
+  m_Name: apprenticeHat
+  m_EditorClassIdentifier: Assembly-CSharp::HelmetSO
+  saveableEntityId: 41eb1a2b-dcc2-4e6f-9f6c-dc6586c72ea3
+  nameLabel: apprenticeHatName
+  descriptionLabel: apprenticeHatDescription
+  flavorLabel: apprenticeHatFlavor
+  level: 1
+  rarity: 0
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 1
+  - status: 3
+    value: 0
+  - status: 4
+    value: 0
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: -5448016971861999308, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 8
+  cost:
+    coinCost: 55
+    gemCost: 0
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  helmetSpriteConfig:
+    sprite: {fileID: 4039601466418424792, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    coverHair: 1
+    coverEars: 1

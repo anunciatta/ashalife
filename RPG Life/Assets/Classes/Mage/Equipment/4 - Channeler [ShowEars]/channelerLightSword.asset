@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b2c437b0d843344a03b3610617404a, type: 3}
+  m_Name: channelerLightSword
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSO
+  saveableEntityId: ae1fc85f-7f76-42fd-bc2f-4529339db595
+  nameLabel: channelerLightSwordName
+  descriptionLabel: channelerLightSwordDescription
+  flavorLabel: channelerLightSwordFlavor
+  level: 5
+  rarity: 1
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 5
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 0
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 4664875685648896237, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 9
+  cost:
+    coinCost: 345
+    gemCost: 3
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  weaponSprites:
+    leftHand:
+    - {fileID: 3695099083871435226, guid: 648fec7df36d5564c91100142b10012b, type: 3}
+    rightHand: {fileID: 0}
+    back: {fileID: 0}

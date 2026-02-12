@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4203ed8559da4f0498a5b0dd63ee1f73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147364
+  packageName: 'Character Editor 4D [Megapack]'
+  packageVersion: 7.6
+  assetPath: Assets/HeroEditor4D/Common/Animation/Upper/Slash1H.anim
+  uploadId: 795836

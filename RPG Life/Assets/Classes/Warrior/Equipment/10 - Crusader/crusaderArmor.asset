@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: crusaderArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 23d3adbd-73d9-404f-a8a4-43e777a4f159
+  nameLabel: crusaderArmorName
+  descriptionLabel: crusaderArmorDescription
+  flavorLabel: crusaderArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -6419170869580292173, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 4354033749863824348, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 2874801664103247854, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -7195930846785562242, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 7646641286920823806, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -6275477992481269076, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 6528053224065774456, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 1355117359445573381, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -8758373403950449776, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}

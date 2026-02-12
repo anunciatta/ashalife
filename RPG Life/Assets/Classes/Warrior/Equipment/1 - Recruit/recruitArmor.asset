@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: recruitArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 2057e264-fd1a-4b5e-8b65-4c83b518443a
+  nameLabel: recruitArmorName
+  descriptionLabel: recruitArmorDescription
+  flavorLabel: recruitArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -4313964617067993967, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -7287325772347249753, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -5255486435365915131, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -607808903578135902, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -5636750172933227506, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -319386380726490473, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 4151496631207559091, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 6694938639680244177, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 739622928275002187, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}

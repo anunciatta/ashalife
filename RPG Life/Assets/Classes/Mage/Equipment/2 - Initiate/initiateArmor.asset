@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: initiateArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: afed78ce-b62d-4855-a38d-9ade2178348a
+  nameLabel: initiateArmorName
+  descriptionLabel: initiateArmorDescription
+  flavorLabel: initiateArmorFlavor
+  level: 3
+  rarity: 0
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 3
+  - status: 3
+    value: 0
+  - status: 4
+    value: 8
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 4240873525134653389, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 0
+  cost:
+    coinCost: 265
+    gemCost: 2
+  isEquipped: 0
+  quantity: 1
+  relatedClasses: 02000000
+  purchased: 1
+  armorSprites:
+    sprites:
+    - {fileID: -7835176645767375023, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -4443462276523241849, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 4543334728099969823, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1047517415, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 264494308, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -609409877, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1415418832, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 560271188, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1628508307, guid: dd8edb28093fb83458611031f699879c, type: 3}

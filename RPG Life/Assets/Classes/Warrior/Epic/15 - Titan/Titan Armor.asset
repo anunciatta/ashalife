@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: Titan Armor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 4647dd10-d8b5-4a9e-8969-cedfdfc59126
+  nameLabel: titanArmorName
+  descriptionLabel: titanArmorDescription
+  flavorLabel: titanArmorFlavor
+  level: 0
+  rarity: 3
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 35
+  - status: 1
+    value: 0
+  - status: 2
+    value: 0
+  - status: 3
+    value: 0
+  - status: 4
+    value: 10
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: 21300000, guid: 10aea5d6ea7fd6642ba29b9f6352e169, type: 3}
+  itemType: 3
+  cost:
+    coinCost: 820
+    gemCost: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: 21300028, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300030, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300026, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300018, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300070, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300006, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300068, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300060, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}
+    - {fileID: 21300032, guid: 41904ab5a2777fe46bea6ff518acb65d, type: 3}

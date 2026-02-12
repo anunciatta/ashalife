@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: ritualistArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: e07a2a42-3e6f-47de-932d-abd5b828148c
+  nameLabel: ritualistArmorName
+  descriptionLabel: ritualistArmorDescription
+  flavorLabel: ritualistArmorFlavor
+  level: 12
+  rarity: 2
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 7
+  - status: 3
+    value: 0
+  - status: 4
+    value: 28
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: -747719321531709963, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 3
+  cost:
+    coinCost: 3540
+    gemCost: 39
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -316084244, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1784848024, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1939317423, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -495715528, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -897650762, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 2111810184, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1014168721, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1501364893, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1882538367, guid: dd8edb28093fb83458611031f699879c, type: 3}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09a546934f4ca1941a3f2a8cda95f07c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147364
+  packageName: 'Character Editor 4D [Megapack]'
+  packageVersion: 7.6
+  assetPath: Assets/HeroEditor4D/Common/Animation/Bonus (Right Side Only)/ChargeBow.anim
+  uploadId: 795836

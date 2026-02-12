@@ -1,0 +1,5308 @@
+fileFormatVersion: 2
+guid: 5f2cf08492bfb5b4caae9f955e81adcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7387899423386950360
+    second: Warrior Armor_Sprites_0
+  - first:
+      213: 7538485697910286898
+    second: Warrior Armor_Sprites_1
+  - first:
+      213: -5469898357807631494
+    second: Warrior Armor_Sprites_2
+  - first:
+      213: 8905127952674968865
+    second: Warrior Armor_Sprites_3
+  - first:
+      213: 8202049838934133744
+    second: Warrior Armor_Sprites_4
+  - first:
+      213: -8443208202243373575
+    second: Warrior Armor_Sprites_5
+  - first:
+      213: 4074100181967721807
+    second: Warrior Armor_Sprites_6
+  - first:
+      213: 3772653574601582568
+    second: Warrior Armor_Sprites_7
+  - first:
+      213: -52032802255398792
+    second: Warrior Armor_Sprites_8
+  - first:
+      213: -7246501968612936815
+    second: Warrior Armor_Sprites_9
+  - first:
+      213: -2569493341355229856
+    second: Warrior Armor_Sprites_10
+  - first:
+      213: -5478184258107926559
+    second: Warrior Armor_Sprites_11
+  - first:
+      213: 6160541221173398817
+    second: Warrior Armor_Sprites_12
+  - first:
+      213: -8153220271510515687
+    second: Warrior Armor_Sprites_13
+  - first:
+      213: 8291271540608262422
+    second: Warrior Armor_Sprites_14
+  - first:
+      213: 8242144149862909830
+    second: Warrior Armor_Sprites_15
+  - first:
+      213: -8989283090531092296
+    second: Warrior Armor_Sprites_16
+  - first:
+      213: -6325407553863492315
+    second: Warrior Armor_Sprites_17
+  - first:
+      213: 4865256276660507393
+    second: Warrior Armor_Sprites_18
+  - first:
+      213: 2116160242978614913
+    second: Warrior Armor_Sprites_19
+  - first:
+      213: 4983483797764926374
+    second: Warrior Armor_Sprites_20
+  - first:
+      213: 2359854177639953721
+    second: Warrior Armor_Sprites_21
+  - first:
+      213: 2454675113316276931
+    second: Warrior Armor_Sprites_22
+  - first:
+      213: -5255486435365915131
+    second: Warrior Armor_Sprites_23
+  - first:
+      213: -4313964617067993967
+    second: Warrior Armor_Sprites_24
+  - first:
+      213: -7287325772347249753
+    second: Warrior Armor_Sprites_25
+  - first:
+      213: 34790618729780233
+    second: Warrior Armor_Sprites_26
+  - first:
+      213: -1005784049336070449
+    second: Warrior Armor_Sprites_27
+  - first:
+      213: -4948325938408271817
+    second: Warrior Armor_Sprites_28
+  - first:
+      213: 3120741275469613048
+    second: Warrior Armor_Sprites_29
+  - first:
+      213: 2797516405965067489
+    second: Warrior Armor_Sprites_30
+  - first:
+      213: 5559348222937160487
+    second: Warrior Armor_Sprites_31
+  - first:
+      213: 8696051836735961683
+    second: Warrior Armor_Sprites_32
+  - first:
+      213: -5245887394032978729
+    second: Warrior Armor_Sprites_33
+  - first:
+      213: -5358277151698100868
+    second: Warrior Armor_Sprites_34
+  - first:
+      213: -7950427247675760471
+    second: Warrior Armor_Sprites_35
+  - first:
+      213: 4894654853846083503
+    second: Warrior Armor_Sprites_36
+  - first:
+      213: -6528907632344254885
+    second: Warrior Armor_Sprites_37
+  - first:
+      213: -40980197604466327
+    second: Warrior Armor_Sprites_38
+  - first:
+      213: 8008881891784487216
+    second: Warrior Armor_Sprites_39
+  - first:
+      213: -1093786982066326720
+    second: Warrior Armor_Sprites_40
+  - first:
+      213: 7619694680799421895
+    second: Warrior Armor_Sprites_41
+  - first:
+      213: 6568704062723805641
+    second: Warrior Armor_Sprites_42
+  - first:
+      213: 942955003276188679
+    second: Warrior Armor_Sprites_43
+  - first:
+      213: 400810147933448599
+    second: Warrior Armor_Sprites_44
+  - first:
+      213: 3987610790763708759
+    second: Warrior Armor_Sprites_45
+  - first:
+      213: -1699330969692191970
+    second: Warrior Armor_Sprites_46
+  - first:
+      213: -712926877045802348
+    second: Warrior Armor_Sprites_47
+  - first:
+      213: -6428455479274631402
+    second: Warrior Armor_Sprites_48
+  - first:
+      213: -793894312407973130
+    second: Warrior Armor_Sprites_49
+  - first:
+      213: 2874801664103247854
+    second: Warrior Armor_Sprites_50
+  - first:
+      213: -6419170869580292173
+    second: Warrior Armor_Sprites_51
+  - first:
+      213: 4354033749863824348
+    second: Warrior Armor_Sprites_52
+  - first:
+      213: 1866156587313357740
+    second: Warrior Armor_Sprites_53
+  - first:
+      213: 3794643927768955090
+    second: Warrior Armor_Sprites_54
+  - first:
+      213: -5067499209699040657
+    second: Warrior Armor_Sprites_55
+  - first:
+      213: 8539667993322317504
+    second: Warrior Armor_Sprites_56
+  - first:
+      213: -4417481909102653667
+    second: Warrior Armor_Sprites_57
+  - first:
+      213: 2663442128039359750
+    second: Warrior Armor_Sprites_58
+  - first:
+      213: -7993748282281080395
+    second: Warrior Armor_Sprites_59
+  - first:
+      213: 1504423797256639057
+    second: Warrior Armor_Sprites_60
+  - first:
+      213: -4351307058477619641
+    second: Warrior Armor_Sprites_61
+  - first:
+      213: 4346308846648129297
+    second: Warrior Armor_Sprites_62
+  - first:
+      213: 7520058154828845814
+    second: Warrior Armor_Sprites_63
+  - first:
+      213: -6553937928675748483
+    second: Warrior Armor_Sprites_64
+  - first:
+      213: 788121591075262278
+    second: Warrior Armor_Sprites_65
+  - first:
+      213: 948276487433756772
+    second: Warrior Armor_Sprites_66
+  - first:
+      213: -7865687052251875577
+    second: Warrior Armor_Sprites_67
+  - first:
+      213: -361616027818762730
+    second: Warrior Armor_Sprites_68
+  - first:
+      213: 5104941653451463919
+    second: Warrior Armor_Sprites_69
+  - first:
+      213: 835333337523333859
+    second: Warrior Armor_Sprites_70
+  - first:
+      213: -6036993758410578800
+    second: Warrior Armor_Sprites_71
+  - first:
+      213: 108785455891242550
+    second: Warrior Armor_Sprites_72
+  - first:
+      213: -4826125680463889481
+    second: Warrior Armor_Sprites_73
+  - first:
+      213: -4932141541087162104
+    second: Warrior Armor_Sprites_74
+  - first:
+      213: 2308400416841126918
+    second: Warrior Armor_Sprites_75
+  - first:
+      213: -7574472145865387263
+    second: Warrior Armor_Sprites_76
+  - first:
+      213: -8209901856593372155
+    second: Warrior Armor_Sprites_77
+  - first:
+      213: -9021808957913322062
+    second: Warrior Armor_Sprites_78
+  - first:
+      213: 8719868830523253104
+    second: Warrior Armor_Sprites_79
+  - first:
+      213: -1472253010810862224
+    second: Warrior Armor_Sprites_80
+  - first:
+      213: -1262338930838583101
+    second: Warrior Armor_Sprites_81
+  - first:
+      213: -2911587760995434780
+    second: Warrior Armor_Sprites_82
+  - first:
+      213: 8899287301183354460
+    second: Warrior Armor_Sprites_83
+  - first:
+      213: 8856082641927461351
+    second: Warrior Armor_Sprites_84
+  - first:
+      213: 2646219912391543344
+    second: Warrior Armor_Sprites_85
+  - first:
+      213: 4151496631207559091
+    second: Warrior Armor_Sprites_86
+  - first:
+      213: 739622928275002187
+    second: Warrior Armor_Sprites_87
+  - first:
+      213: 6694938639680244177
+    second: Warrior Armor_Sprites_88
+  - first:
+      213: -319386380726490473
+    second: Warrior Armor_Sprites_89
+  - first:
+      213: -6812463370425329184
+    second: Warrior Armor_Sprites_90
+  - first:
+      213: -6441808184907712812
+    second: Warrior Armor_Sprites_91
+  - first:
+      213: -8402143219986157512
+    second: Warrior Armor_Sprites_92
+  - first:
+      213: -6134680081388006698
+    second: Warrior Armor_Sprites_93
+  - first:
+      213: 7210102422171272
+    second: Warrior Armor_Sprites_94
+  - first:
+      213: 825216571332710056
+    second: Warrior Armor_Sprites_95
+  - first:
+      213: -1101258741817255253
+    second: Warrior Armor_Sprites_96
+  - first:
+      213: 7957967721619278642
+    second: Warrior Armor_Sprites_97
+  - first:
+      213: -2734221168884131494
+    second: Warrior Armor_Sprites_98
+  - first:
+      213: -3948638189324939675
+    second: Warrior Armor_Sprites_99
+  - first:
+      213: -8404901573703637416
+    second: Warrior Armor_Sprites_100
+  - first:
+      213: -3963653564686872386
+    second: Warrior Armor_Sprites_101
+  - first:
+      213: -1443991691860826269
+    second: Warrior Armor_Sprites_102
+  - first:
+      213: -1472701105016366738
+    second: Warrior Armor_Sprites_103
+  - first:
+      213: 3248993655107496612
+    second: Warrior Armor_Sprites_104
+  - first:
+      213: 2360188946413686190
+    second: Warrior Armor_Sprites_105
+  - first:
+      213: -8029525759587287103
+    second: Warrior Armor_Sprites_106
+  - first:
+      213: -5929309581703097585
+    second: Warrior Armor_Sprites_107
+  - first:
+      213: -855998497291661534
+    second: Warrior Armor_Sprites_108
+  - first:
+      213: -1529586518670628938
+    second: Warrior Armor_Sprites_109
+  - first:
+      213: 6235449448890645963
+    second: Warrior Armor_Sprites_110
+  - first:
+      213: -1879848816436076243
+    second: Warrior Armor_Sprites_111
+  - first:
+      213: -6682551089708659773
+    second: Warrior Armor_Sprites_112
+  - first:
+      213: 4221737680191302559
+    second: Warrior Armor_Sprites_113
+  - first:
+      213: 4897829506451143061
+    second: Warrior Armor_Sprites_114
+  - first:
+      213: -8082641065794687871
+    second: Warrior Armor_Sprites_115
+  - first:
+      213: -6979103571665442591
+    second: Warrior Armor_Sprites_116
+  - first:
+      213: -8306640224204046510
+    second: Warrior Armor_Sprites_117
+  - first:
+      213: 2108998533761319139
+    second: Warrior Armor_Sprites_118
+  - first:
+      213: -3244117442778749137
+    second: Warrior Armor_Sprites_119
+  - first:
+      213: 9000744614826417617
+    second: Warrior Armor_Sprites_120
+  - first:
+      213: -8302668715808397395
+    second: Warrior Armor_Sprites_121
+  - first:
+      213: 6528053224065774456
+    second: Warrior Armor_Sprites_122
+  - first:
+      213: -8758373403950449776
+    second: Warrior Armor_Sprites_123
+  - first:
+      213: 1355117359445573381
+    second: Warrior Armor_Sprites_124
+  - first:
+      213: -6275477992481269076
+    second: Warrior Armor_Sprites_125
+  - first:
+      213: -2515777166079759661
+    second: Warrior Armor_Sprites_126
+  - first:
+      213: 3697847464477501070
+    second: Warrior Armor_Sprites_127
+  - first:
+      213: -1577953122756830839
+    second: Warrior Armor_Sprites_128
+  - first:
+      213: 2152674979951812260
+    second: Warrior Armor_Sprites_129
+  - first:
+      213: 4958711449004870507
+    second: Warrior Armor_Sprites_130
+  - first:
+      213: 2408874422857044325
+    second: Warrior Armor_Sprites_131
+  - first:
+      213: 7750723598693376454
+    second: Warrior Armor_Sprites_132
+  - first:
+      213: 3613360094230176284
+    second: Warrior Armor_Sprites_133
+  - first:
+      213: 8485551378097547101
+    second: Warrior Armor_Sprites_134
+  - first:
+      213: 4728361738305934630
+    second: Warrior Armor_Sprites_135
+  - first:
+      213: 2165212466290616006
+    second: Warrior Armor_Sprites_136
+  - first:
+      213: 4541883889035352797
+    second: Warrior Armor_Sprites_137
+  - first:
+      213: 7557027484744397623
+    second: Warrior Armor_Sprites_138
+  - first:
+      213: -8014653609154026040
+    second: Warrior Armor_Sprites_139
+  - first:
+      213: 5229018611922419221
+    second: Warrior Armor_Sprites_140
+  - first:
+      213: -3970045988261049388
+    second: Warrior Armor_Sprites_141
+  - first:
+      213: -2739114352178185529
+    second: Warrior Armor_Sprites_142
+  - first:
+      213: 7752755000854018339
+    second: Warrior Armor_Sprites_143
+  - first:
+      213: -5656136401451411704
+    second: Warrior Armor_Sprites_144
+  - first:
+      213: 4172295066152315982
+    second: Warrior Armor_Sprites_145
+  - first:
+      213: -8155695657098849431
+    second: Warrior Armor_Sprites_146
+  - first:
+      213: -2369225474632058193
+    second: Warrior Armor_Sprites_147
+  - first:
+      213: 9063880040880900292
+    second: Warrior Armor_Sprites_148
+  - first:
+      213: -2975228994798779454
+    second: Warrior Armor_Sprites_149
+  - first:
+      213: 257298059027939936
+    second: Warrior Armor_Sprites_150
+  - first:
+      213: -2141680876900142524
+    second: Warrior Armor_Sprites_151
+  - first:
+      213: 3552957822961239992
+    second: Warrior Armor_Sprites_152
+  - first:
+      213: 2707213206452102331
+    second: Warrior Armor_Sprites_153
+  - first:
+      213: -3690913670857583539
+    second: Warrior Armor_Sprites_154
+  - first:
+      213: 1458318258435460492
+    second: Warrior Armor_Sprites_155
+  - first:
+      213: 3600821792504092134
+    second: Warrior Armor_Sprites_156
+  - first:
+      213: -8762107281987825742
+    second: Warrior Armor_Sprites_157
+  - first:
+      213: -7012854963723462877
+    second: Warrior Armor_Sprites_158
+  - first:
+      213: -256498783722490579
+    second: Warrior Armor_Sprites_159
+  - first:
+      213: 8175066048015846388
+    second: Warrior Armor_Sprites_160
+  - first:
+      213: 541060567972552968
+    second: Warrior Armor_Sprites_161
+  - first:
+      213: 2256587624447378187
+    second: Warrior Armor_Sprites_162
+  - first:
+      213: -3405964577619022559
+    second: Warrior Armor_Sprites_163
+  - first:
+      213: -5636750172933227506
+    second: Warrior Armor_Sprites_164
+  - first:
+      213: -607808903578135902
+    second: Warrior Armor_Sprites_165
+  - first:
+      213: -5698213976060314662
+    second: Warrior Armor_Sprites_166
+  - first:
+      213: 8256833096920444647
+    second: Warrior Armor_Sprites_167
+  - first:
+      213: -5635241724900836345
+    second: Warrior Armor_Sprites_168
+  - first:
+      213: -5328148877714537026
+    second: Warrior Armor_Sprites_169
+  - first:
+      213: 636723189831434584
+    second: Warrior Armor_Sprites_170
+  - first:
+      213: 2244047228084915837
+    second: Warrior Armor_Sprites_171
+  - first:
+      213: 4467434483967160961
+    second: Warrior Armor_Sprites_172
+  - first:
+      213: 3022208221188802691
+    second: Warrior Armor_Sprites_173
+  - first:
+      213: -1327821412720546862
+    second: Warrior Armor_Sprites_174
+  - first:
+      213: 8382864817609890332
+    second: Warrior Armor_Sprites_175
+  - first:
+      213: 9160698666593794213
+    second: Warrior Armor_Sprites_176
+  - first:
+      213: 6427957935104426176
+    second: Warrior Armor_Sprites_177
+  - first:
+      213: -3299227955910633000
+    second: Warrior Armor_Sprites_178
+  - first:
+      213: 1318525504594178251
+    second: Warrior Armor_Sprites_179
+  - first:
+      213: 7633994258885437231
+    second: Warrior Armor_Sprites_180
+  - first:
+      213: -2303438341655200728
+    second: Warrior Armor_Sprites_181
+  - first:
+      213: 7646641286920823806
+    second: Warrior Armor_Sprites_182
+  - first:
+      213: -7195930846785562242
+    second: Warrior Armor_Sprites_183
+  - first:
+      213: -8066922559773248973
+    second: Warrior Armor_Sprites_184
+  - first:
+      213: 6900507819154214948
+    second: Warrior Armor_Sprites_185
+  - first:
+      213: -3737953028834381613
+    second: Warrior Armor_Sprites_186
+  - first:
+      213: 2488905804837022801
+    second: Warrior Armor_Sprites_187
+  - first:
+      213: -5232234104523186915
+    second: Warrior Armor_Sprites_188
+  - first:
+      213: 6926653493862355301
+    second: Warrior Armor_Sprites_189
+  - first:
+      213: 5080271039781797936
+    second: Warrior Armor_Sprites_190
+  - first:
+      213: 228324996640394360
+    second: Warrior Armor_Sprites_191
+  - first:
+      213: -7437198910296451334
+    second: Warrior Armor_Sprites_192
+  - first:
+      213: 1439718614063882885
+    second: Warrior Armor_Sprites_193
+  - first:
+      213: 1085412273878945690
+    second: Warrior Armor_Sprites_194
+  - first:
+      213: 5350995219589273129
+    second: Warrior Armor_Sprites_195
+  - first:
+      213: 7534397193082264835
+    second: Warrior Armor_Sprites_196
+  - first:
+      213: 8737121011314066563
+    second: Warrior Armor_Sprites_197
+  - first:
+      213: -7847358974765045723
+    second: Warrior Armor_Sprites_198
+  - first:
+      213: 2838575454180450509
+    second: Warrior Armor_Sprites_199
+  - first:
+      213: -5271721828188539125
+    second: Warrior Armor_Sprites_200
+  - first:
+      213: -7085560283747180908
+    second: Warrior Armor_Sprites_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82525b00e98e87990800000000000000
+      internalID: -7387899423386950360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_Helmet
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a2e483dc41e9860800000000000000
+      internalID: 7538485697910286898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_Helmet
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a733261ac640714b0800000000000000
+      internalID: -5469898357807631494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_Helmet
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d79a01be559b70800000000000000
+      internalID: 8905127952674968865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_Helmet
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb08b74fd883d170800000000000000
+      internalID: 8202049838934133744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_Helmet
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f58e94cfd2b3da80800000000000000
+      internalID: -8443208202243373575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_Helmet
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f455a8da78c1a8830800000000000000
+      internalID: 4074100181967721807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_Helmet
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72cbe00782b5430800000000000000
+      internalID: 3772653574601582568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_Helmet
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87816e82174274ff0800000000000000
+      internalID: -52032802255398792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_Helmet
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19338a86ad04f6b90800000000000000
+      internalID: -7246501968612936815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_Helmet
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d3ac77b63575cd0800000000000000
+      internalID: -2569493341355229856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_Helmet
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e71751217499f3b0800000000000000
+      internalID: -5478184258107926559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_Helmet
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d0138c993ae7550800000000000000
+      internalID: 6160541221173398817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_Helmet
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101a155c51f9de80800000000000000
+      internalID: -8153220271510515687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_Helmet
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e2428983801370800000000000000
+      internalID: 8291271540608262422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_Helmet
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68784208f6af16270800000000000000
+      internalID: 8242144149862909830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_Helmet
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f77b08a6af3380800000000000000
+      internalID: -8989283090531092296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_Helmet
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd46cd753a738a0800000000000000
+      internalID: -6325407553863492315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_Helmet
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103d69f6eccd48340800000000000000
+      internalID: 4865256276660507393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_Helmet
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 320
+        width: 480
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e6b82778c1e5d10800000000000000
+      internalID: 2116160242978614913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab61b54c14e82540800000000000000
+      internalID: 4983483797764926374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93573fb1fd2efb020800000000000000
+      internalID: 2359854177639953721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca55389202c01220800000000000000
+      internalID: 2454675113316276931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_RA
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506712a8ee2c017b0800000000000000
+      internalID: -5255486435365915131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_Body
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ee028908b124c0800000000000000
+      internalID: -4313964617067993967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_LA
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab61b8e1d73eda90800000000000000
+      internalID: -7287325772347249753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_RA
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90497e622e99b7000800000000000000
+      internalID: 34790618729780233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_Body
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec19a6cbcba02f0800000000000000
+      internalID: -1005784049336070449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_LA
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d250c6c3045bb0800000000000000
+      internalID: -4948325938408271817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_RA
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f70448d7a91f4b20800000000000000
+      internalID: 3120741275469613048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_Body
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e410ee6956c2d620800000000000000
+      internalID: 2797516405965067489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_LA
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b5eda01c5c62d40800000000000000
+      internalID: 5559348222937160487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_RA
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ab70562159ea870800000000000000
+      internalID: 8696051836735961683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_Body
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4f6f2853dd237b0800000000000000
+      internalID: -5245887394032978729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_LA
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d51f4e15393a5b0800000000000000
+      internalID: -5358277151698100868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_RA
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a023b99a886aa190800000000000000
+      internalID: -7950427247675760471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_Body
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa723a518ae4de340800000000000000
+      internalID: 4894654853846083503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_LA
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b8ca9919a465a0800000000000000
+      internalID: -6528907632344254885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_RA
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e5f63ab86e6ff0800000000000000
+      internalID: -40980197604466327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_Body
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0317fdfc5a3452f60800000000000000
+      internalID: 8008881891784487216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_LA
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0437df1f88612d0f0800000000000000
+      internalID: -1093786982066326720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_RA
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5abf9f0f79eb960800000000000000
+      internalID: 7619694680799421895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_Body
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c15155ea89b82b50800000000000000
+      internalID: 6568704062723805641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_LA
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c5479549c061d00800000000000000
+      internalID: 942955003276188679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_RA
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e1f9b4b6ff8500800000000000000
+      internalID: 400810147933448599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_Body
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514cfd03e6d65730800000000000000
+      internalID: 3987610790763708759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_LA
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e134dab8c73ca68e0800000000000000
+      internalID: -1699330969692191970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_RA
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3bd658cc2b16f0800000000000000
+      internalID: -712926877045802348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_Body
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f0c6f0dc989c6a0800000000000000
+      internalID: -6428455479274631402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_LA
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f248bf34558bf4f0800000000000000
+      internalID: -793894312407973130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_RA
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef6394d1e855e720800000000000000
+      internalID: 2874801664103247854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_Body
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf9126ba168ae6a0800000000000000
+      internalID: -6419170869580292173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_LA
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf1b870a2ac6c30800000000000000
+      internalID: 4354033749863824348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_RA
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36112678be5e910800000000000000
+      internalID: 1866156587313357740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_Body
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8f2c32c8849a430800000000000000
+      internalID: 3794643927768955090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_LA
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e05a4150aca9b0800000000000000
+      internalID: -5067499209699040657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_RA
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6efb97bcef28670800000000000000
+      internalID: 8539667993322317504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_Body
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fc836cb93f1b2c0800000000000000
+      internalID: -4417481909102653667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_LA
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605b891018276f420800000000000000
+      internalID: 2663442128039359750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_RA
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b94fba3a40801190800000000000000
+      internalID: -7993748282281080395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_Body
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152502b0979c0e410800000000000000
+      internalID: 1504423797256639057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_LA
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746aac6d84d0d93c0800000000000000
+      internalID: -4351307058477619641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_RA
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11779984ed0315c30800000000000000
+      internalID: 4346308846648129297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_Body
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f25ad08c0d9c5860800000000000000
+      internalID: 7520058154828845814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_LA
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7592599d2cbb05a0800000000000000
+      internalID: -6553937928675748483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_RA
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f4bd35968ffea00800000000000000
+      internalID: 788121591075262278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_Body
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460285ee074f82d00800000000000000
+      internalID: 948276487433756772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_LA
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7073328dc4777d290800000000000000
+      internalID: -7865687052251875577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_RA
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e56cc73284bfaf0800000000000000
+      internalID: -361616027818762730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_Body
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecd11df26568d640800000000000000
+      internalID: 5104941653451463919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_LA
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaae14ae33b79b00800000000000000
+      internalID: 835333337523333859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_RA
+      rect:
+        serializedVersion: 2
+        x: 8240
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094efae792a483ca0800000000000000
+      internalID: -6036993758410578800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_Body
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5027bbcb728100800000000000000
+      internalID: 108785455891242550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_LA
+      rect:
+        serializedVersion: 2
+        x: 8480
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb3f867348260db0800000000000000
+      internalID: -4826125680463889481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_RA
+      rect:
+        serializedVersion: 2
+        x: 8720
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8015d8566638d8bb0800000000000000
+      internalID: -4932141541087162104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_Body
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604dd2dd2f5190020800000000000000
+      internalID: 2308400416841126918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_LA
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1035a90f6b112e690800000000000000
+      internalID: -7574472145865387263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_RA
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c9ee462c1901e80800000000000000
+      internalID: -8209901856593372155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_Body
+      rect:
+        serializedVersion: 2
+        x: 9280
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda3286d881cc280800000000000000
+      internalID: -9021808957913322062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_LA
+      rect:
+        serializedVersion: 2
+        x: 9440
+        y: 160
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e6536082330970800000000000000
+      internalID: 8719868830523253104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9d695cd3027ea70800000000000000
+      internalID: 8856082641927461351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ac9a37df249b420800000000000000
+      internalID: 2646219912391543344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_RH
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7b55c0341d9930800000000000000
+      internalID: 4151496631207559091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_RL
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d093722ba34a00800000000000000
+      internalID: 739622928275002187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_LL
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d98d23b83339ec50800000000000000
+      internalID: 6694938639680244177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_LH
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a23b667cf419bf0800000000000000
+      internalID: -319386380726490473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_RH
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9107898a44571a0800000000000000
+      internalID: -6812463370425329184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_RL
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d63f5306991a96a0800000000000000
+      internalID: -6441808184907712812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_LL
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830b4c40247956b80800000000000000
+      internalID: -8402143219986157512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_LH
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2143a08fc3ddaa0800000000000000
+      internalID: -6134680081388006698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_RH
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eeaa9cc8d991000800000000000000
+      internalID: 7210102422171272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_RL
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae4d057912c37b00800000000000000
+      internalID: 825216571332710056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_LL
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa5030520b87b0f0800000000000000
+      internalID: -1101258741817255253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_LH
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b442dca71607e60800000000000000
+      internalID: 7957967721619278642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_RH
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59de4b55581e0ad0800000000000000
+      internalID: -2734221168884131494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_RL
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eceb2dc7e9339c0800000000000000
+      internalID: -3948638189324939675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_LL
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856e54fbc8acb5b80800000000000000
+      internalID: -8404901573703637416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_LH
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0d02055164ef8c0800000000000000
+      internalID: -3963653564686872386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_RH
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3672504f439e5fbe0800000000000000
+      internalID: -1443991691860826269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_RL
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e699c2fc52aef8be0800000000000000
+      internalID: -1472701105016366738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_LL
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa2e22f38eb61d20800000000000000
+      internalID: 3248993655107496612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_LH
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8ac9875311c020800000000000000
+      internalID: 2360188946413686190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_RH
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf73f82dd4619090800000000000000
+      internalID: -8029525759587287103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_RL
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03544ba95cd6bda0800000000000000
+      internalID: -5929309581703097585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_LL
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f89a8e6e1ee14f0800000000000000
+      internalID: -855998497291661534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_LH
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b729655a21d5cae0800000000000000
+      internalID: -1529586518670628938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_RS
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd3808ac34c88650800000000000000
+      internalID: 6235449448890645963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_RL
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21a3e8167f69e5e0800000000000000
+      internalID: -1879848816436076243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_LL
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb0488803fc243a0800000000000000
+      internalID: -6682551089708659773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_LH
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2faa6d00a69a30800000000000000
+      internalID: 4221737680191302559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_RH
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599727e7cf598f340800000000000000
+      internalID: 4897829506451143061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_RL
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ca25a36c0b4df80800000000000000
+      internalID: -8082641065794687871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_LL
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8a838474e352f90800000000000000
+      internalID: -6979103571665442591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_LH
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fb85ff9b2e8bc80800000000000000
+      internalID: -8306640224204046510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_RH
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c9a41efaa44d10800000000000000
+      internalID: 2108998533761319139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_RL
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f272685bf549af2d0800000000000000
+      internalID: -3244117442778749137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_LL
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1db80a8119ec70800000000000000
+      internalID: 9000744614826417617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_LH
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7ed7adacef6cc80800000000000000
+      internalID: -8302668715808397395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_RH
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b847f1dd489a50800000000000000
+      internalID: 6528053224065774456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_RL
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bfd4ffac1047680800000000000000
+      internalID: -8758373403950449776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_LL
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff7b60f085ec210800000000000000
+      internalID: 1355117359445573381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_LH
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa5f56c30609e8a0800000000000000
+      internalID: -6275477992481269076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_RH
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae6c12ff9261dd0800000000000000
+      internalID: -2515777166079759661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_RL
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86a2c94da4615330800000000000000
+      internalID: 3697847464477501070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_LL
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895cd5cefbf91ae0800000000000000
+      internalID: -1577953122756830839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_LH
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae16e82d76dfdd10800000000000000
+      internalID: 2152674979951812260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_RH
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b099d5ac1e0d440800000000000000
+      internalID: 4958711449004870507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_RL
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5611bea568a0e6120800000000000000
+      internalID: 2408874422857044325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_LL
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12b544c0a109b60800000000000000
+      internalID: 7750723598693376454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_LH
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12692e7cdb352230800000000000000
+      internalID: 3613360094230176284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_RH
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a4de150cb2c570800000000000000
+      internalID: 8485551378097547101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_RL
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251645f2f38e9140800000000000000
+      internalID: 4728361738305934630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_LL
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ef7c24416c0e10800000000000000
+      internalID: 2165212466290616006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_LH
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda95094553080f30800000000000000
+      internalID: 4541883889035352797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_RH
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733bd026574ffd860800000000000000
+      internalID: 7557027484744397623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_RL
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56294810b36c090800000000000000
+      internalID: -8014653609154026040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_LL
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eba8719b4319840800000000000000
+      internalID: 5229018611922419221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_LH
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db4cb7353097e8c0800000000000000
+      internalID: -3970045988261049388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_RH
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cabe375206bcf9d0800000000000000
+      internalID: -2739114352178185529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_RL
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297980f891579b60800000000000000
+      internalID: 7752755000854018339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_LL
+      rect:
+        serializedVersion: 2
+        x: 7442
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807155e09ed5181b0800000000000000
+      internalID: -5656136401451411704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_LH
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4caf14c148f6e930800000000000000
+      internalID: 4172295066152315982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_RH
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9635d66b20621de80800000000000000
+      internalID: -8155695657098849431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_RL
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaffb7cbf1de1fd0800000000000000
+      internalID: -2369225474632058193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_LL
+      rect:
+        serializedVersion: 2
+        x: 7920
+        y: 0
+        width: 80
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8857befde59cd70800000000000000
+      internalID: 9063880040880900292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_LH
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3839f1efcd5b6d0800000000000000
+      internalID: -2975228994798779454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_RH
+      rect:
+        serializedVersion: 2
+        x: 8240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06202c1b83b129300800000000000000
+      internalID: 257298059027939936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_RL
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442be1ee6983742e0800000000000000
+      internalID: -2141680876900142524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_LL
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7cc8bc054ae4130800000000000000
+      internalID: 3552957822961239992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_LH
+      rect:
+        serializedVersion: 2
+        x: 8480
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e2dd5114f19520800000000000000
+      internalID: 2707213206452102331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_RH
+      rect:
+        serializedVersion: 2
+        x: 8720
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4496e7529d37ccc0800000000000000
+      internalID: -3690913670857583539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_RL
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d0383cabcfc3410800000000000000
+      internalID: 1458318258435460492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_LL
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e511b1a750b8f130800000000000000
+      internalID: 3600821792504092134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_LH
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf8045c9ddb66680800000000000000
+      internalID: -8762107281987825742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_RH
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279de1f0955dae90800000000000000
+      internalID: -7012854963723462877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_RL
+      rect:
+        serializedVersion: 2
+        x: 9280
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b6e617bbb07cf0800000000000000
+      internalID: -256498783722490579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_LL
+      rect:
+        serializedVersion: 2
+        x: 9360
+        y: 0
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb475fd14ba37170800000000000000
+      internalID: 8175066048015846388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_LH
+      rect:
+        serializedVersion: 2
+        x: 9440
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801a9fb48bb328700800000000000000
+      internalID: 541060567972552968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b038abf0d72015f10800000000000000
+      internalID: 2256587624447378187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior Armor_Sprites_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d647123459bb0d0800000000000000
+      internalID: -3405964577619022559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_RS
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c71be159d36c1b0800000000000000
+      internalID: -5636750172933227506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recruit_LS
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d7e2c501a097f0800000000000000
+      internalID: -607808903578135902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_HS
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb32c64490ebe0b0800000000000000
+      internalID: -5698213976060314662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footman_LS
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea1af74f9269270800000000000000
+      internalID: 8256833096920444647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_RS
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c73db02899bc1b0800000000000000
+      internalID: -5635241724900836345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squire_LS
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5cd6153dc9e06b0800000000000000
+      internalID: -5328148877714537026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_RS
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851082e1e5816d800800000000000000
+      internalID: 636723189831434584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanguard_LS
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e83318015742f10800000000000000
+      internalID: 2244047228084915837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_RS
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18271326ef38ffd30800000000000000
+      internalID: 4467434483967160961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender_LS
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38849356d5a01f920800000000000000
+      internalID: 3022208221188802691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_RS
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db62a1d571a29de0800000000000000
+      internalID: -1327821412720546862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironGuard_LS
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ad1c5232be55470800000000000000
+      internalID: 8382864817609890332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_RH
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b7bcd6e6512f70800000000000000
+      internalID: 9160698666593794213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_LS
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c08d096fa1b43950800000000000000
+      internalID: 6427957935104426176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_RS
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d998e677a9c632d0800000000000000
+      internalID: -3299227955910633000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: templar_LS
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0f0a8e5f75c4210800000000000000
+      internalID: 1318525504594178251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_RS
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ec32f45561f960800000000000000
+      internalID: 7633994258885437231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentinel_LS
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c70ab480b8800e0800000000000000
+      internalID: -2303438341655200728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_RS
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef360cf9cb35e1a60800000000000000
+      internalID: 7646641286920823806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_LS
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e791211450be22c90800000000000000
+      internalID: -7195930846785562242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_RS
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332712a1ca88c0090800000000000000
+      internalID: -8066922559773248973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_LS
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4201e721d4783cf50800000000000000
+      internalID: 6900507819154214948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_R
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03b39568f102cc0800000000000000
+      internalID: -3737953028834381613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champion_LS
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce7b884ae5a8220800000000000000
+      internalID: 2488905804837022801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_RS
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1632bdce5367b0800000000000000
+      internalID: -5232234104523186915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juggernaut_LS
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56152e757aa602060800000000000000
+      internalID: 6926653493862355301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_RS
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03006e0289fb08640800000000000000
+      internalID: 5080271039781797936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dreadnought_LS
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc71eef5c2b2300800000000000000
+      internalID: 228324996640394360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_RS
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af69bdbbef2c9c890800000000000000
+      internalID: -7437198910296451334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warmaster_LS
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582abc79378eaf310800000000000000
+      internalID: 1439718614063882885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_RS
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f476b56b8201f00800000000000000
+      internalID: 1085412273878945690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colossus_LS
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9269e6a2dcd824a40800000000000000
+      internalID: 5350995219589273129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_LS
+      rect:
+        serializedVersion: 2
+        x: 8240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d5e52045e8f8860800000000000000
+      internalID: 7534397193082264835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mythicGuardian_L
+      rect:
+        serializedVersion: 2
+        x: 8480
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3840afeb44d704970800000000000000
+      internalID: 8737121011314066563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_RS
+      rect:
+        serializedVersion: 2
+        x: 8720
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e72ce694981390800000000000000
+      internalID: -7847358974765045723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldbreaker_LS
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0a19e0655a46720800000000000000
+      internalID: 2838575454180450509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_RS
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0736249de417d6b0800000000000000
+      internalID: -5271721828188539125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eternalWarlord_LS
+      rect:
+        serializedVersion: 2
+        x: 9440
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e12ac76780bad90800000000000000
+      internalID: -7085560283747180908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cc65d5a8a5b52c4c9317c261477f9d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Warrior Armor_Sprites_0: -7387899423386950360
+      Warrior Armor_Sprites_162: 2256587624447378187
+      Warrior Armor_Sprites_163: -3405964577619022559
+      Warrior Armor_Sprites_20: 4983483797764926374
+      Warrior Armor_Sprites_202: 1176429110
+      Warrior Armor_Sprites_21: 2359854177639953721
+      Warrior Armor_Sprites_22: 2454675113316276931
+      Warrior Armor_Sprites_80: -1472253010810862224
+      Warrior Armor_Sprites_81: -1262338930838583101
+      Warrior Armor_Sprites_82: -2911587760995434780
+      Warrior Armor_Sprites_83: 8899287301183354460
+      Warrior Armor_Sprites_84: 8856082641927461351
+      Warrior Armor_Sprites_85: 2646219912391543344
+      champion_Body: -4417481909102653667
+      champion_Helmet: 6160541221173398817
+      champion_LA: 2663442128039359750
+      champion_LH: 3613360094230176284
+      champion_LL: 7750723598693376454
+      champion_LS: 2488905804837022801
+      champion_R: -3737953028834381613
+      champion_RA: 8539667993322317504
+      champion_RH: 4958711449004870507
+      champion_RL: 2408874422857044325
+      colossus_Body: 5104941653451463919
+      colossus_Helmet: -8989283090531092296
+      colossus_LA: 835333337523333859
+      colossus_LH: -2975228994798779454
+      colossus_LL: 9063880040880900292
+      colossus_LS: 5350995219589273129
+      colossus_RA: -361616027818762730
+      colossus_RH: -8155695657098849431
+      colossus_RL: -2369225474632058193
+      colossus_RS: 1085412273878945690
+      crusader_Body: -6419170869580292173
+      crusader_Helmet: -2569493341355229856
+      crusader_LA: 4354033749863824348
+      crusader_LH: -6275477992481269076
+      crusader_LL: 1355117359445573381
+      crusader_LS: -7195930846785562242
+      crusader_RA: 2874801664103247854
+      crusader_RH: 6528053224065774456
+      crusader_RL: -8758373403950449776
+      crusader_RS: 7646641286920823806
+      defender_Body: 4894654853846083503
+      defender_Helmet: -8443208202243373575
+      defender_LA: -6528907632344254885
+      defender_LH: 2360188946413686190
+      defender_LL: 3248993655107496612
+      defender_LS: 3022208221188802691
+      defender_RA: -7950427247675760471
+      defender_RH: -1443991691860826269
+      defender_RL: -1472701105016366738
+      defender_RS: 4467434483967160961
+      dreadnought_Body: 7520058154828845814
+      dreadnought_Helmet: 8291271540608262422
+      dreadnought_LA: -6553937928675748483
+      dreadnought_LH: -3970045988261049388
+      dreadnought_LL: 5229018611922419221
+      dreadnought_LS: 228324996640394360
+      dreadnought_RA: 4346308846648129297
+      dreadnought_RH: 7557027484744397623
+      dreadnought_RL: -8014653609154026040
+      dreadnought_RS: 5080271039781797936
+      eternalWarlord_Body: -9021808957913322062
+      eternalWarlord_Helmet: 2116160242978614913
+      eternalWarlord_LA: 8719868830523253104
+      eternalWarlord_LH: 541060567972552968
+      eternalWarlord_LL: 8175066048015846388
+      eternalWarlord_LS: -7085560283747180908
+      eternalWarlord_RA: -8209901856593372155
+      eternalWarlord_RH: -7012854963723462877
+      eternalWarlord_RL: -256498783722490579
+      eternalWarlord_RS: -5271721828188539125
+      footman_Body: -1005784049336070449
+      footman_HS: -5698213976060314662
+      footman_Helmet: -5469898357807631494
+      footman_LA: -4948325938408271817
+      footman_LH: -6134680081388006698
+      footman_LL: -8402143219986157512
+      footman_LS: 8256833096920444647
+      footman_RA: 34790618729780233
+      footman_RH: -6812463370425329184
+      footman_RL: -6441808184907712812
+      ironGuard_Body: 8008881891784487216
+      ironGuard_Helmet: 4074100181967721807
+      ironGuard_LA: -1093786982066326720
+      ironGuard_LH: -1529586518670628938
+      ironGuard_LL: -855998497291661534
+      ironGuard_LS: 8382864817609890332
+      ironGuard_RA: -40980197604466327
+      ironGuard_RH: -8029525759587287103
+      ironGuard_RL: -5929309581703097585
+      ironGuard_RS: -1327821412720546862
+      juggernaut_Body: 1504423797256639057
+      juggernaut_Helmet: -8153220271510515687
+      juggernaut_LA: -4351307058477619641
+      juggernaut_LH: 4541883889035352797
+      juggernaut_LL: 2165212466290616006
+      juggernaut_LS: 6926653493862355301
+      juggernaut_RA: -7993748282281080395
+      juggernaut_RH: 8485551378097547101
+      juggernaut_RL: 4728361738305934630
+      juggernaut_RS: -5232234104523186915
+      knight_Body: 6568704062723805641
+      knight_Helmet: 3772653574601582568
+      knight_LA: 942955003276188679
+      knight_LH: 4221737680191302559
+      knight_LL: -6682551089708659773
+      knight_LS: 6427957935104426176
+      knight_RA: 7619694680799421895
+      knight_RH: 9160698666593794213
+      knight_RL: -1879848816436076243
+      knight_RS: 6235449448890645963
+      mythicGuardian_Body: 108785455891242550
+      mythicGuardian_Helmet: -6325407553863492315
+      mythicGuardian_L: 8737121011314066563
+      mythicGuardian_LA: -4826125680463889481
+      mythicGuardian_LH: 2707213206452102331
+      mythicGuardian_LL: 3552957822961239992
+      mythicGuardian_LS: 7534397193082264835
+      mythicGuardian_RA: -6036993758410578800
+      mythicGuardian_RH: 257298059027939936
+      mythicGuardian_RL: -2141680876900142524
+      recruit_Body: -4313964617067993967
+      recruit_Helmet: 7538485697910286898
+      recruit_LA: -7287325772347249753
+      recruit_LH: -319386380726490473
+      recruit_LL: 6694938639680244177
+      recruit_LS: -607808903578135902
+      recruit_RA: -5255486435365915131
+      recruit_RH: 4151496631207559091
+      recruit_RL: 739622928275002187
+      recruit_RS: -5636750172933227506
+      sentinel_Body: -6428455479274631402
+      sentinel_Helmet: -7246501968612936815
+      sentinel_LA: -793894312407973130
+      sentinel_LH: -8302668715808397395
+      sentinel_LL: 9000744614826417617
+      sentinel_LS: -2303438341655200728
+      sentinel_RA: -712926877045802348
+      sentinel_RH: 2108998533761319139
+      sentinel_RL: -3244117442778749137
+      sentinel_RS: 7633994258885437231
+      squire_Body: 2797516405965067489
+      squire_Helmet: 8905127952674968865
+      squire_LA: 5559348222937160487
+      squire_LH: 7957967721619278642
+      squire_LL: -1101258741817255253
+      squire_LS: -5328148877714537026
+      squire_RA: 3120741275469613048
+      squire_RH: 7210102422171272
+      squire_RL: 825216571332710056
+      squire_RS: -5635241724900836345
+      templar_Body: 3987610790763708759
+      templar_Helmet: -52032802255398792
+      templar_LA: -1699330969692191970
+      templar_LH: -8306640224204046510
+      templar_LL: -6979103571665442591
+      templar_LS: 1318525504594178251
+      templar_RA: 400810147933448599
+      templar_RH: 4897829506451143061
+      templar_RL: -8082641065794687871
+      templar_RS: -3299227955910633000
+      vanguard_Body: -5245887394032978729
+      vanguard_Helmet: 8202049838934133744
+      vanguard_LA: -5358277151698100868
+      vanguard_LH: -3963653564686872386
+      vanguard_LL: -8404901573703637416
+      vanguard_LS: 2244047228084915837
+      vanguard_RA: 8696051836735961683
+      vanguard_RH: -2734221168884131494
+      vanguard_RL: -3948638189324939675
+      vanguard_RS: 636723189831434584
+      warlord_Body: 3794643927768955090
+      warlord_Helmet: -5478184258107926559
+      warlord_LA: -5067499209699040657
+      warlord_LH: 2152674979951812260
+      warlord_LL: -1577953122756830839
+      warlord_LS: 6900507819154214948
+      warlord_RA: 1866156587313357740
+      warlord_RH: -2515777166079759661
+      warlord_RL: 3697847464477501070
+      warlord_RS: -8066922559773248973
+      warmaster_Body: 948276487433756772
+      warmaster_Helmet: 8242144149862909830
+      warmaster_LA: -7865687052251875577
+      warmaster_LH: 4172295066152315982
+      warmaster_LL: -5656136401451411704
+      warmaster_LS: 1439718614063882885
+      warmaster_RA: 788121591075262278
+      warmaster_RH: -2739114352178185529
+      warmaster_RL: 7752755000854018339
+      warmaster_RS: -7437198910296451334
+      worldbreaker_Body: 2308400416841126918
+      worldbreaker_Helmet: 4865256276660507393
+      worldbreaker_LA: -7574472145865387263
+      worldbreaker_LH: -8762107281987825742
+      worldbreaker_LL: 3600821792504092134
+      worldbreaker_LS: 2838575454180450509
+      worldbreaker_RA: -4932141541087162104
+      worldbreaker_RH: -3690913670857583539
+      worldbreaker_RL: 1458318258435460492
+      worldbreaker_RS: -7847358974765045723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: worldweaverArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 90abd753-9317-41aa-a6a6-9f4df73e650e
+  nameLabel: worldweaverArmorName
+  descriptionLabel: worldweaverArmorDescription
+  flavorLabel: worldweaverArmorFlavor
+  level: 0
+  rarity: 4
+  deletable: 1
+  attributes:
+  - status: 0
+    value: 0
+  - status: 1
+    value: 0
+  - status: 2
+    value: 13
+  - status: 3
+    value: 0
+  - status: 4
+    value: 46
+  - status: 5
+    value: 0
+  inventoryIcon: {fileID: -7442533807490528797, guid: 10954bf94a794474b8ccdafd344d51d4, type: 3}
+  itemType: 3
+  cost:
+    coinCost: 14400
+    gemCost: 177
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 02000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: 1768092249, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1063669504, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: -1079557387, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 1421743022, guid: dd8edb28093fb83458611031f699879c, type: 3}
+    - {fileID: 1241203281, guid: dd8edb28093fb83458611031f699879c, type: 3}

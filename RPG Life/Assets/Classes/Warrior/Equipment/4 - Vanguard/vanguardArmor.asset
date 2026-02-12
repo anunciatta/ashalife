@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a32281f2bd10c428a868a172aa5901, type: 3}
+  m_Name: vanguardArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorSO
+  saveableEntityId: 01e72ef7-d433-4acb-b29c-3a9b2b80c0f5
+  nameLabel: vanguardArmorName
+  descriptionLabel: vanguardArmorDescription
+  flavorLabel: vanguardArmorFlavor
+  level: 0
+  rarity: 0
+  deletable: 0
+  attributes: []
+  inventoryIcon: {fileID: 0}
+  itemType: 0
+  cost:
+    coinCost: 0
+    gemCost: 0
+  isEquipped: 0
+  quantity: 0
+  relatedClasses: 01000000
+  purchased: 0
+  armorSprites:
+    sprites:
+    - {fileID: -5245887394032978729, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -5358277151698100868, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 8696051836735961683, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 2244047228084915837, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: 636723189831434584, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -3963653564686872386, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -2734221168884131494, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -8404901573703637416, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
+    - {fileID: -3948638189324939675, guid: 5f2cf08492bfb5b4caae9f955e81adcd, type: 3}
